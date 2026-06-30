@@ -1,4 +1,4 @@
-onset	duration	trial_type	value	sample	sample_corrected	token	stimulus_index	stimulus_type	stim_file
+onset	duration	trial_type	value	sample	sample_corrected	token	stimulus_index	stimulus_type	audio
 12.3433	10	stimulus_start	1	123433	123441	0.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0000.hdf5
 22.3234	10	stimulus_end	2	223234	223242				
 22.4554	10	stimulus_start	1	224554	224562	0.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0000.hdf5
