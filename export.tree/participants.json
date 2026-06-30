@@ -1,0 +1,29 @@
+{
+    "participant_id": {
+        "Description": "Participant"
+    },
+    "age": {
+        "Description": "Age",
+        "Units": "years"
+    },
+    "race": {
+        "Description": "Gender"
+    },
+    "gender": {
+        "Description": "Race"
+    },
+    "ethnicity": {
+        "Description": "Ethnicity"
+    },
+    "pta_left": {
+        "Description": "average of 250-8000 Hz hearing thresholds in the left ear",
+        "Units": "dB HL"
+    },
+    "pta_right": {
+        "Description": "average of 250-8000 Hz hearing thresholds in the right ear",
+        "Units": "dB HL"
+    },
+    "Notes": {
+        "Description": "Notes about participants"
+    }
+}

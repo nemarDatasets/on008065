@@ -1,0 +1,37 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event in seconds from onset. Must be zero, positive, or 'n/a' if unavailable. A zero value indicates an impulse event. ",
+        "Units": "s"
+    },
+    "sample": {
+        "Description": "The event onset time in number of sampling points.First sample is 0."
+    },
+    "value": {
+        "Description": "The event code (also known as trigger code or event ID) associated with the event."
+    },
+    "trial_type": {
+        "Description": "The type, category, or name of the event."
+    },
+    "sample_corrected": {
+        "Description": "The sample corrected for earphone tubing delay"
+    },
+    "token": {
+        "Description": "The file number played"
+    },
+    "stimulus_index": {
+        "Description": "The stimulus code associated with the event"
+    },
+    "stimulus_type": {
+        "Description": "The stimulus played during the event"
+    },
+    "stim_file": {
+        "Description": "The stimulus file played during the event."
+    },
+    "audio": {
+        "Description": "The stimulus file played during the event."
+    }
+}
