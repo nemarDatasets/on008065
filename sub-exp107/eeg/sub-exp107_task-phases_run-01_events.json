@@ -30,5 +30,8 @@
     },
     "stim_file": {
         "Description": "The stimulus file played during the event."
+    },
+    "audio": {
+        "Description": "The stimulus file played during the event."
     }
 }
