@@ -1,0 +1,1441 @@
+onset	duration	trial_type	value	sample	sample_corrected	token	stimulus_index	stimulus_type	audio
+7.1147	10	stimulus_start	1	71147	71155	1.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0001.hdf5
+17.0948	10	stimulus_end	2	170948	170956				
+17.2055	10	stimulus_start	1	172055	172063	2.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0002.hdf5
+27.1856	10	stimulus_end	2	271856	271864				
+27.2749	10	stimulus_start	1	272749	272757	3.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0003.hdf5
+37.255	10	stimulus_end	2	372550	372558				
+37.3443	10	stimulus_start	1	373443	373451	4.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0004.hdf5
+47.3244	10	stimulus_end	2	473244	473252				
+47.4138	10	stimulus_start	1	474138	474146	5.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0005.hdf5
+57.3939	10	stimulus_end	2	573939	573947				
+57.4832	10	stimulus_start	1	574832	574840	6.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0006.hdf5
+67.4633	10	stimulus_end	2	674633	674641				
+67.5526	10	stimulus_start	1	675526	675534	7.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0007.hdf5
+77.5327	10	stimulus_end	2	775327	775335				
+77.622	10	stimulus_start	1	776220	776228	8.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0008.hdf5
+87.6021	10	stimulus_end	2	876021	876029				
+87.6915	10	stimulus_start	1	876915	876923	9.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0009.hdf5
+97.6716	10	stimulus_end	2	976716	976724				
+97.7396	10	stimulus_start	1	977396	977404	10.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0010.hdf5
+107.7197	10	stimulus_end	2	1077197	1077205				
+107.8303	10	stimulus_start	1	1078303	1078311	11.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0011.hdf5
+117.8104	10	stimulus_end	2	1178104	1178112				
+117.8998	10	stimulus_start	1	1178998	1179006	12.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0012.hdf5
+127.8798	10	stimulus_end	2	1278798	1278806				
+127.9692	10	stimulus_start	1	1279692	1279700	13.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0013.hdf5
+137.9493	10	stimulus_end	2	1379493	1379501				
+138.0599	10	stimulus_start	1	1380599	1380607	14.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0014.hdf5
+148.04	10	stimulus_end	2	1480400	1480408				
+148.108	10	stimulus_start	1	1481080	1481088	15.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0015.hdf5
+158.0881	10	stimulus_end	2	1580881	1580889				
+158.1988	10	stimulus_start	1	1581988	1581996	16.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0016.hdf5
+168.1789	10	stimulus_end	2	1681789	1681797				
+168.2682	10	stimulus_start	1	1682682	1682690	17.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0017.hdf5
+178.2483	10	stimulus_end	2	1782483	1782491				
+178.359	10	stimulus_start	1	1783590	1783598	18.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0018.hdf5
+188.3391	10	stimulus_end	2	1883391	1883399				
+188.4284	10	stimulus_start	1	1884284	1884292	19.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0019.hdf5
+198.4085	10	stimulus_end	2	1984085	1984093				
+198.4978	10	stimulus_start	1	1984978	1984986	20.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0020.hdf5
+208.4779	10	stimulus_end	2	2084779	2084787				
+208.5673	10	stimulus_start	1	2085673	2085681	21.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0021.hdf5
+218.5474	10	stimulus_end	2	2185474	2185482				
+218.658	10	stimulus_start	1	2186580	2186588	22.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0022.hdf5
+228.6381	10	stimulus_end	2	2286381	2286389				
+228.7275	10	stimulus_start	1	2287275	2287283	23.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0023.hdf5
+238.7076	10	stimulus_end	2	2387076	2387084				
+238.7969	10	stimulus_start	1	2387969	2387977	24.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0024.hdf5
+248.777	10	stimulus_end	2	2487770	2487778				
+248.8876	10	stimulus_start	1	2488876	2488884	25.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0025.hdf5
+258.8677	10	stimulus_end	2	2588677	2588685				
+258.9571	10	stimulus_start	1	2589571	2589579	26.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0026.hdf5
+268.9372	10	stimulus_end	2	2689372	2689380				
+269.0265	10	stimulus_start	1	2690265	2690273	27.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0027.hdf5
+279.0066	10	stimulus_end	2	2790066	2790074				
+279.0959	10	stimulus_start	1	2790959	2790967	28.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0028.hdf5
+289.076	10	stimulus_end	2	2890760	2890768				
+289.1654	10	stimulus_start	1	2891654	2891662	29.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0029.hdf5
+299.1454	10	stimulus_end	2	2991454	2991462				
+299.2348	10	stimulus_start	1	2992348	2992356	30.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0030.hdf5
+309.2149	10	stimulus_end	2	3092149	3092157				
+309.3255	10	stimulus_start	1	3093255	3093263	31.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0031.hdf5
+319.3056	10	stimulus_end	2	3193056	3193064				
+319.395	10	stimulus_start	1	3193950	3193958	32.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0032.hdf5
+329.3751	10	stimulus_end	2	3293751	3293759				
+329.4431	10	stimulus_start	1	3294431	3294439	33.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0033.hdf5
+339.4232	10	stimulus_end	2	3394232	3394240				
+339.5125	10	stimulus_start	1	3395125	3395133	34.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0034.hdf5
+349.4926	10	stimulus_end	2	3494926	3494934				
+349.6033	10	stimulus_start	1	3496033	3496041	35.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0035.hdf5
+359.5833	10	stimulus_end	2	3595833	3595841				
+359.694	10	stimulus_start	1	3596940	3596948	36.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0036.hdf5
+369.6741	10	stimulus_end	2	3696741	3696749				
+369.7634	10	stimulus_start	1	3697634	3697642	37.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0037.hdf5
+379.7435	10	stimulus_end	2	3797435	3797443				
+379.8542	10	stimulus_start	1	3798542	3798550	38.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0038.hdf5
+389.8343	10	stimulus_end	2	3898343	3898351				
+389.9236	10	stimulus_start	1	3899236	3899244	39.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0039.hdf5
+399.9037	10	stimulus_end	2	3999037	3999045				
+400.0144	10	stimulus_start	1	4000144	4000152	40.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0040.hdf5
+409.9945	10	stimulus_end	2	4099945	4099953				
+410.0625	10	stimulus_start	1	4100625	4100633	41.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0041.hdf5
+420.0426	10	stimulus_end	2	4200426	4200434				
+420.1319	10	stimulus_start	1	4201319	4201327	42.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0042.hdf5
+430.112	10	stimulus_end	2	4301120	4301128				
+430.2013	10	stimulus_start	1	4302013	4302021	43.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0043.hdf5
+440.1814	10	stimulus_end	2	4401814	4401822				
+440.2921	10	stimulus_start	1	4402921	4402929	44.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0044.hdf5
+450.2722	10	stimulus_end	2	4502722	4502730				
+450.3615	10	stimulus_start	1	4503615	4503623	45.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0045.hdf5
+460.3416	10	stimulus_end	2	4603416	4603424				
+460.431	10	stimulus_start	1	4604310	4604318	46.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0046.hdf5
+470.411	10	stimulus_end	2	4704110	4704118				
+470.5217	10	stimulus_start	1	4705217	4705225	47.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0047.hdf5
+480.5018	10	stimulus_end	2	4805018	4805026				
+480.5911	10	stimulus_start	1	4805911	4805919	48.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0048.hdf5
+490.5712	10	stimulus_end	2	4905712	4905720				
+490.6606	10	stimulus_start	1	4906606	4906614	49.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0049.hdf5
+500.6407	10	stimulus_end	2	5006407	5006415				
+500.73	10	stimulus_start	1	5007300	5007308	50.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0050.hdf5
+510.7101	10	stimulus_end	2	5107101	5107109				
+510.7994	10	stimulus_start	1	5107994	5108002	51.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0051.hdf5
+520.7795	10	stimulus_end	2	5207795	5207803				
+520.8475	10	stimulus_start	1	5208475	5208483	52.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0052.hdf5
+530.8276	10	stimulus_end	2	5308276	5308284				
+530.9169	10	stimulus_start	1	5309169	5309177	53.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0053.hdf5
+540.897	10	stimulus_end	2	5408970	5408978				
+540.9864	10	stimulus_start	1	5409864	5409872	54.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0054.hdf5
+550.9665	10	stimulus_end	2	5509665	5509673				
+551.0558	10	stimulus_start	1	5510558	5510566	55.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0055.hdf5
+561.0359	10	stimulus_end	2	5610359	5610367				
+561.1466	10	stimulus_start	1	5611466	5611474	56.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0056.hdf5
+571.1267	10	stimulus_end	2	5711267	5711275				
+571.216	10	stimulus_start	1	5712160	5712168	57.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0057.hdf5
+581.1961	10	stimulus_end	2	5811961	5811969				
+581.2854	10	stimulus_start	1	5812854	5812862	58.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0058.hdf5
+591.2655	10	stimulus_end	2	5912655	5912663				
+591.3548	10	stimulus_start	1	5913548	5913556	59.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0059.hdf5
+601.3349	10	stimulus_end	2	6013349	6013357				
+601.4243	10	stimulus_start	1	6014243	6014251	60.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0060.hdf5
+611.4044	10	stimulus_end	2	6114044	6114052				
+611.4937	10	stimulus_start	1	6114937	6114945	61.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0061.hdf5
+621.4738	10	stimulus_end	2	6214738	6214746				
+621.5631	10	stimulus_start	1	6215631	6215639	62.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0062.hdf5
+631.5432	10	stimulus_end	2	6315432	6315440				
+631.6326	10	stimulus_start	1	6316326	6316334	63.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0063.hdf5
+641.6126	10	stimulus_end	2	6416126	6416134				
+641.702	10	stimulus_start	1	6417020	6417028	64.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0064.hdf5
+651.6821	10	stimulus_end	2	6516821	6516829				
+651.7501	10	stimulus_start	1	6517501	6517509	65.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0065.hdf5
+661.7302	10	stimulus_end	2	6617302	6617310				
+661.8195	10	stimulus_start	1	6618195	6618203	66.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0066.hdf5
+671.7996	10	stimulus_end	2	6717996	6718004				
+671.8889	10	stimulus_start	1	6718889	6718897	67.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0067.hdf5
+681.869	10	stimulus_end	2	6818690	6818698				
+681.9797	10	stimulus_start	1	6819797	6819805	68.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0068.hdf5
+691.9598	10	stimulus_end	2	6919598	6919606				
+692.0491	10	stimulus_start	1	6920491	6920499	69.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0069.hdf5
+702.0292	10	stimulus_end	2	7020292	7020300				
+702.1185	10	stimulus_start	1	7021185	7021193	70.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0070.hdf5
+712.0986	10	stimulus_end	2	7120986	7120994				
+712.1666	10	stimulus_start	1	7121666	7121674	71.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0071.hdf5
+722.1467	10	stimulus_end	2	7221467	7221475				
+722.2361	10	stimulus_start	1	7222361	7222369	72.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0072.hdf5
+732.2162	10	stimulus_end	2	7322162	7322170				
+732.3055	10	stimulus_start	1	7323055	7323063	73.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0073.hdf5
+742.2856	10	stimulus_end	2	7422856	7422864				
+742.3749	10	stimulus_start	1	7423749	7423757	74.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0074.hdf5
+752.355	10	stimulus_end	2	7523550	7523558				
+752.4443	10	stimulus_start	1	7524443	7524451	75.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0075.hdf5
+762.4244	10	stimulus_end	2	7624244	7624252				
+762.5138	10	stimulus_start	1	7625138	7625146	76.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0076.hdf5
+772.4939	10	stimulus_end	2	7724939	7724947				
+772.5832	10	stimulus_start	1	7725832	7725840	77.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0077.hdf5
+782.5633	10	stimulus_end	2	7825633	7825641				
+782.6526	10	stimulus_start	1	7826526	7826534	78.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0078.hdf5
+792.6327	10	stimulus_end	2	7926327	7926335				
+792.7221	10	stimulus_start	1	7927221	7927229	79.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0079.hdf5
+802.7021	10	stimulus_end	2	8027021	8027029				
+802.7915	10	stimulus_start	1	8027915	8027923	80.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0080.hdf5
+812.7716	10	stimulus_end	2	8127716	8127724				
+812.8609	10	stimulus_start	1	8128609	8128617	81.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0081.hdf5
+822.841	10	stimulus_end	2	8228410	8228418				
+822.9517	10	stimulus_start	1	8229517	8229525	82.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0082.hdf5
+832.9318	10	stimulus_end	2	8329318	8329326				
+833.0211	10	stimulus_start	1	8330211	8330219	83.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0083.hdf5
+843.0012	10	stimulus_end	2	8430012	8430020				
+843.0905	10	stimulus_start	1	8430905	8430913	84.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0084.hdf5
+853.0706	10	stimulus_end	2	8530706	8530714				
+853.1599	10	stimulus_start	1	8531599	8531607	85.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0085.hdf5
+863.14	10	stimulus_end	2	8631400	8631408				
+863.2294	10	stimulus_start	1	8632294	8632302	86.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0086.hdf5
+873.2095	10	stimulus_end	2	8732095	8732103				
+873.2988	10	stimulus_start	1	8732988	8732996	87.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0087.hdf5
+883.2789	10	stimulus_end	2	8832789	8832797				
+883.3682	10	stimulus_start	1	8833682	8833690	88.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0088.hdf5
+893.3483	10	stimulus_end	2	8933483	8933491				
+893.4377	10	stimulus_start	1	8934377	8934385	89.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0089.hdf5
+903.4177	10	stimulus_end	2	9034177	9034185				
+903.4857	10	stimulus_start	1	9034857	9034865	90.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0090.hdf5
+913.4658	10	stimulus_end	2	9134658	9134666				
+913.5552	10	stimulus_start	1	9135552	9135560	91.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0091.hdf5
+923.5353	10	stimulus_end	2	9235353	9235361				
+923.6459	10	stimulus_start	1	9236459	9236467	92.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0092.hdf5
+933.626	10	stimulus_end	2	9336260	9336268				
+933.7154	10	stimulus_start	1	9337154	9337162	93.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0093.hdf5
+943.6955	10	stimulus_end	2	9436955	9436963				
+943.8061	10	stimulus_start	1	9438061	9438069	94.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0094.hdf5
+953.7862	10	stimulus_end	2	9537862	9537870				
+953.8755	10	stimulus_start	1	9538755	9538763	95.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0095.hdf5
+963.8556	10	stimulus_end	2	9638556	9638564				
+963.945	10	stimulus_start	1	9639450	9639458	96.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0096.hdf5
+973.9251	10	stimulus_end	2	9739251	9739259				
+974.0144	10	stimulus_start	1	9740144	9740152	97.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0097.hdf5
+983.9945	10	stimulus_end	2	9839945	9839953				
+984.1052	10	stimulus_start	1	9841052	9841060	98.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0098.hdf5
+994.0853	10	stimulus_end	2	9940853	9940861				
+994.1746	10	stimulus_start	1	9941746	9941754	99.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0099.hdf5
+1004.1547	10	stimulus_end	2	10041547	10041555				
+1004.2654	10	stimulus_start	1	10042654	10042662	100.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0100.hdf5
+1014.2454	10	stimulus_end	2	10142454	10142462				
+1014.3348	10	stimulus_start	1	10143348	10143356	101.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0101.hdf5
+1024.3149	10	stimulus_end	2	10243149	10243157				
+1024.4042	10	stimulus_start	1	10244042	10244050	102.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0102.hdf5
+1034.3843	10	stimulus_end	2	10343843	10343851				
+1034.4736	10	stimulus_start	1	10344736	10344744	103.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0103.hdf5
+1044.4537	10	stimulus_end	2	10444537	10444545				
+1044.5217	10	stimulus_start	1	10445217	10445225	104.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0104.hdf5
+1054.5018	10	stimulus_end	2	10545018	10545026				
+1054.5912	10	stimulus_start	1	10545912	10545920	105.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0105.hdf5
+1064.5712	10	stimulus_end	2	10645712	10645720				
+1064.6606	10	stimulus_start	1	10646606	10646614	106.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0106.hdf5
+1074.6407	10	stimulus_end	2	10746407	10746415				
+1074.73	10	stimulus_start	1	10747300	10747308	107.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0107.hdf5
+1084.7101	10	stimulus_end	2	10847101	10847109				
+1084.7994	10	stimulus_start	1	10847994	10848002	108.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0108.hdf5
+1094.7795	10	stimulus_end	2	10947795	10947803				
+1094.8689	10	stimulus_start	1	10948689	10948697	109.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0109.hdf5
+1104.849	10	stimulus_end	2	11048490	11048498				
+1104.9383	10	stimulus_start	1	11049383	11049391	110.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0110.hdf5
+1114.9184	10	stimulus_end	2	11149184	11149192				
+1115.0077	10	stimulus_start	1	11150077	11150085	111.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0111.hdf5
+1124.9878	10	stimulus_end	2	11249878	11249886				
+1125.0771	10	stimulus_start	1	11250771	11250779	112.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0112.hdf5
+1135.0572	10	stimulus_end	2	11350572	11350580				
+1135.1466	10	stimulus_start	1	11351466	11351474	113.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0113.hdf5
+1145.1267	10	stimulus_end	2	11451267	11451275				
+1145.216	10	stimulus_start	1	11452160	11452168	114.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0114.hdf5
+1155.1961	10	stimulus_end	2	11551961	11551969				
+1155.2854	10	stimulus_start	1	11552854	11552862	115.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0115.hdf5
+1165.2655	10	stimulus_end	2	11652655	11652663				
+1165.3548	10	stimulus_start	1	11653548	11653556	116.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0116.hdf5
+1175.3349	10	stimulus_end	2	11753349	11753357				
+1175.4243	10	stimulus_start	1	11754243	11754251	117.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0117.hdf5
+1185.4044	10	stimulus_end	2	11854044	11854052				
+1185.4937	10	stimulus_start	1	11854937	11854945	118.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0118.hdf5
+1195.4738	10	stimulus_end	2	11954738	11954746				
+1195.5631	10	stimulus_start	1	11955631	11955639	119.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0119.hdf5
+1205.5432	10	stimulus_end	2	12055432	12055440				
+1205.6539	10	stimulus_start	1	12056539	12056547	120.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0120.hdf5
+1215.634	10	stimulus_end	2	12156340	12156348				
+1215.7233	10	stimulus_start	1	12157233	12157241	121.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0121.hdf5
+1225.7034	10	stimulus_end	2	12257034	12257042				
+1225.7927	10	stimulus_start	1	12257927	12257935	122.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0122.hdf5
+1235.7728	10	stimulus_end	2	12357728	12357736				
+1235.8622	10	stimulus_start	1	12358622	12358630	123.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0123.hdf5
+1245.8423	10	stimulus_end	2	12458423	12458431				
+1245.9316	10	stimulus_start	1	12459316	12459324	124.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0124.hdf5
+1255.9117	10	stimulus_end	2	12559117	12559125				
+1256.001	10	stimulus_start	1	12560010	12560018	125.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0125.hdf5
+1265.9811	10	stimulus_end	2	12659811	12659819				
+1266.0704	10	stimulus_start	1	12660704	12660712	126.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0126.hdf5
+1276.0505	10	stimulus_end	2	12760505	12760513				
+1276.1612	10	stimulus_start	1	12761612	12761620	127.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0127.hdf5
+1286.1413	10	stimulus_end	2	12861413	12861421				
+1286.2093	10	stimulus_start	1	12862093	12862101	128.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0128.hdf5
+1296.1894	10	stimulus_end	2	12961894	12961902				
+1296.2787	10	stimulus_start	1	12962787	12962795	129.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0129.hdf5
+1306.2588	10	stimulus_end	2	13062588	13062596				
+1306.3482	10	stimulus_start	1	13063482	13063490	130.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0130.hdf5
+1316.3282	10	stimulus_end	2	13163282	13163290				
+1316.4389	10	stimulus_start	1	13164389	13164397	131.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0131.hdf5
+1326.419	10	stimulus_end	2	13264190	13264198				
+1326.5083	10	stimulus_start	1	13265083	13265091	132.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0132.hdf5
+1336.4884	10	stimulus_end	2	13364884	13364892				
+1336.5778	10	stimulus_start	1	13365778	13365786	133.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0133.hdf5
+1346.5579	10	stimulus_end	2	13465579	13465587				
+1346.6259	10	stimulus_start	1	13466259	13466267	134.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0134.hdf5
+1356.606	10	stimulus_end	2	13566060	13566068				
+1356.7166	10	stimulus_start	1	13567166	13567174	135.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0135.hdf5
+1366.6967	10	stimulus_end	2	13666967	13666975				
+1366.786	10	stimulus_start	1	13667860	13667868	136.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0136.hdf5
+1376.7661	10	stimulus_end	2	13767661	13767669				
+1376.8555	10	stimulus_start	1	13768555	13768563	137.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0137.hdf5
+1386.8356	10	stimulus_end	2	13868356	13868364				
+1386.9249	10	stimulus_start	1	13869249	13869257	138.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0138.hdf5
+1396.905	10	stimulus_end	2	13969050	13969058				
+1396.9943	10	stimulus_start	1	13969943	13969951	139.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0139.hdf5
+1406.9744	10	stimulus_end	2	14069744	14069752				
+1407.0638	10	stimulus_start	1	14070638	14070646	140.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0140.hdf5
+1417.0438	10	stimulus_end	2	14170438	14170446				
+1417.1118	10	stimulus_start	1	14171118	14171126	141.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0141.hdf5
+1427.0919	10	stimulus_end	2	14270919	14270927				
+1427.1813	10	stimulus_start	1	14271813	14271821	142.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0142.hdf5
+1437.1614	10	stimulus_end	2	14371614	14371622				
+1437.272	10	stimulus_start	1	14372720	14372728	143.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0143.hdf5
+1447.2521	10	stimulus_end	2	14472521	14472529				
+1447.3415	10	stimulus_start	1	14473415	14473423	144.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0144.hdf5
+1457.3215	10	stimulus_end	2	14573215	14573223				
+1457.4322	10	stimulus_start	1	14574322	14574330	145.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0145.hdf5
+1467.4123	10	stimulus_end	2	14674123	14674131				
+1467.4803	10	stimulus_start	1	14674803	14674811	146.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0146.hdf5
+1477.4604	10	stimulus_end	2	14774604	14774612				
+1477.5711	10	stimulus_start	1	14775711	14775719	147.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0147.hdf5
+1487.5512	10	stimulus_end	2	14875512	14875520				
+1487.6405	10	stimulus_start	1	14876405	14876413	148.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0148.hdf5
+1497.6206	10	stimulus_end	2	14976206	14976214				
+1497.7099	10	stimulus_start	1	14977099	14977107	149.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0149.hdf5
+1507.69	10	stimulus_end	2	15076900	15076908				
+1507.7793	10	stimulus_start	1	15077793	15077801	150.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0150.hdf5
+1517.7594	10	stimulus_end	2	15177594	15177602				
+1517.8488	10	stimulus_start	1	15178488	15178496	151.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0151.hdf5
+1527.8289	10	stimulus_end	2	15278289	15278297				
+1527.9182	10	stimulus_start	1	15279182	15279190	152.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0152.hdf5
+1537.8983	10	stimulus_end	2	15378983	15378991				
+1537.9876	10	stimulus_start	1	15379876	15379884	153.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0153.hdf5
+1547.9677	10	stimulus_end	2	15479677	15479685				
+1548.0571	10	stimulus_start	1	15480571	15480579	154.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0154.hdf5
+1558.0371	10	stimulus_end	2	15580371	15580379				
+1558.1265	10	stimulus_start	1	15581265	15581273	155.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0155.hdf5
+1568.1066	10	stimulus_end	2	15681066	15681074				
+1568.1959	10	stimulus_start	1	15681959	15681967	156.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0156.hdf5
+1578.176	10	stimulus_end	2	15781760	15781768				
+1578.2653	10	stimulus_start	1	15782653	15782661	157.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0157.hdf5
+1588.2454	10	stimulus_end	2	15882454	15882462				
+1588.3348	10	stimulus_start	1	15883348	15883356	158.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0158.hdf5
+1598.3149	10	stimulus_end	2	15983149	15983157				
+1598.4042	10	stimulus_start	1	15984042	15984050	159.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0159.hdf5
+1608.3843	10	stimulus_end	2	16083843	16083851				
+1608.4949	10	stimulus_start	1	16084949	16084957	160.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0160.hdf5
+1618.475	10	stimulus_end	2	16184750	16184758				
+1618.5644	10	stimulus_start	1	16185644	16185652	161.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0161.hdf5
+1628.5445	10	stimulus_end	2	16285445	16285453				
+1628.6338	10	stimulus_start	1	16286338	16286346	162.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0162.hdf5
+1638.6139	10	stimulus_end	2	16386139	16386147				
+1638.7032	10	stimulus_start	1	16387032	16387040	163.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0163.hdf5
+1648.6833	10	stimulus_end	2	16486833	16486841				
+1648.7727	10	stimulus_start	1	16487727	16487735	164.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0164.hdf5
+1658.7527	10	stimulus_end	2	16587527	16587535				
+1658.8421	10	stimulus_start	1	16588421	16588429	165.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0165.hdf5
+1668.8222	10	stimulus_end	2	16688222	16688230				
+1668.9115	10	stimulus_start	1	16689115	16689123	166.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0166.hdf5
+1678.8916	10	stimulus_end	2	16788916	16788924				
+1678.9809	10	stimulus_start	1	16789809	16789817	167.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0167.hdf5
+1688.961	10	stimulus_end	2	16889610	16889618				
+1689.0504	10	stimulus_start	1	16890504	16890512	168.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0168.hdf5
+1699.0304	10	stimulus_end	2	16990304	16990312				
+1699.1411	10	stimulus_start	1	16991411	16991419	169.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0169.hdf5
+1709.1212	10	stimulus_end	2	17091212	17091220				
+1709.2319	10	stimulus_start	1	17092319	17092327	170.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0170.hdf5
+1719.212	10	stimulus_end	2	17192120	17192128				
+1719.3013	10	stimulus_start	1	17193013	17193021	171.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0171.hdf5
+1729.2814	10	stimulus_end	2	17292814	17292822				
+1729.3707	10	stimulus_start	1	17293707	17293715	172.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0172.hdf5
+1739.3508	10	stimulus_end	2	17393508	17393516				
+1739.4615	10	stimulus_start	1	17394615	17394623	173.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0173.hdf5
+1749.4416	10	stimulus_end	2	17494416	17494424				
+1749.5309	10	stimulus_start	1	17495309	17495317	174.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0174.hdf5
+1759.511	10	stimulus_end	2	17595110	17595118				
+1759.6003	10	stimulus_start	1	17596003	17596011	175.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0175.hdf5
+1769.5804	10	stimulus_end	2	17695804	17695812				
+1769.6698	10	stimulus_start	1	17696698	17696706	176.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0176.hdf5
+1779.6499	10	stimulus_end	2	17796499	17796507				
+1779.7179	10	stimulus_start	1	17797179	17797187	177.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0177.hdf5
+1789.698	10	stimulus_end	2	17896980	17896988				
+1789.7873	10	stimulus_start	1	17897873	17897881	178.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0178.hdf5
+1799.7674	10	stimulus_end	2	17997674	17997682				
+1799.878	10	stimulus_start	1	17998780	17998788	179.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0179.hdf5
+1809.8581	10	stimulus_end	2	18098581	18098589				
+1809.9475	10	stimulus_start	1	18099475	18099483	180.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0180.hdf5
+1819.9276	10	stimulus_end	2	18199276	18199284				
+1820.0169	10	stimulus_start	1	18200169	18200177	181.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0181.hdf5
+1829.997	10	stimulus_end	2	18299970	18299978				
+1830.0863	10	stimulus_start	1	18300863	18300871	182.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0182.hdf5
+1840.0664	10	stimulus_end	2	18400664	18400672				
+1840.1344	10	stimulus_start	1	18401344	18401352	183.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0183.hdf5
+1850.1145	10	stimulus_end	2	18501145	18501153				
+1850.2252	10	stimulus_start	1	18502252	18502260	184.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0184.hdf5
+1860.2053	10	stimulus_end	2	18602053	18602061				
+1860.2946	10	stimulus_start	1	18602946	18602954	185.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0185.hdf5
+1870.2747	10	stimulus_end	2	18702747	18702755				
+1870.364	10	stimulus_start	1	18703640	18703648	186.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0186.hdf5
+1880.3441	10	stimulus_end	2	18803441	18803449				
+1880.4335	10	stimulus_start	1	18804335	18804343	187.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0187.hdf5
+1890.4136	10	stimulus_end	2	18904136	18904144				
+1890.5029	10	stimulus_start	1	18905029	18905037	188.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0188.hdf5
+1900.483	10	stimulus_end	2	19004830	19004838				
+1900.551	10	stimulus_start	1	19005510	19005518	189.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0189.hdf5
+1910.5311	10	stimulus_end	2	19105311	19105319				
+1910.6204	10	stimulus_start	1	19106204	19106212	190.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0190.hdf5
+1920.6005	10	stimulus_end	2	19206005	19206013				
+1920.7112	10	stimulus_start	1	19207112	19207120	191.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0191.hdf5
+1930.6913	10	stimulus_end	2	19306913	19306921				
+1930.7806	10	stimulus_start	1	19307806	19307814	192.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0192.hdf5
+1940.7607	10	stimulus_end	2	19407607	19407615				
+1940.85	10	stimulus_start	1	19408500	19408508	193.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0193.hdf5
+1950.8301	10	stimulus_end	2	19508301	19508309				
+1950.9194	10	stimulus_start	1	19509194	19509202	194.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0194.hdf5
+1960.8995	10	stimulus_end	2	19608995	19609003				
+1960.9889	10	stimulus_start	1	19609889	19609897	195.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0195.hdf5
+1970.969	10	stimulus_end	2	19709690	19709698				
+1971.037	10	stimulus_start	1	19710370	19710378	196.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0196.hdf5
+1981.0171	10	stimulus_end	2	19810171	19810179				
+1981.1064	10	stimulus_start	1	19811064	19811072	197.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0197.hdf5
+1991.0865	10	stimulus_end	2	19910865	19910873				
+1991.1758	10	stimulus_start	1	19911758	19911766	198.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0198.hdf5
+2001.1559	10	stimulus_end	2	20011559	20011567				
+2001.2452	10	stimulus_start	1	20012452	20012460	199.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0199.hdf5
+2011.2253	10	stimulus_end	2	20112253	20112261				
+2011.3147	10	stimulus_start	1	20113147	20113155	200.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0200.hdf5
+2021.2948	10	stimulus_end	2	20212948	20212956				
+2021.3841	10	stimulus_start	1	20213841	20213849	201.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0201.hdf5
+2031.3642	10	stimulus_end	2	20313642	20313650				
+2031.4749	10	stimulus_start	1	20314749	20314757	202.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0202.hdf5
+2041.4549	10	stimulus_end	2	20414549	20414557				
+2041.5443	10	stimulus_start	1	20415443	20415451	203.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0203.hdf5
+2051.5244	10	stimulus_end	2	20515244	20515252				
+2051.6137	10	stimulus_start	1	20516137	20516145	204.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0204.hdf5
+2061.5938	10	stimulus_end	2	20615938	20615946				
+2061.6831	10	stimulus_start	1	20616831	20616839	205.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0205.hdf5
+2071.6632	10	stimulus_end	2	20716632	20716640				
+2071.7739	10	stimulus_start	1	20717739	20717747	206.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0206.hdf5
+2081.754	10	stimulus_end	2	20817540	20817548				
+2081.822	10	stimulus_start	1	20818220	20818228	207.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0207.hdf5
+2091.8021	10	stimulus_end	2	20918021	20918029				
+2091.9127	10	stimulus_start	1	20919127	20919135	208.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0208.hdf5
+2101.8928	10	stimulus_end	2	21018928	21018936				
+2101.9822	10	stimulus_start	1	21019822	21019830	209.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0209.hdf5
+2111.9623	10	stimulus_end	2	21119623	21119631				
+2112.0516	10	stimulus_start	1	21120516	21120524	210.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0210.hdf5
+2122.0317	10	stimulus_end	2	21220317	21220325				
+2122.121	10	stimulus_start	1	21221210	21221218	211.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0211.hdf5
+2132.1011	10	stimulus_end	2	21321011	21321019				
+2132.1904	10	stimulus_start	1	21321904	21321912	212.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0212.hdf5
+2142.1705	10	stimulus_end	2	21421705	21421713				
+2142.2385	10	stimulus_start	1	21422385	21422393	213.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0213.hdf5
+2152.2186	10	stimulus_end	2	21522186	21522194				
+2152.3293	10	stimulus_start	1	21523293	21523301	214.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0214.hdf5
+2162.3094	10	stimulus_end	2	21623094	21623102				
+2162.3987	10	stimulus_start	1	21623987	21623995	215.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0215.hdf5
+2172.3788	10	stimulus_end	2	21723788	21723796				
+2172.4895	10	stimulus_start	1	21724895	21724903	216.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0216.hdf5
+2182.4696	10	stimulus_end	2	21824696	21824704				
+2182.5589	10	stimulus_start	1	21825589	21825597	217.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0217.hdf5
+2192.539	10	stimulus_end	2	21925390	21925398				
+2192.6283	10	stimulus_start	1	21926283	21926291	218.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0218.hdf5
+2202.6084	10	stimulus_end	2	22026084	22026092				
+2202.6978	10	stimulus_start	1	22026978	22026986	219.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0219.hdf5
+2212.6779	10	stimulus_end	2	22126779	22126787				
+2212.7672	10	stimulus_start	1	22127672	22127680	220.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0220.hdf5
+2222.7473	10	stimulus_end	2	22227473	22227481				
+2222.8366	10	stimulus_start	1	22228366	22228374	221.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0221.hdf5
+2232.8167	10	stimulus_end	2	22328167	22328175				
+2232.906	10	stimulus_start	1	22329060	22329068	222.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0222.hdf5
+2242.8861	10	stimulus_end	2	22428861	22428869				
+2242.9755	10	stimulus_start	1	22429755	22429763	223.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0223.hdf5
+2252.9556	10	stimulus_end	2	22529556	22529564				
+2253.0662	10	stimulus_start	1	22530662	22530670	224.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0224.hdf5
+2263.0463	10	stimulus_end	2	22630463	22630471				
+2263.157	10	stimulus_start	1	22631570	22631578	225.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0225.hdf5
+2273.1371	10	stimulus_end	2	22731371	22731379				
+2273.2264	10	stimulus_start	1	22732264	22732272	226.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0226.hdf5
+2283.2065	10	stimulus_end	2	22832065	22832073				
+2283.2745	10	stimulus_start	1	22832745	22832753	227.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0227.hdf5
+2293.2546	10	stimulus_end	2	22932546	22932554				
+2293.3653	10	stimulus_start	1	22933653	22933661	228.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0228.hdf5
+2303.3454	10	stimulus_end	2	23033454	23033462				
+2303.4347	10	stimulus_start	1	23034347	23034355	229.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0229.hdf5
+2313.4148	10	stimulus_end	2	23134148	23134156				
+2313.5254	10	stimulus_start	1	23135254	23135262	230.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0230.hdf5
+2323.5055	10	stimulus_end	2	23235055	23235063				
+2323.5949	10	stimulus_start	1	23235949	23235957	231.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0231.hdf5
+2333.575	10	stimulus_end	2	23335750	23335758				
+2333.6643	10	stimulus_start	1	23336643	23336651	232.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0232.hdf5
+2343.6444	10	stimulus_end	2	23436444	23436452				
+2343.7337	10	stimulus_start	1	23437337	23437345	233.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0233.hdf5
+2353.7138	10	stimulus_end	2	23537138	23537146				
+2353.8032	10	stimulus_start	1	23538032	23538040	234.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0234.hdf5
+2363.7832	10	stimulus_end	2	23637832	23637840				
+2363.8726	10	stimulus_start	1	23638726	23638734	235.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0235.hdf5
+2373.8527	10	stimulus_end	2	23738527	23738535				
+2373.942	10	stimulus_start	1	23739420	23739428	236.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0236.hdf5
+2383.9221	10	stimulus_end	2	23839221	23839229				
+2384.0114	10	stimulus_start	1	23840114	23840122	237.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0237.hdf5
+2393.9915	10	stimulus_end	2	23939915	23939923				
+2394.0595	10	stimulus_start	1	23940595	23940603	238.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0238.hdf5
+2404.0396	10	stimulus_end	2	24040396	24040404				
+2404.129	10	stimulus_start	1	24041290	24041298	239.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0239.hdf5
+2414.109	10	stimulus_end	2	24141090	24141098				
+2414.1984	10	stimulus_start	1	24141984	24141992	240.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0240.hdf5
+2424.1785	10	stimulus_end	2	24241785	24241793				
+2424.2891	10	stimulus_start	1	24242891	24242899	241.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0241.hdf5
+2434.2692	10	stimulus_end	2	24342692	24342700				
+2434.3586	10	stimulus_start	1	24343586	24343594	242.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0242.hdf5
+2444.3387	10	stimulus_end	2	24443387	24443395				
+2444.428	10	stimulus_start	1	24444280	24444288	243.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0243.hdf5
+2454.4081	10	stimulus_end	2	24544081	24544089				
+2454.4974	10	stimulus_start	1	24544974	24544982	244.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0244.hdf5
+2464.4775	10	stimulus_end	2	24644775	24644783				
+2464.5882	10	stimulus_start	1	24645882	24645890	245.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0245.hdf5
+2474.5683	10	stimulus_end	2	24745683	24745691				
+2474.6789	10	stimulus_start	1	24746789	24746797	246.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0246.hdf5
+2484.659	10	stimulus_end	2	24846590	24846598				
+2484.727	10	stimulus_start	1	24847270	24847278	247.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0247.hdf5
+2494.7071	10	stimulus_end	2	24947071	24947079				
+2494.8178	10	stimulus_start	1	24948178	24948186	248.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0248.hdf5
+2504.7979	10	stimulus_end	2	25047979	25047987				
+2504.8872	10	stimulus_start	1	25048872	25048880	249.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0249.hdf5
+2514.8673	10	stimulus_end	2	25148673	25148681				
+2514.9566	10	stimulus_start	1	25149566	25149574	250.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0250.hdf5
+2524.9367	10	stimulus_end	2	25249367	25249375				
+2525.0261	10	stimulus_start	1	25250261	25250269	251.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0251.hdf5
+2535.0062	10	stimulus_end	2	25350062	25350070				
+2535.0955	10	stimulus_start	1	25350955	25350963	252.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0252.hdf5
+2545.0756	10	stimulus_end	2	25450756	25450764				
+2545.1649	10	stimulus_start	1	25451649	25451657	253.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0253.hdf5
+2555.145	10	stimulus_end	2	25551450	25551458				
+2555.2557	10	stimulus_start	1	25552557	25552565	254.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0254.hdf5
+2565.2358	10	stimulus_end	2	25652358	25652366				
+2565.3464	10	stimulus_start	1	25653464	25653472	255.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0255.hdf5
+2575.3265	10	stimulus_end	2	25753265	25753273				
+2575.4159	10	stimulus_start	1	25754159	25754167	256.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0256.hdf5
+2585.396	10	stimulus_end	2	25853960	25853968				
+2585.4853	10	stimulus_start	1	25854853	25854861	257.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0257.hdf5
+2595.4654	10	stimulus_end	2	25954654	25954662				
+2595.5547	10	stimulus_start	1	25955547	25955555	258.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0258.hdf5
+2605.5348	10	stimulus_end	2	26055348	26055356				
+2605.6241	10	stimulus_start	1	26056241	26056249	259.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0259.hdf5
+2615.6042	10	stimulus_end	2	26156042	26156050				
+2615.6936	10	stimulus_start	1	26156936	26156944	260.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0260.hdf5
+2625.6737	10	stimulus_end	2	26256737	26256745				
+2625.763	10	stimulus_start	1	26257630	26257638	261.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0261.hdf5
+2635.7431	10	stimulus_end	2	26357431	26357439				
+2635.8324	10	stimulus_start	1	26358324	26358332	262.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0262.hdf5
+2645.8125	10	stimulus_end	2	26458125	26458133				
+2645.8805	10	stimulus_start	1	26458805	26458813	263.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0263.hdf5
+2655.8606	10	stimulus_end	2	26558606	26558614				
+2655.9499	10	stimulus_start	1	26559499	26559507	264.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0264.hdf5
+2665.93	10	stimulus_end	2	26659300	26659308				
+2666.0194	10	stimulus_start	1	26660194	26660202	265.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0265.hdf5
+2675.9995	10	stimulus_end	2	26759995	26760003				
+2676.0888	10	stimulus_start	1	26760888	26760896	266.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0266.hdf5
+2686.0689	10	stimulus_end	2	26860689	26860697				
+2686.1582	10	stimulus_start	1	26861582	26861590	267.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0267.hdf5
+2696.1383	10	stimulus_end	2	26961383	26961391				
+2696.2276	10	stimulus_start	1	26962276	26962284	268.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0268.hdf5
+2706.2077	10	stimulus_end	2	27062077	27062085				
+2706.2971	10	stimulus_start	1	27062971	27062979	269.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0269.hdf5
+2716.2772	10	stimulus_end	2	27162772	27162780				
+2716.3665	10	stimulus_start	1	27163665	27163673	270.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0270.hdf5
+2726.3466	10	stimulus_end	2	27263466	27263474				
+2726.4359	10	stimulus_start	1	27264359	27264367	271.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0271.hdf5
+2736.416	10	stimulus_end	2	27364160	27364168				
+2736.5053	10	stimulus_start	1	27365053	27365061	272.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0272.hdf5
+2746.4854	10	stimulus_end	2	27464854	27464862				
+2746.5748	10	stimulus_start	1	27465748	27465756	273.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0273.hdf5
+2756.5549	10	stimulus_end	2	27565549	27565557				
+2756.6442	10	stimulus_start	1	27566442	27566450	274.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0274.hdf5
+2766.6243	10	stimulus_end	2	27666243	27666251				
+2766.7136	10	stimulus_start	1	27667136	27667144	275.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0275.hdf5
+2776.6937	10	stimulus_end	2	27766937	27766945				
+2776.783	10	stimulus_start	1	27767830	27767838	276.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0276.hdf5
+2786.7631	10	stimulus_end	2	27867631	27867639				
+2786.8525	10	stimulus_start	1	27868525	27868533	277.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0277.hdf5
+2796.8326	10	stimulus_end	2	27968326	27968334				
+2796.9219	10	stimulus_start	1	27969219	27969227	278.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0278.hdf5
+2806.902	10	stimulus_end	2	28069020	28069028				
+2807.0127	10	stimulus_start	1	28070127	28070135	279.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0279.hdf5
+2816.9927	10	stimulus_end	2	28169927	28169935				
+2817.0821	10	stimulus_start	1	28170821	28170829	280.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0280.hdf5
+2827.0622	10	stimulus_end	2	28270622	28270630				
+2827.1515	10	stimulus_start	1	28271515	28271523	281.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0281.hdf5
+2837.1316	10	stimulus_end	2	28371316	28371324				
+2837.1996	10	stimulus_start	1	28371996	28372004	282.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0282.hdf5
+2847.1797	10	stimulus_end	2	28471797	28471805				
+2847.269	10	stimulus_start	1	28472690	28472698	283.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0283.hdf5
+2857.2491	10	stimulus_end	2	28572491	28572499				
+2857.3385	10	stimulus_start	1	28573385	28573393	284.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0284.hdf5
+2867.3185	10	stimulus_end	2	28673185	28673193				
+2867.4079	10	stimulus_start	1	28674079	28674087	285.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0285.hdf5
+2877.388	10	stimulus_end	2	28773880	28773888				
+2877.4773	10	stimulus_start	1	28774773	28774781	286.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0286.hdf5
+2887.4574	10	stimulus_end	2	28874574	28874582				
+2887.5467	10	stimulus_start	1	28875467	28875475	287.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0287.hdf5
+2897.5268	10	stimulus_end	2	28975268	28975276				
+2897.6162	10	stimulus_start	1	28976162	28976170	288.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0288.hdf5
+2907.5962	10	stimulus_end	2	29075962	29075970				
+2907.6856	10	stimulus_start	1	29076856	29076864	289.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0289.hdf5
+2917.6657	10	stimulus_end	2	29176657	29176665				
+2917.7337	10	stimulus_start	1	29177337	29177345	290.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0290.hdf5
+2927.7138	10	stimulus_end	2	29277138	29277146				
+2927.8031	10	stimulus_start	1	29278031	29278039	291.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0291.hdf5
+2937.7832	10	stimulus_end	2	29377832	29377840				
+2937.8939	10	stimulus_start	1	29378939	29378947	292.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0292.hdf5
+2947.8739	10	stimulus_end	2	29478739	29478747				
+2947.9633	10	stimulus_start	1	29479633	29479641	293.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0293.hdf5
+2957.9434	10	stimulus_end	2	29579434	29579442				
+2958.0327	10	stimulus_start	1	29580327	29580335	294.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0294.hdf5
+2968.0128	10	stimulus_end	2	29680128	29680136				
+2968.1021	10	stimulus_start	1	29681021	29681029	295.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0295.hdf5
+2978.0822	10	stimulus_end	2	29780822	29780830				
+2978.1716	10	stimulus_start	1	29781716	29781724	296.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0296.hdf5
+2988.1517	10	stimulus_end	2	29881517	29881525				
+2988.2197	10	stimulus_start	1	29882197	29882205	297.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0297.hdf5
+2998.1997	10	stimulus_end	2	29981997	29982005				
+2998.2891	10	stimulus_start	1	29982891	29982899	298.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0298.hdf5
+3008.2692	10	stimulus_end	2	30082692	30082700				
+3008.3585	10	stimulus_start	1	30083585	30083593	299.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0299.hdf5
+3018.3386	10	stimulus_end	2	30183386	30183394				
+3018.4279	10	stimulus_start	1	30184279	30184287	300.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0300.hdf5
+3028.408	10	stimulus_end	2	30284080	30284088				
+3028.4974	10	stimulus_start	1	30284974	30284982	301.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0301.hdf5
+3038.4774	10	stimulus_end	2	30384774	30384782				
+3038.5668	10	stimulus_start	1	30385668	30385676	302.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0302.hdf5
+3048.5469	10	stimulus_end	2	30485469	30485477				
+3048.6362	10	stimulus_start	1	30486362	30486370	303.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0303.hdf5
+3058.6163	10	stimulus_end	2	30586163	30586171				
+3058.7056	10	stimulus_start	1	30587056	30587064	304.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0304.hdf5
+3068.6857	10	stimulus_end	2	30686857	30686865				
+3068.7537	10	stimulus_start	1	30687537	30687545	305.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0305.hdf5
+3078.7338	10	stimulus_end	2	30787338	30787346				
+3078.8445	10	stimulus_start	1	30788445	30788453	306.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0306.hdf5
+3088.8246	10	stimulus_end	2	30888246	30888254				
+3088.9139	10	stimulus_start	1	30889139	30889147	307.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0307.hdf5
+3098.894	10	stimulus_end	2	30988940	30988948				
+3098.9833	10	stimulus_start	1	30989833	30989841	308.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0308.hdf5
+3108.9634	10	stimulus_end	2	31089634	31089642				
+3109.0741	10	stimulus_start	1	31090741	31090749	309.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0309.hdf5
+3119.0542	10	stimulus_end	2	31190542	31190550				
+3119.1222	10	stimulus_start	1	31191222	31191230	310.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0310.hdf5
+3129.1023	10	stimulus_end	2	31291023	31291031				
+3129.1916	10	stimulus_start	1	31291916	31291924	311.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0311.hdf5
+3139.1717	10	stimulus_end	2	31391717	31391725				
+3139.261	10	stimulus_start	1	31392610	31392618	312.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0312.hdf5
+3149.2411	10	stimulus_end	2	31492411	31492419				
+3149.3305	10	stimulus_start	1	31493305	31493313	313.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0313.hdf5
+3159.3106	10	stimulus_end	2	31593106	31593114				
+3159.3999	10	stimulus_start	1	31593999	31594007	314.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0314.hdf5
+3169.38	10	stimulus_end	2	31693800	31693808				
+3169.4693	10	stimulus_start	1	31694693	31694701	315.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0315.hdf5
+3179.4494	10	stimulus_end	2	31794494	31794502				
+3179.5387	10	stimulus_start	1	31795387	31795395	316.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0316.hdf5
+3189.5188	10	stimulus_end	2	31895188	31895196				
+3189.6082	10	stimulus_start	1	31896082	31896090	317.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0317.hdf5
+3199.5883	10	stimulus_end	2	31995883	31995891				
+3199.6563	10	stimulus_start	1	31996563	31996571	318.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0318.hdf5
+3209.6363	10	stimulus_end	2	32096363	32096371				
+3209.7257	10	stimulus_start	1	32097257	32097265	319.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0319.hdf5
+3219.7058	10	stimulus_end	2	32197058	32197066				
+3219.7951	10	stimulus_start	1	32197951	32197959	320.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0320.hdf5
+3229.7752	10	stimulus_end	2	32297752	32297760				
+3229.8645	10	stimulus_start	1	32298645	32298653	321.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0321.hdf5
+3239.8446	10	stimulus_end	2	32398446	32398454				
+3239.934	10	stimulus_start	1	32399340	32399348	322.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0322.hdf5
+3249.914	10	stimulus_end	2	32499140	32499148				
+3250.0247	10	stimulus_start	1	32500247	32500255	323.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0323.hdf5
+3260.0048	10	stimulus_end	2	32600048	32600056				
+3260.0941	10	stimulus_start	1	32600941	32600949	324.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0324.hdf5
+3270.0742	10	stimulus_end	2	32700742	32700750				
+3270.1636	10	stimulus_start	1	32701636	32701644	325.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0325.hdf5
+3280.1437	10	stimulus_end	2	32801437	32801445				
+3280.233	10	stimulus_start	1	32802330	32802338	326.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0326.hdf5
+3290.2131	10	stimulus_end	2	32902131	32902139				
+3290.3238	10	stimulus_start	1	32903238	32903246	327.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0327.hdf5
+3300.3038	10	stimulus_end	2	33003038	33003046				
+3300.3932	10	stimulus_start	1	33003932	33003940	328.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0328.hdf5
+3310.3733	10	stimulus_end	2	33103733	33103741				
+3310.4413	10	stimulus_start	1	33104413	33104421	329.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0329.hdf5
+3320.4214	10	stimulus_end	2	33204214	33204222				
+3320.5107	10	stimulus_start	1	33205107	33205115	330.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0330.hdf5
+3330.4908	10	stimulus_end	2	33304908	33304916				
+3330.5801	10	stimulus_start	1	33305801	33305809	331.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0331.hdf5
+3340.5602	10	stimulus_end	2	33405602	33405610				
+3340.6495	10	stimulus_start	1	33406495	33406503	332.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0332.hdf5
+3350.6296	10	stimulus_end	2	33506296	33506304				
+3350.7403	10	stimulus_start	1	33507403	33507411	333.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0333.hdf5
+3360.7204	10	stimulus_end	2	33607204	33607212				
+3360.8097	10	stimulus_start	1	33608097	33608105	334.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0334.hdf5
+3370.7898	10	stimulus_end	2	33707898	33707906				
+3370.8792	10	stimulus_start	1	33708792	33708800	335.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0335.hdf5
+3380.8592	10	stimulus_end	2	33808592	33808600				
+3380.9699	10	stimulus_start	1	33809699	33809707	336.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0336.hdf5
+3390.95	10	stimulus_end	2	33909500	33909508				
+3391.0607	10	stimulus_start	1	33910607	33910615	337.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0337.hdf5
+3401.0408	10	stimulus_end	2	34010408	34010416				
+3401.1301	10	stimulus_start	1	34011301	34011309	338.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0338.hdf5
+3411.1102	10	stimulus_end	2	34111102	34111110				
+3411.1995	10	stimulus_start	1	34111995	34112003	339.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0339.hdf5
+3421.1796	10	stimulus_end	2	34211796	34211804				
+3421.2903	10	stimulus_start	1	34212903	34212911	340.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0340.hdf5
+3431.2704	10	stimulus_end	2	34312704	34312712				
+3431.3597	10	stimulus_start	1	34313597	34313605	341.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0341.hdf5
+3441.3398	10	stimulus_end	2	34413398	34413406				
+3441.4291	10	stimulus_start	1	34414291	34414299	342.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0342.hdf5
+3451.4092	10	stimulus_end	2	34514092	34514100				
+3451.4772	10	stimulus_start	1	34514772	34514780	343.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0343.hdf5
+3461.4573	10	stimulus_end	2	34614573	34614581				
+3461.5466	10	stimulus_start	1	34615466	34615474	344.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0344.hdf5
+3471.5267	10	stimulus_end	2	34715267	34715275				
+3471.6161	10	stimulus_start	1	34716161	34716169	345.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0345.hdf5
+3481.5962	10	stimulus_end	2	34815962	34815970				
+3481.6855	10	stimulus_start	1	34816855	34816863	346.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0346.hdf5
+3491.6656	10	stimulus_end	2	34916656	34916664				
+3491.7763	10	stimulus_start	1	34917763	34917771	347.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0347.hdf5
+3501.7563	10	stimulus_end	2	35017563	35017571				
+3501.8457	10	stimulus_start	1	35018457	35018465	348.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0348.hdf5
+3511.8258	10	stimulus_end	2	35118258	35118266				
+3511.9151	10	stimulus_start	1	35119151	35119159	349.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0349.hdf5
+3521.8952	10	stimulus_end	2	35218952	35218960				
+3522.0059	10	stimulus_start	1	35220059	35220067	350.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0350.hdf5
+3531.986	10	stimulus_end	2	35319860	35319868				
+3532.0966	10	stimulus_start	1	35320966	35320974	351.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0351.hdf5
+3542.0767	10	stimulus_end	2	35420767	35420775				
+3542.1447	10	stimulus_start	1	35421447	35421455	352.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0352.hdf5
+3552.1248	10	stimulus_end	2	35521248	35521256				
+3552.2141	10	stimulus_start	1	35522141	35522149	353.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0353.hdf5
+3562.1942	10	stimulus_end	2	35621942	35621950				
+3562.2836	10	stimulus_start	1	35622836	35622844	354.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0354.hdf5
+3572.2637	10	stimulus_end	2	35722637	35722645				
+3572.3743	10	stimulus_start	1	35723743	35723751	355.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0355.hdf5
+3582.3544	10	stimulus_end	2	35823544	35823552				
+3582.4438	10	stimulus_start	1	35824438	35824446	356.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0356.hdf5
+3592.4238	10	stimulus_end	2	35924238	35924246				
+3592.5132	10	stimulus_start	1	35925132	35925140	357.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0357.hdf5
+3602.4933	10	stimulus_end	2	36024933	36024941				
+3602.5826	10	stimulus_start	1	36025826	36025834	358.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0358.hdf5
+3612.5627	10	stimulus_end	2	36125627	36125635				
+3612.652	10	stimulus_start	1	36126520	36126528	359.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0359.hdf5
+3622.6321	10	stimulus_end	2	36226321	36226329				
+3622.7215	10	stimulus_start	1	36227215	36227223	360.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0360.hdf5
+3632.7015	10	stimulus_end	2	36327015	36327023				
+3632.7909	10	stimulus_start	1	36327909	36327917	361.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0361.hdf5
+3642.771	10	stimulus_end	2	36427710	36427718				
+3642.8603	10	stimulus_start	1	36428603	36428611	362.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0362.hdf5
+3652.8404	10	stimulus_end	2	36528404	36528412				
+3652.9297	10	stimulus_start	1	36529297	36529305	363.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0363.hdf5
+3662.9098	10	stimulus_end	2	36629098	36629106				
+3662.9992	10	stimulus_start	1	36629992	36630000	364.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0364.hdf5
+3672.9792	10	stimulus_end	2	36729792	36729800				
+3673.0472	10	stimulus_start	1	36730472	36730480	365.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0365.hdf5
+3683.0273	10	stimulus_end	2	36830273	36830281				
+3683.1167	10	stimulus_start	1	36831167	36831175	366.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0366.hdf5
+3693.0968	10	stimulus_end	2	36930968	36930976				
+3693.2074	10	stimulus_start	1	36932074	36932082	367.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0367.hdf5
+3703.1875	10	stimulus_end	2	37031875	37031883				
+3703.2769	10	stimulus_start	1	37032769	37032777	368.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0368.hdf5
+3713.2569	10	stimulus_end	2	37132569	37132577				
+3713.3463	10	stimulus_start	1	37133463	37133471	369.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0369.hdf5
+3723.3264	10	stimulus_end	2	37233264	37233272				
+3723.4157	10	stimulus_start	1	37234157	37234165	370.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0370.hdf5
+3733.3958	10	stimulus_end	2	37333958	37333966				
+3733.4851	10	stimulus_start	1	37334851	37334859	371.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0371.hdf5
+3743.4652	10	stimulus_end	2	37434652	37434660				
+3743.5759	10	stimulus_start	1	37435759	37435767	372.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0372.hdf5
+3753.556	10	stimulus_end	2	37535560	37535568				
+3753.6453	10	stimulus_start	1	37536453	37536461	373.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0373.hdf5
+3763.6254	10	stimulus_end	2	37636254	37636262				
+3763.7147	10	stimulus_start	1	37637147	37637155	374.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0374.hdf5
+3773.6948	10	stimulus_end	2	37736948	37736956				
+3773.7842	10	stimulus_start	1	37737842	37737850	375.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0375.hdf5
+3783.7643	10	stimulus_end	2	37837643	37837651				
+3783.8536	10	stimulus_start	1	37838536	37838544	376.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0376.hdf5
+3793.8337	10	stimulus_end	2	37938337	37938345				
+3793.923	10	stimulus_start	1	37939230	37939238	377.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0377.hdf5
+3803.9031	10	stimulus_end	2	38039031	38039039				
+3803.9924	10	stimulus_start	1	38039924	38039932	378.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0378.hdf5
+3813.9725	10	stimulus_end	2	38139725	38139733				
+3814.0619	10	stimulus_start	1	38140619	38140627	379.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0379.hdf5
+3824.042	10	stimulus_end	2	38240420	38240428				
+3824.1313	10	stimulus_start	1	38241313	38241321	380.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0380.hdf5
+3834.1114	10	stimulus_end	2	38341114	38341122				
+3834.2007	10	stimulus_start	1	38342007	38342015	381.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0381.hdf5
+3844.1808	10	stimulus_end	2	38441808	38441816				
+3844.2701	10	stimulus_start	1	38442701	38442709	382.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0382.hdf5
+3854.2502	10	stimulus_end	2	38542502	38542510				
+3854.3396	10	stimulus_start	1	38543396	38543404	383.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0383.hdf5
+3864.3197	10	stimulus_end	2	38643197	38643205				
+3864.409	10	stimulus_start	1	38644090	38644098	384.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0384.hdf5
+3874.3891	10	stimulus_end	2	38743891	38743899				
+3874.4784	10	stimulus_start	1	38744784	38744792	385.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0385.hdf5
+3884.4585	10	stimulus_end	2	38844585	38844593				
+3884.5692	10	stimulus_start	1	38845692	38845700	386.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0386.hdf5
+3894.5493	10	stimulus_end	2	38945493	38945501				
+3894.6173	10	stimulus_start	1	38946173	38946181	387.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0387.hdf5
+3904.5974	10	stimulus_end	2	39045974	39045982				
+3904.708	10	stimulus_start	1	39047080	39047088	388.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0388.hdf5
+3914.6881	10	stimulus_end	2	39146881	39146889				
+3914.7774	10	stimulus_start	1	39147774	39147782	389.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0389.hdf5
+3924.7575	10	stimulus_end	2	39247575	39247583				
+3924.8682	10	stimulus_start	1	39248682	39248690	390.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0390.hdf5
+3934.8483	10	stimulus_end	2	39348483	39348491				
+3934.9376	10	stimulus_start	1	39349376	39349384	391.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0391.hdf5
+3944.9177	10	stimulus_end	2	39449177	39449185				
+3944.9857	10	stimulus_start	1	39449857	39449865	392.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0392.hdf5
+3954.9658	10	stimulus_end	2	39549658	39549666				
+3955.0551	10	stimulus_start	1	39550551	39550559	393.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0393.hdf5
+3965.0352	10	stimulus_end	2	39650352	39650360				
+3965.1246	10	stimulus_start	1	39651246	39651254	394.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0394.hdf5
+3975.1047	10	stimulus_end	2	39751047	39751055				
+3975.2153	10	stimulus_start	1	39752153	39752161	395.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0395.hdf5
+3985.1954	10	stimulus_end	2	39851954	39851962				
+3985.3061	10	stimulus_start	1	39853061	39853069	396.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0396.hdf5
+3995.2862	10	stimulus_end	2	39952862	39952870				
+3995.3755	10	stimulus_start	1	39953755	39953763	397.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0397.hdf5
+4005.3556	10	stimulus_end	2	40053556	40053564				
+4005.4663	10	stimulus_start	1	40054663	40054671	398.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0398.hdf5
+4015.4464	10	stimulus_end	2	40154464	40154472				
+4015.5357	10	stimulus_start	1	40155357	40155365	399.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0399.hdf5
+4025.5158	10	stimulus_end	2	40255158	40255166				
+4025.6051	10	stimulus_start	1	40256051	40256059	400.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0400.hdf5
+4035.5852	10	stimulus_end	2	40355852	40355860				
+4035.6745	10	stimulus_start	1	40356745	40356753	401.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0401.hdf5
+4045.6546	10	stimulus_end	2	40456546	40456554				
+4045.744	10	stimulus_start	1	40457440	40457448	402.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0402.hdf5
+4055.7241	10	stimulus_end	2	40557241	40557249				
+4055.8134	10	stimulus_start	1	40558134	40558142	403.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0403.hdf5
+4065.7935	10	stimulus_end	2	40657935	40657943				
+4065.8828	10	stimulus_start	1	40658828	40658836	404.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0404.hdf5
+4075.8629	10	stimulus_end	2	40758629	40758637				
+4075.9522	10	stimulus_start	1	40759522	40759530	405.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0405.hdf5
+4085.9323	10	stimulus_end	2	40859323	40859331				
+4086.0217	10	stimulus_start	1	40860217	40860225	406.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0406.hdf5
+4096.0018	10	stimulus_end	2	40960018	40960026				
+4096.0911	10	stimulus_start	1	40960911	40960919	407.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0407.hdf5
+4106.0712	10	stimulus_end	2	41060712	41060720				
+4106.1605	10	stimulus_start	1	41061605	41061613	408.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0408.hdf5
+4116.1406	10	stimulus_end	2	41161406	41161414				
+4116.2513	10	stimulus_start	1	41162513	41162521	409.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0409.hdf5
+4126.2314	10	stimulus_end	2	41262314	41262322				
+4126.3207	10	stimulus_start	1	41263207	41263215	410.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0410.hdf5
+4136.3008	10	stimulus_end	2	41363008	41363016				
+4136.4115	10	stimulus_start	1	41364115	41364123	411.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0411.hdf5
+4146.3916	10	stimulus_end	2	41463916	41463924				
+4146.5022	10	stimulus_start	1	41465022	41465030	412.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0412.hdf5
+4156.4823	10	stimulus_end	2	41564823	41564831				
+4156.5716	10	stimulus_start	1	41565716	41565724	413.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0413.hdf5
+4166.5517	10	stimulus_end	2	41665517	41665525				
+4166.6624	10	stimulus_start	1	41666624	41666632	414.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0414.hdf5
+4176.6425	10	stimulus_end	2	41766425	41766433				
+4176.7532	10	stimulus_start	1	41767532	41767540	415.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0415.hdf5
+4186.7333	10	stimulus_end	2	41867333	41867341				
+4186.8226	10	stimulus_start	1	41868226	41868234	416.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0416.hdf5
+4196.8027	10	stimulus_end	2	41968027	41968035				
+4196.892	10	stimulus_start	1	41968920	41968928	417.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0417.hdf5
+4206.8721	10	stimulus_end	2	42068721	42068729				
+4206.9614	10	stimulus_start	1	42069614	42069622	418.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0418.hdf5
+4216.9415	10	stimulus_end	2	42169415	42169423				
+4217.0309	10	stimulus_start	1	42170309	42170317	419.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0419.hdf5
+4227.011	10	stimulus_end	2	42270110	42270118				
+4227.1003	10	stimulus_start	1	42271003	42271011	420.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0420.hdf5
+4237.0804	10	stimulus_end	2	42370804	42370812				
+4237.1697	10	stimulus_start	1	42371697	42371705	421.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0421.hdf5
+4247.1498	10	stimulus_end	2	42471498	42471506				
+4247.2391	10	stimulus_start	1	42472391	42472399	422.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0422.hdf5
+4257.2192	10	stimulus_end	2	42572192	42572200				
+4257.3086	10	stimulus_start	1	42573086	42573094	423.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0423.hdf5
+4267.2887	10	stimulus_end	2	42672887	42672895				
+4267.3567	10	stimulus_start	1	42673567	42673575	424.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0424.hdf5
+4277.3367	10	stimulus_end	2	42773367	42773375				
+4277.4261	10	stimulus_start	1	42774261	42774269	425.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0425.hdf5
+4287.4062	10	stimulus_end	2	42874062	42874070				
+4287.5168	10	stimulus_start	1	42875168	42875176	426.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0426.hdf5
+4297.4969	10	stimulus_end	2	42974969	42974977				
+4297.6076	10	stimulus_start	1	42976076	42976084	427.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0427.hdf5
+4307.5877	10	stimulus_end	2	43075877	43075885				
+4307.677	10	stimulus_start	1	43076770	43076778	428.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0428.hdf5
+4317.6571	10	stimulus_end	2	43176571	43176579				
+4317.7464	10	stimulus_start	1	43177464	43177472	429.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0429.hdf5
+4327.7265	10	stimulus_end	2	43277265	43277273				
+4327.8159	10	stimulus_start	1	43278159	43278167	430.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0430.hdf5
+4337.796	10	stimulus_end	2	43377960	43377968				
+4337.8853	10	stimulus_start	1	43378853	43378861	431.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0431.hdf5
+4347.8654	10	stimulus_end	2	43478654	43478662				
+4347.9761	10	stimulus_start	1	43479761	43479769	432.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0432.hdf5
+4357.9561	10	stimulus_end	2	43579561	43579569				
+4358.0241	10	stimulus_start	1	43580241	43580249	433.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0433.hdf5
+4368.0042	10	stimulus_end	2	43680042	43680050				
+4368.0936	10	stimulus_start	1	43680936	43680944	434.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0434.hdf5
+4378.0737	10	stimulus_end	2	43780737	43780745				
+4378.163	10	stimulus_start	1	43781630	43781638	435.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0435.hdf5
+4388.1431	10	stimulus_end	2	43881431	43881439				
+4388.2324	10	stimulus_start	1	43882324	43882332	436.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0436.hdf5
+4398.2125	10	stimulus_end	2	43982125	43982133				
+4398.3018	10	stimulus_start	1	43983018	43983026	437.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0437.hdf5
+4408.2819	10	stimulus_end	2	44082819	44082827				
+4408.3713	10	stimulus_start	1	44083713	44083721	438.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0438.hdf5
+4418.3514	10	stimulus_end	2	44183514	44183522				
+4418.4407	10	stimulus_start	1	44184407	44184415	439.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0439.hdf5
+4428.4208	10	stimulus_end	2	44284208	44284216				
+4428.5101	10	stimulus_start	1	44285101	44285109	440.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0440.hdf5
+4438.4902	10	stimulus_end	2	44384902	44384910				
+4438.5795	10	stimulus_start	1	44385795	44385803	441.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0441.hdf5
+4448.5596	10	stimulus_end	2	44485596	44485604				
+4448.649	10	stimulus_start	1	44486490	44486498	442.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0442.hdf5
+4458.6291	10	stimulus_end	2	44586291	44586299				
+4458.7184	10	stimulus_start	1	44587184	44587192	443.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0443.hdf5
+4468.6985	10	stimulus_end	2	44686985	44686993				
+4468.7878	10	stimulus_start	1	44687878	44687886	444.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0444.hdf5
+4478.7679	10	stimulus_end	2	44787679	44787687				
+4478.8572	10	stimulus_start	1	44788572	44788580	445.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0445.hdf5
+4488.8373	10	stimulus_end	2	44888373	44888381				
+4488.9267	10	stimulus_start	1	44889267	44889275	446.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0446.hdf5
+4498.9068	10	stimulus_end	2	44989068	44989076				
+4498.9961	10	stimulus_start	1	44989961	44989969	447.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0447.hdf5
+4508.9762	10	stimulus_end	2	45089762	45089770				
+4509.0655	10	stimulus_start	1	45090655	45090663	448.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0448.hdf5
+4519.0456	10	stimulus_end	2	45190456	45190464				
+4519.1563	10	stimulus_start	1	45191563	45191571	449.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0449.hdf5
+4529.1364	10	stimulus_end	2	45291364	45291372				
+4529.2257	10	stimulus_start	1	45292257	45292265	450.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0450.hdf5
+4539.2058	10	stimulus_end	2	45392058	45392066				
+4539.2951	10	stimulus_start	1	45392951	45392959	451.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0451.hdf5
+4549.2752	10	stimulus_end	2	45492752	45492760				
+4549.3645	10	stimulus_start	1	45493645	45493653	452.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0452.hdf5
+4559.3446	10	stimulus_end	2	45593446	45593454				
+4559.434	10	stimulus_start	1	45594340	45594348	453.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0453.hdf5
+4569.4141	10	stimulus_end	2	45694141	45694149				
+4569.5034	10	stimulus_start	1	45695034	45695042	454.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0454.hdf5
+4579.4835	10	stimulus_end	2	45794835	45794843				
+4579.5942	10	stimulus_start	1	45795942	45795950	455.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0455.hdf5
+4589.5742	10	stimulus_end	2	45895742	45895750				
+4589.6636	10	stimulus_start	1	45896636	45896644	456.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0456.hdf5
+4599.6437	10	stimulus_end	2	45996437	45996445				
+4599.7117	10	stimulus_start	1	45997117	45997125	457.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0457.hdf5
+4609.6918	10	stimulus_end	2	46096918	46096926				
+4609.7811	10	stimulus_start	1	46097811	46097819	458.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0458.hdf5
+4619.7612	10	stimulus_end	2	46197612	46197620				
+4619.8505	10	stimulus_start	1	46198505	46198513	459.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0459.hdf5
+4629.8306	10	stimulus_end	2	46298306	46298314				
+4629.9199	10	stimulus_start	1	46299199	46299207	460.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0460.hdf5
+4639.9	10	stimulus_end	2	46399000	46399008				
+4639.9894	10	stimulus_start	1	46399894	46399902	461.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0461.hdf5
+4649.9695	10	stimulus_end	2	46499695	46499703				
+4650.0588	10	stimulus_start	1	46500588	46500596	462.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0462.hdf5
+4660.0389	10	stimulus_end	2	46600389	46600397				
+4660.1282	10	stimulus_start	1	46601282	46601290	463.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0463.hdf5
+4670.1083	10	stimulus_end	2	46701083	46701091				
+4670.1976	10	stimulus_start	1	46701976	46701984	464.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0464.hdf5
+4680.1777	10	stimulus_end	2	46801777	46801785				
+4680.2671	10	stimulus_start	1	46802671	46802679	465.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0465.hdf5
+4690.2472	10	stimulus_end	2	46902472	46902480				
+4690.3365	10	stimulus_start	1	46903365	46903373	466.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0466.hdf5
+4700.3166	10	stimulus_end	2	47003166	47003174				
+4700.4059	10	stimulus_start	1	47004059	47004067	467.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0467.hdf5
+4710.386	10	stimulus_end	2	47103860	47103868				
+4710.4753	10	stimulus_start	1	47104753	47104761	468.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0468.hdf5
+4720.4554	10	stimulus_end	2	47204554	47204562				
+4720.5661	10	stimulus_start	1	47205661	47205669	469.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0469.hdf5
+4730.5462	10	stimulus_end	2	47305462	47305470				
+4730.6355	10	stimulus_start	1	47306355	47306363	470.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0470.hdf5
+4740.6156	10	stimulus_end	2	47406156	47406164				
+4740.7263	10	stimulus_start	1	47407263	47407271	471.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0471.hdf5
+4750.7064	10	stimulus_end	2	47507064	47507072				
+4750.7957	10	stimulus_start	1	47507957	47507965	472.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0472.hdf5
+4760.7758	10	stimulus_end	2	47607758	47607766				
+4760.8651	10	stimulus_start	1	47608651	47608659	473.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0473.hdf5
+4770.8452	10	stimulus_end	2	47708452	47708460				
+4770.9346	10	stimulus_start	1	47709346	47709354	474.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0474.hdf5
+4780.9146	10	stimulus_end	2	47809146	47809154				
+4780.9827	10	stimulus_start	1	47809827	47809835	475.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0475.hdf5
+4790.9627	10	stimulus_end	2	47909627	47909635				
+4791.0521	10	stimulus_start	1	47910521	47910529	476.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0476.hdf5
+4801.0322	10	stimulus_end	2	48010322	48010330				
+4801.1215	10	stimulus_start	1	48011215	48011223	477.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0477.hdf5
+4811.1016	10	stimulus_end	2	48111016	48111024				
+4811.1909	10	stimulus_start	1	48111909	48111917	478.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0478.hdf5
+4821.171	10	stimulus_end	2	48211710	48211718				
+4821.2817	10	stimulus_start	1	48212817	48212825	479.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0479.hdf5
+4831.2618	10	stimulus_end	2	48312618	48312626				
+4831.3511	10	stimulus_start	1	48313511	48313519	480.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0480.hdf5
+4841.3312	10	stimulus_end	2	48413312	48413320				
+4841.4205	10	stimulus_start	1	48414205	48414213	481.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0481.hdf5
+4851.4006	10	stimulus_end	2	48514006	48514014				
+4851.5113	10	stimulus_start	1	48515113	48515121	482.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0482.hdf5
+4861.4914	10	stimulus_end	2	48614914	48614922				
+4861.5807	10	stimulus_start	1	48615807	48615815	483.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0483.hdf5
+4871.5608	10	stimulus_end	2	48715608	48715616				
+4871.6501	10	stimulus_start	1	48716501	48716509	484.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0484.hdf5
+4881.6302	10	stimulus_end	2	48816302	48816310				
+4881.7196	10	stimulus_start	1	48817196	48817204	485.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0485.hdf5
+4891.6997	10	stimulus_end	2	48916997	48917005				
+4891.7677	10	stimulus_start	1	48917677	48917685	486.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0486.hdf5
+4901.7477	10	stimulus_end	2	49017477	49017485				
+4901.8584	10	stimulus_start	1	49018584	49018592	487.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0487.hdf5
+4911.8385	10	stimulus_end	2	49118385	49118393				
+4911.9492	10	stimulus_start	1	49119492	49119500	488.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0488.hdf5
+4921.9293	10	stimulus_end	2	49219293	49219301				
+4922.0186	10	stimulus_start	1	49220186	49220194	489.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0489.hdf5
+4931.9987	10	stimulus_end	2	49319987	49319995				
+4932.088	10	stimulus_start	1	49320880	49320888	490.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0490.hdf5
+4942.0681	10	stimulus_end	2	49420681	49420689				
+4942.1574	10	stimulus_start	1	49421574	49421582	491.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0491.hdf5
+4952.1375	10	stimulus_end	2	49521375	49521383				
+4952.2269	10	stimulus_start	1	49522269	49522277	492.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0492.hdf5
+4962.207	10	stimulus_end	2	49622070	49622078				
+4962.2963	10	stimulus_start	1	49622963	49622971	493.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0493.hdf5
+4972.2764	10	stimulus_end	2	49722764	49722772				
+4972.3657	10	stimulus_start	1	49723657	49723665	494.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0494.hdf5
+4982.3458	10	stimulus_end	2	49823458	49823466				
+4982.4351	10	stimulus_start	1	49824351	49824359	495.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0495.hdf5
+4992.4152	10	stimulus_end	2	49924152	49924160				
+4992.5046	10	stimulus_start	1	49925046	49925054	496.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0496.hdf5
+5002.4847	10	stimulus_end	2	50024847	50024855				
+5002.5527	10	stimulus_start	1	50025527	50025535	497.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0497.hdf5
+5012.5327	10	stimulus_end	2	50125327	50125335				
+5012.6434	10	stimulus_start	1	50126434	50126442	498.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0498.hdf5
+5022.6235	10	stimulus_end	2	50226235	50226243				
+5022.7342	10	stimulus_start	1	50227342	50227350	499.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0499.hdf5
+5032.7143	10	stimulus_end	2	50327143	50327151				
+5032.8036	10	stimulus_start	1	50328036	50328044	500.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0500.hdf5
+5042.7837	10	stimulus_end	2	50427837	50427845				
+5042.873	10	stimulus_start	1	50428730	50428738	501.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0501.hdf5
+5052.8531	10	stimulus_end	2	50528531	50528539				
+5052.9211	10	stimulus_start	1	50529211	50529219	502.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0502.hdf5
+5062.9012	10	stimulus_end	2	50629012	50629020				
+5062.9905	10	stimulus_start	1	50629905	50629913	503.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0503.hdf5
+5072.9706	10	stimulus_end	2	50729706	50729714				
+5073.06	10	stimulus_start	1	50730600	50730608	504.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0504.hdf5
+5083.0401	10	stimulus_end	2	50830401	50830409				
+5083.1294	10	stimulus_start	1	50831294	50831302	505.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0505.hdf5
+5093.1095	10	stimulus_end	2	50931095	50931103				
+5093.2201	10	stimulus_start	1	50932201	50932209	506.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0506.hdf5
+5103.2002	10	stimulus_end	2	51032002	51032010				
+5103.2896	10	stimulus_start	1	51032896	51032904	507.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0507.hdf5
+5113.2697	10	stimulus_end	2	51132697	51132705				
+5113.359	10	stimulus_start	1	51133590	51133598	508.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0508.hdf5
+5123.3391	10	stimulus_end	2	51233391	51233399				
+5123.4284	10	stimulus_start	1	51234284	51234292	509.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0509.hdf5
+5133.4085	10	stimulus_end	2	51334085	51334093				
+5133.5192	10	stimulus_start	1	51335192	51335200	510.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0510.hdf5
+5143.4993	10	stimulus_end	2	51434993	51435001				
+5143.5886	10	stimulus_start	1	51435886	51435894	511.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0511.hdf5
+5153.5687	10	stimulus_end	2	51535687	51535695				
+5153.658	10	stimulus_start	1	51536580	51536588	512.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0512.hdf5
+5163.6381	10	stimulus_end	2	51636381	51636389				
+5163.7061	10	stimulus_start	1	51637061	51637069	513.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0513.hdf5
+5173.6862	10	stimulus_end	2	51736862	51736870				
+5173.8182	10	stimulus_start	1	51738182	51738190	514.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0514.hdf5
+5183.7983	10	stimulus_end	2	51837983	51837991				
+5183.8876	10	stimulus_start	1	51838876	51838884	515.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0515.hdf5
+5193.8677	10	stimulus_end	2	51938677	51938685				
+5193.9571	10	stimulus_start	1	51939571	51939579	516.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0516.hdf5
+5203.9371	10	stimulus_end	2	52039371	52039379				
+5204.0478	10	stimulus_start	1	52040478	52040486	517.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0517.hdf5
+5214.0279	10	stimulus_end	2	52140279	52140287				
+5214.1386	10	stimulus_start	1	52141386	52141394	518.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0518.hdf5
+5224.1187	10	stimulus_end	2	52241187	52241195				
+5224.208	10	stimulus_start	1	52242080	52242088	519.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0519.hdf5
+5234.1881	10	stimulus_end	2	52341881	52341889				
+5234.2774	10	stimulus_start	1	52342774	52342782	520.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0520.hdf5
+5244.2575	10	stimulus_end	2	52442575	52442583				
+5244.3255	10	stimulus_start	1	52443255	52443263	521.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0521.hdf5
+5254.3056	10	stimulus_end	2	52543056	52543064				
+5254.3949	10	stimulus_start	1	52543949	52543957	522.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0522.hdf5
+5264.375	10	stimulus_end	2	52643750	52643758				
+5264.4644	10	stimulus_start	1	52644644	52644652	523.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0523.hdf5
+5274.4445	10	stimulus_end	2	52744445	52744453				
+5274.5551	10	stimulus_start	1	52745551	52745559	524.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0524.hdf5
+5284.5352	10	stimulus_end	2	52845352	52845360				
+5284.6245	10	stimulus_start	1	52846245	52846253	525.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0525.hdf5
+5294.6046	10	stimulus_end	2	52946046	52946054				
+5294.7153	10	stimulus_start	1	52947153	52947161	526.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0526.hdf5
+5304.6954	10	stimulus_end	2	53046954	53046962				
+5304.8061	10	stimulus_start	1	53048061	53048069	527.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0527.hdf5
+5314.7861	10	stimulus_end	2	53147861	53147869				
+5314.8755	10	stimulus_start	1	53148755	53148763	528.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0528.hdf5
+5324.8556	10	stimulus_end	2	53248556	53248564				
+5324.9449	10	stimulus_start	1	53249449	53249457	529.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0529.hdf5
+5334.925	10	stimulus_end	2	53349250	53349258				
+5335.0357	10	stimulus_start	1	53350357	53350365	530.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0530.hdf5
+5345.0158	10	stimulus_end	2	53450158	53450166				
+5345.1051	10	stimulus_start	1	53451051	53451059	531.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0531.hdf5
+5355.0852	10	stimulus_end	2	53550852	53550860				
+5355.1745	10	stimulus_start	1	53551745	53551753	532.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0532.hdf5
+5365.1546	10	stimulus_end	2	53651546	53651554				
+5365.2226	10	stimulus_start	1	53652226	53652234	533.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0533.hdf5
+5375.2027	10	stimulus_end	2	53752027	53752035				
+5375.2707	10	stimulus_start	1	53752707	53752715	534.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0534.hdf5
+5385.2508	10	stimulus_end	2	53852508	53852516				
+5385.3401	10	stimulus_start	1	53853401	53853409	535.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0535.hdf5
+5395.3202	10	stimulus_end	2	53953202	53953210				
+5395.4095	10	stimulus_start	1	53954095	53954103	536.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0536.hdf5
+5405.3896	10	stimulus_end	2	54053896	54053904				
+5405.4576	10	stimulus_start	1	54054576	54054584	537.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0537.hdf5
+5415.4377	10	stimulus_end	2	54154377	54154385				
+5415.5271	10	stimulus_start	1	54155271	54155279	538.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0538.hdf5
+5425.5071	10	stimulus_end	2	54255071	54255079				
+5425.5965	10	stimulus_start	1	54255965	54255973	539.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0539.hdf5
+5435.5766	10	stimulus_end	2	54355766	54355774				
+5435.6872	10	stimulus_start	1	54356872	54356880	540.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0540.hdf5
+5445.6673	10	stimulus_end	2	54456673	54456681				
+5445.7567	10	stimulus_start	1	54457567	54457575	541.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0541.hdf5
+5455.7368	10	stimulus_end	2	54557368	54557376				
+5455.8261	10	stimulus_start	1	54558261	54558269	542.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0542.hdf5
+5465.8062	10	stimulus_end	2	54658062	54658070				
+5465.8955	10	stimulus_start	1	54658955	54658963	543.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0543.hdf5
+5475.8756	10	stimulus_end	2	54758756	54758764				
+5475.9649	10	stimulus_start	1	54759649	54759657	544.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0544.hdf5
+5485.945	10	stimulus_end	2	54859450	54859458				
+5486.0557	10	stimulus_start	1	54860557	54860565	545.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0545.hdf5
+5496.0358	10	stimulus_end	2	54960358	54960366				
+5496.1251	10	stimulus_start	1	54961251	54961259	546.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0546.hdf5
+5506.1052	10	stimulus_end	2	55061052	55061060				
+5506.1945	10	stimulus_start	1	55061945	55061953	547.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0547.hdf5
+5516.1746	10	stimulus_end	2	55161746	55161754				
+5516.264	10	stimulus_start	1	55162640	55162648	548.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0548.hdf5
+5526.2441	10	stimulus_end	2	55262441	55262449				
+5526.3334	10	stimulus_start	1	55263334	55263342	549.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0549.hdf5
+5536.3135	10	stimulus_end	2	55363135	55363143				
+5536.4028	10	stimulus_start	1	55364028	55364036	550.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0550.hdf5
+5546.3829	10	stimulus_end	2	55463829	55463837				
+5546.4936	10	stimulus_start	1	55464936	55464944	551.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0551.hdf5
+5556.4737	10	stimulus_end	2	55564737	55564745				
+5556.563	10	stimulus_start	1	55565630	55565638	552.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0552.hdf5
+5566.5431	10	stimulus_end	2	55665431	55665439				
+5566.6324	10	stimulus_start	1	55666324	55666332	553.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0553.hdf5
+5576.6125	10	stimulus_end	2	55766125	55766133				
+5576.7018	10	stimulus_start	1	55767018	55767026	554.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0554.hdf5
+5586.6819	10	stimulus_end	2	55866819	55866827				
+5586.7713	10	stimulus_start	1	55867713	55867721	555.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0555.hdf5
+5596.7514	10	stimulus_end	2	55967514	55967522				
+5596.8407	10	stimulus_start	1	55968407	55968415	556.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0556.hdf5
+5606.8208	10	stimulus_end	2	56068208	56068216				
+5606.9101	10	stimulus_start	1	56069101	56069109	557.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0557.hdf5
+5616.8902	10	stimulus_end	2	56168902	56168910				
+5616.9795	10	stimulus_start	1	56169795	56169803	558.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0558.hdf5
+5626.9596	10	stimulus_end	2	56269596	56269604				
+5627.049	10	stimulus_start	1	56270490	56270498	559.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0559.hdf5
+5637.0291	10	stimulus_end	2	56370291	56370299				
+5637.0971	10	stimulus_start	1	56370971	56370979	560.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0560.hdf5
+5647.0772	10	stimulus_end	2	56470772	56470780				
+5647.1665	10	stimulus_start	1	56471665	56471673	561.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0561.hdf5
+5657.1466	10	stimulus_end	2	56571466	56571474				
+5657.2572	10	stimulus_start	1	56572572	56572580	562.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0562.hdf5
+5667.2373	10	stimulus_end	2	56672373	56672381				
+5667.3267	10	stimulus_start	1	56673267	56673275	563.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0563.hdf5
+5677.3068	10	stimulus_end	2	56773068	56773076				
+5677.3961	10	stimulus_start	1	56773961	56773969	564.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0564.hdf5
+5687.3762	10	stimulus_end	2	56873762	56873770				
+5687.4655	10	stimulus_start	1	56874655	56874663	565.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0565.hdf5
+5697.4456	10	stimulus_end	2	56974456	56974464				
+5697.5136	10	stimulus_start	1	56975136	56975144	566.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0566.hdf5
+5707.4937	10	stimulus_end	2	57074937	57074945				
+5707.583	10	stimulus_start	1	57075830	57075838	567.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0567.hdf5
+5717.5631	10	stimulus_end	2	57175631	57175639				
+5717.6738	10	stimulus_start	1	57176738	57176746	568.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0568.hdf5
+5727.6539	10	stimulus_end	2	57276539	57276547				
+5727.7432	10	stimulus_start	1	57277432	57277440	569.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0569.hdf5
+5737.7233	10	stimulus_end	2	57377233	57377241				
+5737.834	10	stimulus_start	1	57378340	57378348	570.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0570.hdf5
+5747.8141	10	stimulus_end	2	57478141	57478149				
+5747.8821	10	stimulus_start	1	57478821	57478829	571.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0571.hdf5
+5757.8622	10	stimulus_end	2	57578622	57578630				
+5757.9515	10	stimulus_start	1	57579515	57579523	572.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0572.hdf5
+5767.9316	10	stimulus_end	2	57679316	57679324				
+5768.0209	10	stimulus_start	1	57680209	57680217	573.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0573.hdf5
+5778.001	10	stimulus_end	2	57780010	57780018				
+5778.0903	10	stimulus_start	1	57780903	57780911	574.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0574.hdf5
+5788.0704	10	stimulus_end	2	57880704	57880712				
+5788.1811	10	stimulus_start	1	57881811	57881819	575.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0575.hdf5
+5798.1612	10	stimulus_end	2	57981612	57981620				
+5798.2505	10	stimulus_start	1	57982505	57982513	576.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0576.hdf5
+5808.2306	10	stimulus_end	2	58082306	58082314				
+5808.2986	10	stimulus_start	1	58082986	58082994	577.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0577.hdf5
+5818.2787	10	stimulus_end	2	58182787	58182795				
+5818.368	10	stimulus_start	1	58183680	58183688	578.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0578.hdf5
+5828.3481	10	stimulus_end	2	58283481	58283489				
+5828.4375	10	stimulus_start	1	58284375	58284383	579.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0579.hdf5
+5838.4175	10	stimulus_end	2	58384175	58384183				
+5838.5069	10	stimulus_start	1	58385069	58385077	580.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0580.hdf5
+5848.487	10	stimulus_end	2	58484870	58484878				
+5848.5763	10	stimulus_start	1	58485763	58485771	581.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0581.hdf5
+5858.5564	10	stimulus_end	2	58585564	58585572				
+5858.6457	10	stimulus_start	1	58586457	58586465	582.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0582.hdf5
+5868.6258	10	stimulus_end	2	58686258	58686266				
+5868.7151	10	stimulus_start	1	58687151	58687159	583.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0583.hdf5
+5878.6952	10	stimulus_end	2	58786952	58786960				
+5878.7846	10	stimulus_start	1	58787846	58787854	584.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0584.hdf5
+5888.7647	10	stimulus_end	2	58887647	58887655				
+5888.8327	10	stimulus_start	1	58888327	58888335	585.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0585.hdf5
+5898.8128	10	stimulus_end	2	58988128	58988136				
+5898.9021	10	stimulus_start	1	58989021	58989029	586.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0586.hdf5
+5908.8822	10	stimulus_end	2	59088822	59088830				
+5908.9715	10	stimulus_start	1	59089715	59089723	587.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0587.hdf5
+5918.9516	10	stimulus_end	2	59189516	59189524				
+5919.0409	10	stimulus_start	1	59190409	59190417	588.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0588.hdf5
+5929.021	10	stimulus_end	2	59290210	59290218				
+5929.1104	10	stimulus_start	1	59291104	59291112	589.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0589.hdf5
+5939.0905	10	stimulus_end	2	59390905	59390913				
+5939.1798	10	stimulus_start	1	59391798	59391806	590.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0590.hdf5
+5949.1599	10	stimulus_end	2	59491599	59491607				
+5949.2492	10	stimulus_start	1	59492492	59492500	591.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0591.hdf5
+5959.2293	10	stimulus_end	2	59592293	59592301				
+5959.3186	10	stimulus_start	1	59593186	59593194	592.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0592.hdf5
+5969.2987	10	stimulus_end	2	59692987	59692995				
+5969.3881	10	stimulus_start	1	59693881	59693889	593.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0593.hdf5
+5979.3681	10	stimulus_end	2	59793681	59793689				
+5979.4575	10	stimulus_start	1	59794575	59794583	594.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0594.hdf5
+5989.4376	10	stimulus_end	2	59894376	59894384				
+5989.5482	10	stimulus_start	1	59895482	59895490	595.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0595.hdf5
+5999.5283	10	stimulus_end	2	59995283	59995291				
+5999.6177	10	stimulus_start	1	59996177	59996185	596.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0596.hdf5
+6009.5978	10	stimulus_end	2	60095978	60095986				
+6009.6871	10	stimulus_start	1	60096871	60096879	597.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0597.hdf5
+6019.6672	10	stimulus_end	2	60196672	60196680				
+6019.7352	10	stimulus_start	1	60197352	60197360	598.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0598.hdf5
+6029.7153	10	stimulus_end	2	60297153	60297161				
+6029.8046	10	stimulus_start	1	60298046	60298054	599.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0599.hdf5
+6039.7847	10	stimulus_end	2	60397847	60397855				
+6039.874	10	stimulus_start	1	60398740	60398748	600.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0600.hdf5
+6049.8541	10	stimulus_end	2	60498541	60498549				
+6049.9648	10	stimulus_start	1	60499648	60499656	601.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0601.hdf5
+6059.9449	10	stimulus_end	2	60599449	60599457				
+6060.0342	10	stimulus_start	1	60600342	60600350	602.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0602.hdf5
+6070.0143	10	stimulus_end	2	60700143	60700151				
+6070.1036	10	stimulus_start	1	60701036	60701044	603.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0603.hdf5
+6080.0837	10	stimulus_end	2	60800837	60800845				
+6080.1731	10	stimulus_start	1	60801731	60801739	604.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0604.hdf5
+6090.1531	10	stimulus_end	2	60901531	60901539				
+6090.2425	10	stimulus_start	1	60902425	60902433	605.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0605.hdf5
+6100.2226	10	stimulus_end	2	61002226	61002234				
+6100.3119	10	stimulus_start	1	61003119	61003127	606.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0606.hdf5
+6110.292	10	stimulus_end	2	61102920	61102928				
+6110.3813	10	stimulus_start	1	61103813	61103821	607.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0607.hdf5
+6120.3614	10	stimulus_end	2	61203614	61203622				
+6120.4721	10	stimulus_start	1	61204721	61204729	608.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0608.hdf5
+6130.4522	10	stimulus_end	2	61304522	61304530				
+6130.5202	10	stimulus_start	1	61305202	61305210	609.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0609.hdf5
+6140.5003	10	stimulus_end	2	61405003	61405011				
+6140.6109	10	stimulus_start	1	61406109	61406117	610.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0610.hdf5
+6150.591	10	stimulus_end	2	61505910	61505918				
+6150.6804	10	stimulus_start	1	61506804	61506812	611.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0611.hdf5
+6160.6604	10	stimulus_end	2	61606604	61606612				
+6160.7711	10	stimulus_start	1	61607711	61607719	612.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0612.hdf5
+6170.7512	10	stimulus_end	2	61707512	61707520				
+6170.8405	10	stimulus_start	1	61708405	61708413	613.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0613.hdf5
+6180.8206	10	stimulus_end	2	61808206	61808214				
+6180.91	10	stimulus_start	1	61809100	61809108	614.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0614.hdf5
+6190.8901	10	stimulus_end	2	61908901	61908909				
+6190.9794	10	stimulus_start	1	61909794	61909802	615.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0615.hdf5
+6200.9595	10	stimulus_end	2	62009595	62009603				
+6201.0701	10	stimulus_start	1	62010701	62010709	616.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0616.hdf5
+6211.0502	10	stimulus_end	2	62110502	62110510				
+6211.1396	10	stimulus_start	1	62111396	62111404	617.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0617.hdf5
+6221.1197	10	stimulus_end	2	62211197	62211205				
+6221.2303	10	stimulus_start	1	62212303	62212311	618.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0618.hdf5
+6231.2104	10	stimulus_end	2	62312104	62312112				
+6231.2998	10	stimulus_start	1	62312998	62313006	619.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0619.hdf5
+6241.2798	10	stimulus_end	2	62412798	62412806				
+6241.3692	10	stimulus_start	1	62413692	62413700	620.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0620.hdf5
+6251.3493	10	stimulus_end	2	62513493	62513501				
+6251.4386	10	stimulus_start	1	62514386	62514394	621.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0621.hdf5
+6261.4187	10	stimulus_end	2	62614187	62614195				
+6261.508	10	stimulus_start	1	62615080	62615088	622.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0622.hdf5
+6271.4881	10	stimulus_end	2	62714881	62714889				
+6271.5561	10	stimulus_start	1	62715561	62715569	623.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0623.hdf5
+6281.5362	10	stimulus_end	2	62815362	62815370				
+6281.6255	10	stimulus_start	1	62816255	62816263	624.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0624.hdf5
+6291.6056	10	stimulus_end	2	62916056	62916064				
+6291.695	10	stimulus_start	1	62916950	62916958	625.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0625.hdf5
+6301.6751	10	stimulus_end	2	63016751	63016759				
+6301.7857	10	stimulus_start	1	63017857	63017865	626.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0626.hdf5
+6311.7658	10	stimulus_end	2	63117658	63117666				
+6311.8551	10	stimulus_start	1	63118551	63118559	627.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0627.hdf5
+6321.8352	10	stimulus_end	2	63218352	63218360				
+6321.9246	10	stimulus_start	1	63219246	63219254	628.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0628.hdf5
+6331.9047	10	stimulus_end	2	63319047	63319055				
+6331.994	10	stimulus_start	1	63319940	63319948	629.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0629.hdf5
+6341.9741	10	stimulus_end	2	63419741	63419749				
+6342.0634	10	stimulus_start	1	63420634	63420642	630.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0630.hdf5
+6352.0435	10	stimulus_end	2	63520435	63520443				
+6352.1328	10	stimulus_start	1	63521328	63521336	631.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0631.hdf5
+6362.1129	10	stimulus_end	2	63621129	63621137				
+6362.2023	10	stimulus_start	1	63622023	63622031	632.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0632.hdf5
+6372.1824	10	stimulus_end	2	63721824	63721832				
+6372.2717	10	stimulus_start	1	63722717	63722725	633.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0633.hdf5
+6382.2518	10	stimulus_end	2	63822518	63822526				
+6382.3411	10	stimulus_start	1	63823411	63823419	634.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0634.hdf5
+6392.3212	10	stimulus_end	2	63923212	63923220				
+6392.4105	10	stimulus_start	1	63924105	63924113	635.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0635.hdf5
+6402.3906	10	stimulus_end	2	64023906	64023914				
+6402.4586	10	stimulus_start	1	64024586	64024594	636.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0636.hdf5
+6412.4387	10	stimulus_end	2	64124387	64124395				
+6412.528	10	stimulus_start	1	64125280	64125288	637.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0637.hdf5
+6422.5081	10	stimulus_end	2	64225081	64225089				
+6422.5975	10	stimulus_start	1	64225975	64225983	638.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0638.hdf5
+6432.5776	10	stimulus_end	2	64325776	64325784				
+6432.6669	10	stimulus_start	1	64326669	64326677	639.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0639.hdf5
+6442.647	10	stimulus_end	2	64426470	64426478				
+6442.7577	10	stimulus_start	1	64427577	64427585	640.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0640.hdf5
+6452.7377	10	stimulus_end	2	64527377	64527385				
+6452.8271	10	stimulus_start	1	64528271	64528279	641.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0641.hdf5
+6462.8072	10	stimulus_end	2	64628072	64628080				
+6462.8965	10	stimulus_start	1	64628965	64628973	642.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0642.hdf5
+6472.8766	10	stimulus_end	2	64728766	64728774				
+6472.9659	10	stimulus_start	1	64729659	64729667	643.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0643.hdf5
+6482.946	10	stimulus_end	2	64829460	64829468				
+6483.0354	10	stimulus_start	1	64830354	64830362	644.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0644.hdf5
+6493.0154	10	stimulus_end	2	64930154	64930162				
+6493.1261	10	stimulus_start	1	64931261	64931269	645.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0645.hdf5
+6503.1062	10	stimulus_end	2	65031062	65031070				
+6503.1955	10	stimulus_start	1	65031955	65031963	646.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0646.hdf5
+6513.1756	10	stimulus_end	2	65131756	65131764				
+6513.265	10	stimulus_start	1	65132650	65132658	647.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0647.hdf5
+6523.245	10	stimulus_end	2	65232450	65232458				
+6523.3557	10	stimulus_start	1	65233557	65233565	648.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0648.hdf5
+6533.3358	10	stimulus_end	2	65333358	65333366				
+6533.4465	10	stimulus_start	1	65334465	65334473	649.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0649.hdf5
+6543.4266	10	stimulus_end	2	65434266	65434274				
+6543.5159	10	stimulus_start	1	65435159	65435167	650.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0650.hdf5
+6553.496	10	stimulus_end	2	65534960	65534968				
+6553.5853	10	stimulus_start	1	65535853	65535861	651.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0651.hdf5
+6563.5654	10	stimulus_end	2	65635654	65635662				
+6563.6761	10	stimulus_start	1	65636761	65636769	652.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0652.hdf5
+6573.6562	10	stimulus_end	2	65736562	65736570				
+6573.7455	10	stimulus_start	1	65737455	65737463	653.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0653.hdf5
+6583.7256	10	stimulus_end	2	65837256	65837264				
+6583.7936	10	stimulus_start	1	65837936	65837944	654.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0654.hdf5
+6593.7737	10	stimulus_end	2	65937737	65937745				
+6593.863	10	stimulus_start	1	65938630	65938638	655.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0655.hdf5
+6603.8431	10	stimulus_end	2	66038431	66038439				
+6603.9324	10	stimulus_start	1	66039324	66039332	656.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0656.hdf5
+6613.9125	10	stimulus_end	2	66139125	66139133				
+6614.0019	10	stimulus_start	1	66140019	66140027	657.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0657.hdf5
+6623.982	10	stimulus_end	2	66239820	66239828				
+6624.0926	10	stimulus_start	1	66240926	66240934	658.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0658.hdf5
+6634.0727	10	stimulus_end	2	66340727	66340735				
+6634.162	10	stimulus_start	1	66341620	66341628	659.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0659.hdf5
+6644.1421	10	stimulus_end	2	66441421	66441429				
+6644.2315	10	stimulus_start	1	66442315	66442323	660.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0660.hdf5
+6654.2116	10	stimulus_end	2	66542116	66542124				
+6654.3222	10	stimulus_start	1	66543222	66543230	661.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0661.hdf5
+6664.3023	10	stimulus_end	2	66643023	66643031				
+6664.413	10	stimulus_start	1	66644130	66644138	662.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0662.hdf5
+6674.3931	10	stimulus_end	2	66743931	66743939				
+6674.4824	10	stimulus_start	1	66744824	66744832	663.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0663.hdf5
+6684.4625	10	stimulus_end	2	66844625	66844633				
+6684.5305	10	stimulus_start	1	66845305	66845313	664.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0664.hdf5
+6694.5106	10	stimulus_end	2	66945106	66945114				
+6694.6213	10	stimulus_start	1	66946213	66946221	665.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0665.hdf5
+6704.6013	10	stimulus_end	2	67046013	67046021				
+6704.6907	10	stimulus_start	1	67046907	67046915	666.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0666.hdf5
+6714.6708	10	stimulus_end	2	67146708	67146716				
+6714.7814	10	stimulus_start	1	67147814	67147822	667.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0667.hdf5
+6724.7615	10	stimulus_end	2	67247615	67247623				
+6724.8295	10	stimulus_start	1	67248295	67248303	668.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0668.hdf5
+6734.8096	10	stimulus_end	2	67348096	67348104				
+6734.9203	10	stimulus_start	1	67349203	67349211	669.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0669.hdf5
+6744.9004	10	stimulus_end	2	67449004	67449012				
+6745.011	10	stimulus_start	1	67450110	67450118	670.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0670.hdf5
+6754.9911	10	stimulus_end	2	67549911	67549919				
+6755.0805	10	stimulus_start	1	67550805	67550813	671.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0671.hdf5
+6765.0606	10	stimulus_end	2	67650606	67650614				
+6765.1499	10	stimulus_start	1	67651499	67651507	672.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0672.hdf5
+6775.13	10	stimulus_end	2	67751300	67751308				
+6775.198	10	stimulus_start	1	67751980	67751988	673.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0673.hdf5
+6785.1781	10	stimulus_end	2	67851781	67851789				
+6785.2674	10	stimulus_start	1	67852674	67852682	674.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0674.hdf5
+6795.2475	10	stimulus_end	2	67952475	67952483				
+6795.3368	10	stimulus_start	1	67953368	67953376	675.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0675.hdf5
+6805.3169	10	stimulus_end	2	68053169	68053177				
+6805.4063	10	stimulus_start	1	68054063	68054071	676.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0676.hdf5
+6815.3863	10	stimulus_end	2	68153863	68153871				
+6815.497	10	stimulus_start	1	68154970	68154978	677.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0677.hdf5
+6825.4771	10	stimulus_end	2	68254771	68254779				
+6825.5664	10	stimulus_start	1	68255664	68255672	678.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0678.hdf5
+6835.5465	10	stimulus_end	2	68355465	68355473				
+6835.6359	10	stimulus_start	1	68356359	68356367	679.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0679.hdf5
+6845.6159	10	stimulus_end	2	68456159	68456167				
+6845.7053	10	stimulus_start	1	68457053	68457061	680.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0680.hdf5
+6855.6854	10	stimulus_end	2	68556854	68556862				
+6855.796	10	stimulus_start	1	68557960	68557968	681.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0681.hdf5
+6865.7761	10	stimulus_end	2	68657761	68657769				
+6865.8655	10	stimulus_start	1	68658655	68658663	682.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0682.hdf5
+6875.8456	10	stimulus_end	2	68758456	68758464				
+6875.9349	10	stimulus_start	1	68759349	68759357	683.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0683.hdf5
+6885.915	10	stimulus_end	2	68859150	68859158				
+6885.983	10	stimulus_start	1	68859830	68859838	684.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0684.hdf5
+6895.9631	10	stimulus_end	2	68959631	68959639				
+6896.0524	10	stimulus_start	1	68960524	68960532	685.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0685.hdf5
+6906.0325	10	stimulus_end	2	69060325	69060333				
+6906.1218	10	stimulus_start	1	69061218	69061226	686.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0686.hdf5
+6916.1019	10	stimulus_end	2	69161019	69161027				
+6916.1912	10	stimulus_start	1	69161912	69161920	687.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0687.hdf5
+6926.1713	10	stimulus_end	2	69261713	69261721				
+6926.282	10	stimulus_start	1	69262820	69262828	688.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0688.hdf5
+6936.2621	10	stimulus_end	2	69362621	69362629				
+6936.3514	10	stimulus_start	1	69363514	69363522	689.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0689.hdf5
+6946.3315	10	stimulus_end	2	69463315	69463323				
+6946.3995	10	stimulus_start	1	69463995	69464003	690.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0690.hdf5
+6956.3796	10	stimulus_end	2	69563796	69563804				
+6956.4689	10	stimulus_start	1	69564689	69564697	691.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0691.hdf5
+6966.449	10	stimulus_end	2	69664490	69664498				
+6966.5384	10	stimulus_start	1	69665384	69665392	692.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0692.hdf5
+6976.5185	10	stimulus_end	2	69765185	69765193				
+6976.6078	10	stimulus_start	1	69766078	69766086	693.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0693.hdf5
+6986.5879	10	stimulus_end	2	69865879	69865887				
+6986.6772	10	stimulus_start	1	69866772	69866780	694.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0694.hdf5
+6996.6573	10	stimulus_end	2	69966573	69966581				
+6996.7466	10	stimulus_start	1	69967466	69967474	695.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0695.hdf5
+7006.7267	10	stimulus_end	2	70067267	70067275				
+7006.8161	10	stimulus_start	1	70068161	70068169	696.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0696.hdf5
+7016.7962	10	stimulus_end	2	70167962	70167970				
+7016.8855	10	stimulus_start	1	70168855	70168863	697.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0697.hdf5
+7026.8656	10	stimulus_end	2	70268656	70268664				
+7026.9549	10	stimulus_start	1	70269549	70269557	698.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0698.hdf5
+7036.935	10	stimulus_end	2	70369350	70369358				
+7037.003	10	stimulus_start	1	70370030	70370038	699.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0699.hdf5
+7046.9831	10	stimulus_end	2	70469831	70469839				
+7047.0724	10	stimulus_start	1	70470724	70470732	700.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0700.hdf5
+7057.0525	10	stimulus_end	2	70570525	70570533				
+7057.1632	10	stimulus_start	1	70571632	70571640	701.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0701.hdf5
+7067.1433	10	stimulus_end	2	70671433	70671441				
+7067.2539	10	stimulus_start	1	70672539	70672547	702.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0702.hdf5
+7077.234	10	stimulus_end	2	70772340	70772348				
+7077.302	10	stimulus_start	1	70773020	70773028	703.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0703.hdf5
+7087.2821	10	stimulus_end	2	70872821	70872829				
+7087.3715	10	stimulus_start	1	70873715	70873723	704.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0704.hdf5
+7097.3515	10	stimulus_end	2	70973515	70973523				
+7097.4622	10	stimulus_start	1	70974622	70974630	705.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0705.hdf5
+7107.4423	10	stimulus_end	2	71074423	71074431				
+7107.5316	10	stimulus_start	1	71075316	71075324	706.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0706.hdf5
+7117.5117	10	stimulus_end	2	71175117	71175125				
+7117.6011	10	stimulus_start	1	71176011	71176019	707.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0707.hdf5
+7127.5811	10	stimulus_end	2	71275811	71275819				
+7127.6705	10	stimulus_start	1	71276705	71276713	708.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0708.hdf5
+7137.6506	10	stimulus_end	2	71376506	71376514				
+7137.7399	10	stimulus_start	1	71377399	71377407	709.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0709.hdf5
+7147.72	10	stimulus_end	2	71477200	71477208				
+7147.788	10	stimulus_start	1	71477880	71477888	710.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0710.hdf5
+7157.7681	10	stimulus_end	2	71577681	71577689				
+7157.8574	10	stimulus_start	1	71578574	71578582	711.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0711.hdf5
+7167.8375	10	stimulus_end	2	71678375	71678383				
+7167.9482	10	stimulus_start	1	71679482	71679490	712.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0712.hdf5
+7177.9283	10	stimulus_end	2	71779283	71779291				
+7178.0176	10	stimulus_start	1	71780176	71780184	713.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0713.hdf5
+7187.9977	10	stimulus_end	2	71879977	71879985				
+7188.087	10	stimulus_start	1	71880870	71880878	714.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0714.hdf5
+7198.0671	10	stimulus_end	2	71980671	71980679				
+7198.1564	10	stimulus_start	1	71981564	71981572	715.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0715.hdf5
+7208.1365	10	stimulus_end	2	72081365	72081373				
+7208.2259	10	stimulus_start	1	72082259	72082267	716.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0716.hdf5
+7218.206	10	stimulus_end	2	72182060	72182068				
+7218.2953	10	stimulus_start	1	72182953	72182961	717.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0717.hdf5
+7228.2754	10	stimulus_end	2	72282754	72282762				
+7228.3647	10	stimulus_start	1	72283647	72283655	718.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0718.hdf5
+7238.3448	10	stimulus_end	2	72383448	72383456				
+7238.4341	10	stimulus_start	1	72384341	72384349	719.0	1.0	chirp	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0719.hdf5
+7248.4142	10	stimulus_end	2	72484142	72484150				
+7248.5036	10	stimulus_start	1	72485036	72485044	720.0	0.0	zero	stimuli/exp1_phases/wizardofoz/wizardofoz_original_0720.hdf5
+7258.4837	10	stimulus_end	2	72584837	72584845				
