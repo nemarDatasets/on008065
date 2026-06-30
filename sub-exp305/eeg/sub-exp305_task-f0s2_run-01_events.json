@@ -28,7 +28,7 @@
     "stimulus_type": {
         "Description": "The stimulus played during the event"
     },
-    "stim_file": {
+    "audio": {
         "Description": "The stimulus file played during the event."
     }
 }
