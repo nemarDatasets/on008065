@@ -1,0 +1,1261 @@
+onset	duration	trial_type	value	sample	sample_corrected	token	stimulus_index	stimulus_type	stim_file
+9.4273	10	stimulus_start	1	94273	94281	0.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0000.hdf5
+19.4074	10	stimulus_end	2	194074	194082				
+19.5394	10	stimulus_start	1	195394	195402	0.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0000.hdf5
+29.5195	10	stimulus_end	2	295195	295203				
+29.6302	10	stimulus_start	1	296302	296310	0.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0000.hdf5
+39.6102	10	stimulus_end	2	396102	396110				
+39.7422	10	stimulus_start	1	397422	397430	1.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0001.hdf5
+49.7223	10	stimulus_end	2	497223	497231				
+49.8543	10	stimulus_start	1	498543	498551	1.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0001.hdf5
+59.8344	10	stimulus_end	2	598344	598352				
+59.9664	10	stimulus_start	1	599664	599672	1.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0001.hdf5
+69.9465	10	stimulus_end	2	699465	699473				
+70.1212	10	stimulus_start	1	701212	701220	2.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0002.hdf5
+80.1013	10	stimulus_end	2	801013	801021				
+80.276	10	stimulus_start	1	802760	802768	2.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0002.hdf5
+90.256	10	stimulus_end	2	902560	902568				
+90.4307	10	stimulus_start	1	904307	904315	2.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0002.hdf5
+100.4108	10	stimulus_end	2	1004108	1004116				
+100.6281	10	stimulus_start	1	1006281	1006289	3.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0003.hdf5
+110.6082	10	stimulus_end	2	1106082	1106090				
+110.7829	10	stimulus_start	1	1107829	1107837	3.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0003.hdf5
+120.763	10	stimulus_end	2	1207630	1207638				
+120.959	10	stimulus_start	1	1209590	1209598	3.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0003.hdf5
+130.9391	10	stimulus_end	2	1309391	1309399				
+131.1138	10	stimulus_start	1	1311138	1311146	4.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0004.hdf5
+141.0939	10	stimulus_end	2	1410939	1410947				
+141.2899	10	stimulus_start	1	1412899	1412907	4.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0004.hdf5
+151.2699	10	stimulus_end	2	1512699	1512707				
+151.4659	10	stimulus_start	1	1514659	1514667	4.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0004.hdf5
+161.446	10	stimulus_end	2	1614460	1614468				
+161.6207	10	stimulus_start	1	1616207	1616215	5.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0005.hdf5
+171.6008	10	stimulus_end	2	1716008	1716016				
+171.7968	10	stimulus_start	1	1717968	1717976	5.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0005.hdf5
+181.7769	10	stimulus_end	2	1817769	1817777				
+181.9516	10	stimulus_start	1	1819516	1819524	5.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0005.hdf5
+191.9317	10	stimulus_end	2	1919317	1919325				
+192.1063	10	stimulus_start	1	1921063	1921071	6.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0006.hdf5
+202.0864	10	stimulus_end	2	2020864	2020872				
+202.2824	10	stimulus_start	1	2022824	2022832	6.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0006.hdf5
+212.2625	10	stimulus_end	2	2122625	2122633				
+212.4585	10	stimulus_start	1	2124585	2124593	6.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0006.hdf5
+222.4386	10	stimulus_end	2	2224386	2224394				
+222.6133	10	stimulus_start	1	2226133	2226141	7.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0007.hdf5
+232.5934	10	stimulus_end	2	2325934	2325942				
+232.7894	10	stimulus_start	1	2327894	2327902	7.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0007.hdf5
+242.7695	10	stimulus_end	2	2427695	2427703				
+242.9441	10	stimulus_start	1	2429441	2429449	7.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0007.hdf5
+252.9242	10	stimulus_end	2	2529242	2529250				
+253.1202	10	stimulus_start	1	2531202	2531210	8.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0008.hdf5
+263.1003	10	stimulus_end	2	2631003	2631011				
+263.2963	10	stimulus_start	1	2632963	2632971	8.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0008.hdf5
+273.2764	10	stimulus_end	2	2732764	2732772				
+273.4724	10	stimulus_start	1	2734724	2734732	8.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0008.hdf5
+283.4525	10	stimulus_end	2	2834525	2834533				
+283.6058	10	stimulus_start	1	2836058	2836066	9.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0009.hdf5
+293.5859	10	stimulus_end	2	2935859	2935867				
+293.7819	10	stimulus_start	1	2937819	2937827	9.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0009.hdf5
+303.762	10	stimulus_end	2	3037620	3037628				
+303.958	10	stimulus_start	1	3039580	3039588	9.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0009.hdf5
+313.9381	10	stimulus_end	2	3139381	3139389				
+314.1128	10	stimulus_start	1	3141128	3141136	10.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0010.hdf5
+324.0929	10	stimulus_end	2	3240929	3240937				
+324.2675	10	stimulus_start	1	3242675	3242683	10.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0010.hdf5
+334.2476	10	stimulus_end	2	3342476	3342484				
+334.4436	10	stimulus_start	1	3344436	3344444	10.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0010.hdf5
+344.4237	10	stimulus_end	2	3444237	3444245				
+344.5984	10	stimulus_start	1	3445984	3445992	11.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0011.hdf5
+354.5785	10	stimulus_end	2	3545785	3545793				
+354.7745	10	stimulus_start	1	3547745	3547753	11.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0011.hdf5
+364.7546	10	stimulus_end	2	3647546	3647554				
+364.9506	10	stimulus_start	1	3649506	3649514	11.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0011.hdf5
+374.9307	10	stimulus_end	2	3749307	3749315				
+375.1053	10	stimulus_start	1	3751053	3751061	12.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0012.hdf5
+385.0854	10	stimulus_end	2	3850854	3850862				
+385.2601	10	stimulus_start	1	3852601	3852609	12.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0012.hdf5
+395.2402	10	stimulus_end	2	3952402	3952410				
+395.4149	10	stimulus_start	1	3954149	3954157	12.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0012.hdf5
+405.395	10	stimulus_end	2	4053950	4053958				
+405.5696	10	stimulus_start	1	4055696	4055704	13.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0013.hdf5
+415.5497	10	stimulus_end	2	4155497	4155505				
+415.7457	10	stimulus_start	1	4157457	4157465	13.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0013.hdf5
+425.7258	10	stimulus_end	2	4257258	4257266				
+425.9218	10	stimulus_start	1	4259218	4259226	13.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0013.hdf5
+435.9019	10	stimulus_end	2	4359019	4359027				
+436.0766	10	stimulus_start	1	4360766	4360774	14.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0014.hdf5
+446.0567	10	stimulus_end	2	4460567	4460575				
+446.2527	10	stimulus_start	1	4462527	4462535	14.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0014.hdf5
+456.2328	10	stimulus_end	2	4562328	4562336				
+456.4074	10	stimulus_start	1	4564074	4564082	14.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0014.hdf5
+466.3875	10	stimulus_end	2	4663875	4663883				
+466.5835	10	stimulus_start	1	4665835	4665843	15.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0015.hdf5
+476.5636	10	stimulus_end	2	4765636	4765644				
+476.7596	10	stimulus_start	1	4767596	4767604	15.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0015.hdf5
+486.7397	10	stimulus_end	2	4867397	4867405				
+486.9144	10	stimulus_start	1	4869144	4869152	15.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0015.hdf5
+496.8945	10	stimulus_end	2	4968945	4968953				
+497.0905	10	stimulus_start	1	4970905	4970913	16.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0016.hdf5
+507.0706	10	stimulus_end	2	5070706	5070714				
+507.2452	10	stimulus_start	1	5072452	5072460	16.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0016.hdf5
+517.2253	10	stimulus_end	2	5172253	5172261				
+517.4	10	stimulus_start	1	5174000	5174008	16.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0016.hdf5
+527.3801	10	stimulus_end	2	5273801	5273809				
+527.5761	10	stimulus_start	1	5275761	5275769	17.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0017.hdf5
+537.5562	10	stimulus_end	2	5375562	5375570				
+537.7522	10	stimulus_start	1	5377522	5377530	17.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0017.hdf5
+547.7323	10	stimulus_end	2	5477323	5477331				
+547.9069	10	stimulus_start	1	5479069	5479077	17.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0017.hdf5
+557.887	10	stimulus_end	2	5578870	5578878				
+558.0617	10	stimulus_start	1	5580617	5580625	18.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0018.hdf5
+568.0418	10	stimulus_end	2	5680418	5680426				
+568.2378	10	stimulus_start	1	5682378	5682386	18.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0018.hdf5
+578.2179	10	stimulus_end	2	5782179	5782187				
+578.3926	10	stimulus_start	1	5783926	5783934	18.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0018.hdf5
+588.3726	10	stimulus_end	2	5883726	5883734				
+588.5473	10	stimulus_start	1	5885473	5885481	19.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0019.hdf5
+598.5274	10	stimulus_end	2	5985274	5985282				
+598.7021	10	stimulus_start	1	5987021	5987029	19.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0019.hdf5
+608.6822	10	stimulus_end	2	6086822	6086830				
+608.8782	10	stimulus_start	1	6088782	6088790	19.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0019.hdf5
+618.8583	10	stimulus_end	2	6188583	6188591				
+619.0543	10	stimulus_start	1	6190543	6190551	20.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0020.hdf5
+629.0343	10	stimulus_end	2	6290343	6290351				
+629.209	10	stimulus_start	1	6292090	6292098	20.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0020.hdf5
+639.1891	10	stimulus_end	2	6391891	6391899				
+639.3851	10	stimulus_start	1	6393851	6393859	20.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0020.hdf5
+649.3652	10	stimulus_end	2	6493652	6493660				
+649.5399	10	stimulus_start	1	6495399	6495407	21.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0021.hdf5
+659.52	10	stimulus_end	2	6595200	6595208				
+659.716	10	stimulus_start	1	6597160	6597168	21.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0021.hdf5
+669.6961	10	stimulus_end	2	6696961	6696969				
+669.8707	10	stimulus_start	1	6698707	6698715	21.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0021.hdf5
+679.8508	10	stimulus_end	2	6798508	6798516				
+680.0468	10	stimulus_start	1	6800468	6800476	22.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0022.hdf5
+690.0269	10	stimulus_end	2	6900269	6900277				
+690.2016	10	stimulus_start	1	6902016	6902024	22.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0022.hdf5
+700.1817	10	stimulus_end	2	7001817	7001825				
+700.3777	10	stimulus_start	1	7003777	7003785	22.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0022.hdf5
+710.3578	10	stimulus_end	2	7103578	7103586				
+710.5538	10	stimulus_start	1	7105538	7105546	23.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0023.hdf5
+720.5339	10	stimulus_end	2	7205339	7205347				
+720.7085	10	stimulus_start	1	7207085	7207093	23.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0023.hdf5
+730.6886	10	stimulus_end	2	7306886	7306894				
+730.8633	10	stimulus_start	1	7308633	7308641	23.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0023.hdf5
+740.8434	10	stimulus_end	2	7408434	7408442				
+741.0394	10	stimulus_start	1	7410394	7410402	24.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0024.hdf5
+751.0195	10	stimulus_end	2	7510195	7510203				
+751.2155	10	stimulus_start	1	7512155	7512163	24.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0024.hdf5
+761.1956	10	stimulus_end	2	7611956	7611964				
+761.3702	10	stimulus_start	1	7613702	7613710	24.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0024.hdf5
+771.3503	10	stimulus_end	2	7713503	7713511				
+771.5463	10	stimulus_start	1	7715463	7715471	25.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0025.hdf5
+781.5264	10	stimulus_end	2	7815264	7815272				
+781.7011	10	stimulus_start	1	7817011	7817019	25.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0025.hdf5
+791.6812	10	stimulus_end	2	7916812	7916820				
+791.8772	10	stimulus_start	1	7918772	7918780	25.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0025.hdf5
+801.8573	10	stimulus_end	2	8018573	8018581				
+802.0533	10	stimulus_start	1	8020533	8020541	26.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0026.hdf5
+812.0334	10	stimulus_end	2	8120334	8120342				
+812.208	10	stimulus_start	1	8122080	8122088	26.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0026.hdf5
+822.1881	10	stimulus_end	2	8221881	8221889				
+822.3841	10	stimulus_start	1	8223841	8223849	26.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0026.hdf5
+832.3642	10	stimulus_end	2	8323642	8323650				
+832.5602	10	stimulus_start	1	8325602	8325610	27.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0027.hdf5
+842.5403	10	stimulus_end	2	8425403	8425411				
+842.715	10	stimulus_start	1	8427150	8427158	27.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0027.hdf5
+852.6951	10	stimulus_end	2	8526951	8526959				
+852.8697	10	stimulus_start	1	8528697	8528705	27.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0027.hdf5
+862.8498	10	stimulus_end	2	8628498	8628506				
+863.0245	10	stimulus_start	1	8630245	8630253	28.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0028.hdf5
+873.0046	10	stimulus_end	2	8730046	8730054				
+873.1792	10	stimulus_start	1	8731792	8731800	28.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0028.hdf5
+883.1593	10	stimulus_end	2	8831593	8831601				
+883.334	10	stimulus_start	1	8833340	8833348	28.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0028.hdf5
+893.3141	10	stimulus_end	2	8933141	8933149				
+893.4674	10	stimulus_start	1	8934674	8934682	29.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0029.hdf5
+903.4475	10	stimulus_end	2	9034475	9034483				
+903.6222	10	stimulus_start	1	9036222	9036230	29.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0029.hdf5
+913.6023	10	stimulus_end	2	9136023	9136031				
+913.777	10	stimulus_start	1	9137770	9137778	29.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0029.hdf5
+923.757	10	stimulus_end	2	9237570	9237578				
+923.9104	10	stimulus_start	1	9239104	9239112	30.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0030.hdf5
+933.8905	10	stimulus_end	2	9338905	9338913				
+934.0651	10	stimulus_start	1	9340651	9340659	30.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0030.hdf5
+944.0452	10	stimulus_end	2	9440452	9440460				
+944.2412	10	stimulus_start	1	9442412	9442420	30.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0030.hdf5
+954.2213	10	stimulus_end	2	9542213	9542221				
+954.4173	10	stimulus_start	1	9544173	9544181	31.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0031.hdf5
+964.3974	10	stimulus_end	2	9643974	9643982				
+964.5721	10	stimulus_start	1	9645721	9645729	31.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0031.hdf5
+974.5522	10	stimulus_end	2	9745522	9745530				
+974.7482	10	stimulus_start	1	9747482	9747490	31.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0031.hdf5
+984.7283	10	stimulus_end	2	9847283	9847291				
+984.9243	10	stimulus_start	1	9849243	9849251	32.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0032.hdf5
+994.9044	10	stimulus_end	2	9949044	9949052				
+995.079	10	stimulus_start	1	9950790	9950798	32.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0032.hdf5
+1005.0591	10	stimulus_end	2	10050591	10050599				
+1005.2551	10	stimulus_start	1	10052551	10052559	32.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0032.hdf5
+1015.2352	10	stimulus_end	2	10152352	10152360				
+1015.4099	10	stimulus_start	1	10154099	10154107	33.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0033.hdf5
+1025.39	10	stimulus_end	2	10253900	10253908				
+1025.586	10	stimulus_start	1	10255860	10255868	33.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0033.hdf5
+1035.5661	10	stimulus_end	2	10355661	10355669				
+1035.7407	10	stimulus_start	1	10357407	10357415	33.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0033.hdf5
+1045.7208	10	stimulus_end	2	10457208	10457216				
+1045.9168	10	stimulus_start	1	10459168	10459176	34.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0034.hdf5
+1055.8969	10	stimulus_end	2	10558969	10558977				
+1056.0929	10	stimulus_start	1	10560929	10560937	34.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0034.hdf5
+1066.073	10	stimulus_end	2	10660730	10660738				
+1066.2477	10	stimulus_start	1	10662477	10662485	34.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0034.hdf5
+1076.2278	10	stimulus_end	2	10762278	10762286				
+1076.4238	10	stimulus_start	1	10764238	10764246	35.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0035.hdf5
+1086.4039	10	stimulus_end	2	10864039	10864047				
+1086.5785	10	stimulus_start	1	10865785	10865793	35.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0035.hdf5
+1096.5586	10	stimulus_end	2	10965586	10965594				
+1096.7546	10	stimulus_start	1	10967546	10967554	35.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0035.hdf5
+1106.7347	10	stimulus_end	2	11067347	11067355				
+1106.9307	10	stimulus_start	1	11069307	11069315	36.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0036.hdf5
+1116.9108	10	stimulus_end	2	11169108	11169116				
+1117.0855	10	stimulus_start	1	11170855	11170863	36.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0036.hdf5
+1127.0656	10	stimulus_end	2	11270656	11270664				
+1127.2616	10	stimulus_start	1	11272616	11272624	36.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0036.hdf5
+1137.2417	10	stimulus_end	2	11372417	11372425				
+1137.4163	10	stimulus_start	1	11374163	11374171	37.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0037.hdf5
+1147.3964	10	stimulus_end	2	11473964	11473972				
+1147.5924	10	stimulus_start	1	11475924	11475932	37.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0037.hdf5
+1157.5725	10	stimulus_end	2	11575725	11575733				
+1157.7685	10	stimulus_start	1	11577685	11577693	37.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0037.hdf5
+1167.7486	10	stimulus_end	2	11677486	11677494				
+1167.9446	10	stimulus_start	1	11679446	11679454	38.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0038.hdf5
+1177.9247	10	stimulus_end	2	11779247	11779255				
+1178.0994	10	stimulus_start	1	11780994	11781002	38.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0038.hdf5
+1188.0795	10	stimulus_end	2	11880795	11880803				
+1188.2755	10	stimulus_start	1	11882755	11882763	38.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0038.hdf5
+1198.2555	10	stimulus_end	2	11982555	11982563				
+1198.4302	10	stimulus_start	1	11984302	11984310	39.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0039.hdf5
+1208.4103	10	stimulus_end	2	12084103	12084111				
+1208.6063	10	stimulus_start	1	12086063	12086071	39.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0039.hdf5
+1218.5864	10	stimulus_end	2	12185864	12185872				
+1218.7824	10	stimulus_start	1	12187824	12187832	39.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0039.hdf5
+1228.7625	10	stimulus_end	2	12287625	12287633				
+1228.9372	10	stimulus_start	1	12289372	12289380	40.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0040.hdf5
+1238.9172	10	stimulus_end	2	12389172	12389180				
+1239.1132	10	stimulus_start	1	12391132	12391140	40.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0040.hdf5
+1249.0933	10	stimulus_end	2	12490933	12490941				
+1249.268	10	stimulus_start	1	12492680	12492688	40.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0040.hdf5
+1259.2481	10	stimulus_end	2	12592481	12592489				
+1259.4228	10	stimulus_start	1	12594228	12594236	41.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0041.hdf5
+1269.4029	10	stimulus_end	2	12694029	12694037				
+1269.5989	10	stimulus_start	1	12695989	12695997	41.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0041.hdf5
+1279.5789	10	stimulus_end	2	12795789	12795797				
+1279.7536	10	stimulus_start	1	12797536	12797544	41.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0041.hdf5
+1289.7337	10	stimulus_end	2	12897337	12897345				
+1289.9084	10	stimulus_start	1	12899084	12899092	42.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0042.hdf5
+1299.8885	10	stimulus_end	2	12998885	12998893				
+1300.0845	10	stimulus_start	1	13000845	13000853	42.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0042.hdf5
+1310.0646	10	stimulus_end	2	13100646	13100654				
+1310.2392	10	stimulus_start	1	13102392	13102400	42.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0042.hdf5
+1320.2193	10	stimulus_end	2	13202193	13202201				
+1320.4153	10	stimulus_start	1	13204153	13204161	43.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0043.hdf5
+1330.3954	10	stimulus_end	2	13303954	13303962				
+1330.5914	10	stimulus_start	1	13305914	13305922	43.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0043.hdf5
+1340.5715	10	stimulus_end	2	13405715	13405723				
+1340.7462	10	stimulus_start	1	13407462	13407470	43.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0043.hdf5
+1350.7263	10	stimulus_end	2	13507263	13507271				
+1350.9223	10	stimulus_start	1	13509223	13509231	44.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0044.hdf5
+1360.9024	10	stimulus_end	2	13609024	13609032				
+1361.0984	10	stimulus_start	1	13610984	13610992	44.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0044.hdf5
+1371.0784	10	stimulus_end	2	13710784	13710792				
+1371.2531	10	stimulus_start	1	13712531	13712539	44.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0044.hdf5
+1381.2332	10	stimulus_end	2	13812332	13812340				
+1381.4505	10	stimulus_start	1	13814505	13814513	45.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0045.hdf5
+1391.4306	10	stimulus_end	2	13914306	13914314				
+1391.6053	10	stimulus_start	1	13916053	13916061	45.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0045.hdf5
+1401.5854	10	stimulus_end	2	14015854	14015862				
+1401.7601	10	stimulus_start	1	14017601	14017609	45.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0045.hdf5
+1411.7401	10	stimulus_end	2	14117401	14117409				
+1411.9148	10	stimulus_start	1	14119148	14119156	46.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0046.hdf5
+1421.8949	10	stimulus_end	2	14218949	14218957				
+1422.0909	10	stimulus_start	1	14220909	14220917	46.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0046.hdf5
+1432.071	10	stimulus_end	2	14320710	14320718				
+1432.2457	10	stimulus_start	1	14322457	14322465	46.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0046.hdf5
+1442.2258	10	stimulus_end	2	14422258	14422266				
+1442.4004	10	stimulus_start	1	14424004	14424012	47.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0047.hdf5
+1452.3805	10	stimulus_end	2	14523805	14523813				
+1452.5765	10	stimulus_start	1	14525765	14525773	47.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0047.hdf5
+1462.5566	10	stimulus_end	2	14625566	14625574				
+1462.7526	10	stimulus_start	1	14627526	14627534	47.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0047.hdf5
+1472.7327	10	stimulus_end	2	14727327	14727335				
+1472.9074	10	stimulus_start	1	14729074	14729082	48.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0048.hdf5
+1482.8875	10	stimulus_end	2	14828875	14828883				
+1483.0835	10	stimulus_start	1	14830835	14830843	48.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0048.hdf5
+1493.0636	10	stimulus_end	2	14930636	14930644				
+1493.2382	10	stimulus_start	1	14932382	14932390	48.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0048.hdf5
+1503.2183	10	stimulus_end	2	15032183	15032191				
+1503.4143	10	stimulus_start	1	15034143	15034151	49.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0049.hdf5
+1513.3944	10	stimulus_end	2	15133944	15133952				
+1513.5691	10	stimulus_start	1	15135691	15135699	49.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0049.hdf5
+1523.5492	10	stimulus_end	2	15235492	15235500				
+1523.7452	10	stimulus_start	1	15237452	15237460	49.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0049.hdf5
+1533.7253	10	stimulus_end	2	15337253	15337261				
+1533.8999	10	stimulus_start	1	15338999	15339007	50.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0050.hdf5
+1543.88	10	stimulus_end	2	15438800	15438808				
+1544.076	10	stimulus_start	1	15440760	15440768	50.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0050.hdf5
+1554.0561	10	stimulus_end	2	15540561	15540569				
+1554.2308	10	stimulus_start	1	15542308	15542316	50.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0050.hdf5
+1564.2109	10	stimulus_end	2	15642109	15642117				
+1564.3855	10	stimulus_start	1	15643855	15643863	51.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0051.hdf5
+1574.3656	10	stimulus_end	2	15743656	15743664				
+1574.5616	10	stimulus_start	1	15745616	15745624	51.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0051.hdf5
+1584.5417	10	stimulus_end	2	15845417	15845425				
+1584.7377	10	stimulus_start	1	15847377	15847385	51.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0051.hdf5
+1594.7178	10	stimulus_end	2	15947178	15947186				
+1594.8925	10	stimulus_start	1	15948925	15948933	52.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0052.hdf5
+1604.8726	10	stimulus_end	2	16048726	16048734				
+1605.0686	10	stimulus_start	1	16050686	16050694	52.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0052.hdf5
+1615.0487	10	stimulus_end	2	16150487	16150495				
+1615.2233	10	stimulus_start	1	16152233	16152241	52.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0052.hdf5
+1625.2034	10	stimulus_end	2	16252034	16252042				
+1625.3781	10	stimulus_start	1	16253781	16253789	53.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0053.hdf5
+1635.3582	10	stimulus_end	2	16353582	16353590				
+1635.5542	10	stimulus_start	1	16355542	16355550	53.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0053.hdf5
+1645.5343	10	stimulus_end	2	16455343	16455351				
+1645.7303	10	stimulus_start	1	16457303	16457311	53.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0053.hdf5
+1655.7104	10	stimulus_end	2	16557104	16557112				
+1655.885	10	stimulus_start	1	16558850	16558858	54.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0054.hdf5
+1665.8651	10	stimulus_end	2	16658651	16658659				
+1666.0611	10	stimulus_start	1	16660611	16660619	54.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0054.hdf5
+1676.0412	10	stimulus_end	2	16760412	16760420				
+1676.2372	10	stimulus_start	1	16762372	16762380	54.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0054.hdf5
+1686.2173	10	stimulus_end	2	16862173	16862181				
+1686.392	10	stimulus_start	1	16863920	16863928	55.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0055.hdf5
+1696.3721	10	stimulus_end	2	16963721	16963729				
+1696.5681	10	stimulus_start	1	16965681	16965689	55.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0055.hdf5
+1706.5481	10	stimulus_end	2	17065481	17065489				
+1706.7228	10	stimulus_start	1	17067228	17067236	55.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0055.hdf5
+1716.7029	10	stimulus_end	2	17167029	17167037				
+1716.8989	10	stimulus_start	1	17168989	17168997	56.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0056.hdf5
+1726.879	10	stimulus_end	2	17268790	17268798				
+1727.075	10	stimulus_start	1	17270750	17270758	56.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0056.hdf5
+1737.0551	10	stimulus_end	2	17370551	17370559				
+1737.2298	10	stimulus_start	1	17372298	17372306	56.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0056.hdf5
+1747.2098	10	stimulus_end	2	17472098	17472106				
+1747.4058	10	stimulus_start	1	17474058	17474066	57.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0057.hdf5
+1757.3859	10	stimulus_end	2	17573859	17573867				
+1757.5819	10	stimulus_start	1	17575819	17575827	57.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0057.hdf5
+1767.562	10	stimulus_end	2	17675620	17675628				
+1767.758	10	stimulus_start	1	17677580	17677588	57.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0057.hdf5
+1777.7381	10	stimulus_end	2	17777381	17777389				
+1777.8915	10	stimulus_start	1	17778915	17778923	58.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0058.hdf5
+1787.8715	10	stimulus_end	2	17878715	17878723				
+1788.0675	10	stimulus_start	1	17880675	17880683	58.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0058.hdf5
+1798.0476	10	stimulus_end	2	17980476	17980484				
+1798.2223	10	stimulus_start	1	17982223	17982231	58.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0058.hdf5
+1808.2024	10	stimulus_end	2	18082024	18082032				
+1808.3984	10	stimulus_start	1	18083984	18083992	59.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0059.hdf5
+1818.3785	10	stimulus_end	2	18183785	18183793				
+1818.5532	10	stimulus_start	1	18185532	18185540	59.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0059.hdf5
+1828.5332	10	stimulus_end	2	18285332	18285340				
+1828.7079	10	stimulus_start	1	18287079	18287087	59.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0059.hdf5
+1838.688	10	stimulus_end	2	18386880	18386888				
+1838.8627	10	stimulus_start	1	18388627	18388635	60.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0060.hdf5
+1848.8428	10	stimulus_end	2	18488428	18488436				
+1849.0174	10	stimulus_start	1	18490174	18490182	60.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0060.hdf5
+1858.9975	10	stimulus_end	2	18589975	18589983				
+1859.1722	10	stimulus_start	1	18591722	18591730	60.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0060.hdf5
+1869.1523	10	stimulus_end	2	18691523	18691531				
+1869.3483	10	stimulus_start	1	18693483	18693491	61.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0061.hdf5
+1879.3284	10	stimulus_end	2	18793284	18793292				
+1879.5244	10	stimulus_start	1	18795244	18795252	61.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0061.hdf5
+1889.5045	10	stimulus_end	2	18895045	18895053				
+1889.6791	10	stimulus_start	1	18896791	18896799	61.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0061.hdf5
+1899.6592	10	stimulus_end	2	18996592	18996600				
+1899.8552	10	stimulus_start	1	18998552	18998560	62.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0062.hdf5
+1909.8353	10	stimulus_end	2	19098353	19098361				
+1910.0313	10	stimulus_start	1	19100313	19100321	62.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0062.hdf5
+1920.0114	10	stimulus_end	2	19200114	19200122				
+1920.1861	10	stimulus_start	1	19201861	19201869	62.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0062.hdf5
+1930.1662	10	stimulus_end	2	19301662	19301670				
+1930.3622	10	stimulus_start	1	19303622	19303630	63.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0063.hdf5
+1940.3423	10	stimulus_end	2	19403423	19403431				
+1940.5383	10	stimulus_start	1	19405383	19405391	63.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0063.hdf5
+1950.5183	10	stimulus_end	2	19505183	19505191				
+1950.693	10	stimulus_start	1	19506930	19506938	63.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0063.hdf5
+1960.6731	10	stimulus_end	2	19606731	19606739				
+1960.8691	10	stimulus_start	1	19608691	19608699	64.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0064.hdf5
+1970.8492	10	stimulus_end	2	19708492	19708500				
+1971.0452	10	stimulus_start	1	19710452	19710460	64.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0064.hdf5
+1981.0253	10	stimulus_end	2	19810253	19810261				
+1981.2	10	stimulus_start	1	19812000	19812008	64.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0064.hdf5
+1991.18	10	stimulus_end	2	19911800	19911808				
+1991.376	10	stimulus_start	1	19913760	19913768	65.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0065.hdf5
+2001.3561	10	stimulus_end	2	20013561	20013569				
+2001.5308	10	stimulus_start	1	20015308	20015316	65.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0065.hdf5
+2011.5109	10	stimulus_end	2	20115109	20115117				
+2011.6856	10	stimulus_start	1	20116856	20116864	65.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0065.hdf5
+2021.6657	10	stimulus_end	2	20216657	20216665				
+2021.8617	10	stimulus_start	1	20218617	20218625	66.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0066.hdf5
+2031.8417	10	stimulus_end	2	20318417	20318425				
+2032.0164	10	stimulus_start	1	20320164	20320172	66.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0066.hdf5
+2041.9965	10	stimulus_end	2	20419965	20419973				
+2042.1712	10	stimulus_start	1	20421712	20421720	66.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0066.hdf5
+2052.1513	10	stimulus_end	2	20521513	20521521				
+2052.3473	10	stimulus_start	1	20523473	20523481	67.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0067.hdf5
+2062.3274	10	stimulus_end	2	20623274	20623282				
+2062.5234	10	stimulus_start	1	20625234	20625242	67.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0067.hdf5
+2072.5034	10	stimulus_end	2	20725034	20725042				
+2072.6781	10	stimulus_start	1	20726781	20726789	67.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0067.hdf5
+2082.6582	10	stimulus_end	2	20826582	20826590				
+2082.8542	10	stimulus_start	1	20828542	20828550	68.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0068.hdf5
+2092.8343	10	stimulus_end	2	20928343	20928351				
+2093.009	10	stimulus_start	1	20930090	20930098	68.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0068.hdf5
+2102.9891	10	stimulus_end	2	21029891	21029899				
+2103.1851	10	stimulus_start	1	21031851	21031859	68.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0068.hdf5
+2113.1651	10	stimulus_end	2	21131651	21131659				
+2113.3611	10	stimulus_start	1	21133611	21133619	69.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0069.hdf5
+2123.3412	10	stimulus_end	2	21233412	21233420				
+2123.5372	10	stimulus_start	1	21235372	21235380	69.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0069.hdf5
+2133.5173	10	stimulus_end	2	21335173	21335181				
+2133.7133	10	stimulus_start	1	21337133	21337141	69.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0069.hdf5
+2143.6934	10	stimulus_end	2	21436934	21436942				
+2143.8894	10	stimulus_start	1	21438894	21438902	70.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0070.hdf5
+2153.8695	10	stimulus_end	2	21538695	21538703				
+2154.0442	10	stimulus_start	1	21540442	21540450	70.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0070.hdf5
+2164.0243	10	stimulus_end	2	21640243	21640251				
+2164.1989	10	stimulus_start	1	21641989	21641997	70.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0070.hdf5
+2174.179	10	stimulus_end	2	21741790	21741798				
+2174.3537	10	stimulus_start	1	21743537	21743545	71.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0071.hdf5
+2184.3338	10	stimulus_end	2	21843338	21843346				
+2184.5298	10	stimulus_start	1	21845298	21845306	71.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0071.hdf5
+2194.5099	10	stimulus_end	2	21945099	21945107				
+2194.7059	10	stimulus_start	1	21947059	21947067	71.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0071.hdf5
+2204.686	10	stimulus_end	2	22046860	22046868				
+2204.8606	10	stimulus_start	1	22048606	22048614	72.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0072.hdf5
+2214.8407	10	stimulus_end	2	22148407	22148415				
+2215.0367	10	stimulus_start	1	22150367	22150375	72.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0072.hdf5
+2225.0168	10	stimulus_end	2	22250168	22250176				
+2225.1915	10	stimulus_start	1	22251915	22251923	72.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0072.hdf5
+2235.1716	10	stimulus_end	2	22351716	22351724				
+2235.3676	10	stimulus_start	1	22353676	22353684	73.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0073.hdf5
+2245.3477	10	stimulus_end	2	22453477	22453485				
+2245.5223	10	stimulus_start	1	22455223	22455231	73.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0073.hdf5
+2255.5024	10	stimulus_end	2	22555024	22555032				
+2255.6771	10	stimulus_start	1	22556771	22556779	73.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0073.hdf5
+2265.6572	10	stimulus_end	2	22656572	22656580				
+2265.8532	10	stimulus_start	1	22658532	22658540	74.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0074.hdf5
+2275.8333	10	stimulus_end	2	22758333	22758341				
+2276.0079	10	stimulus_start	1	22760079	22760087	74.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0074.hdf5
+2285.988	10	stimulus_end	2	22859880	22859888				
+2286.184	10	stimulus_start	1	22861840	22861848	74.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0074.hdf5
+2296.1641	10	stimulus_end	2	22961641	22961649				
+2296.3601	10	stimulus_start	1	22963601	22963609	75.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0075.hdf5
+2306.3402	10	stimulus_end	2	23063402	23063410				
+2306.5149	10	stimulus_start	1	23065149	23065157	75.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0075.hdf5
+2316.495	10	stimulus_end	2	23164950	23164958				
+2316.691	10	stimulus_start	1	23166910	23166918	75.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0075.hdf5
+2326.6711	10	stimulus_end	2	23266711	23266719				
+2326.8671	10	stimulus_start	1	23268671	23268679	76.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0076.hdf5
+2336.8472	10	stimulus_end	2	23368472	23368480				
+2337.0005	10	stimulus_start	1	23370005	23370013	76.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0076.hdf5
+2346.9806	10	stimulus_end	2	23469806	23469814				
+2347.1552	10	stimulus_start	1	23471552	23471560	76.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0076.hdf5
+2357.1353	10	stimulus_end	2	23571353	23571361				
+2357.31	10	stimulus_start	1	23573100	23573108	77.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0077.hdf5
+2367.2901	10	stimulus_end	2	23672901	23672909				
+2367.4861	10	stimulus_start	1	23674861	23674869	77.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0077.hdf5
+2377.4662	10	stimulus_end	2	23774662	23774670				
+2377.6622	10	stimulus_start	1	23776622	23776630	77.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0077.hdf5
+2387.6423	10	stimulus_end	2	23876423	23876431				
+2387.8169	10	stimulus_start	1	23878169	23878177	78.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0078.hdf5
+2397.797	10	stimulus_end	2	23977970	23977978				
+2397.993	10	stimulus_start	1	23979930	23979938	78.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0078.hdf5
+2407.9731	10	stimulus_end	2	24079731	24079739				
+2408.1691	10	stimulus_start	1	24081691	24081699	78.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0078.hdf5
+2418.1492	10	stimulus_end	2	24181492	24181500				
+2418.3239	10	stimulus_start	1	24183239	24183247	79.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0079.hdf5
+2428.304	10	stimulus_end	2	24283040	24283048				
+2428.5	10	stimulus_start	1	24285000	24285008	79.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0079.hdf5
+2438.4801	10	stimulus_end	2	24384801	24384809				
+2438.6761	10	stimulus_start	1	24386761	24386769	79.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0079.hdf5
+2448.6562	10	stimulus_end	2	24486562	24486570				
+2448.8308	10	stimulus_start	1	24488308	24488316	80.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0080.hdf5
+2458.8109	10	stimulus_end	2	24588109	24588117				
+2459.0069	10	stimulus_start	1	24590069	24590077	80.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0080.hdf5
+2468.987	10	stimulus_end	2	24689870	24689878				
+2469.183	10	stimulus_start	1	24691830	24691838	80.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0080.hdf5
+2479.1631	10	stimulus_end	2	24791631	24791639				
+2479.3378	10	stimulus_start	1	24793378	24793386	81.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0081.hdf5
+2489.3179	10	stimulus_end	2	24893179	24893187				
+2489.5139	10	stimulus_start	1	24895139	24895147	81.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0081.hdf5
+2499.4939	10	stimulus_end	2	24994939	24994947				
+2499.6686	10	stimulus_start	1	24996686	24996694	81.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0081.hdf5
+2509.6487	10	stimulus_end	2	25096487	25096495				
+2509.8447	10	stimulus_start	1	25098447	25098455	82.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0082.hdf5
+2519.8248	10	stimulus_end	2	25198248	25198256				
+2520.0208	10	stimulus_start	1	25200208	25200216	82.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0082.hdf5
+2530.0009	10	stimulus_end	2	25300009	25300017				
+2530.1756	10	stimulus_start	1	25301756	25301764	82.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0082.hdf5
+2540.1556	10	stimulus_end	2	25401556	25401564				
+2540.3303	10	stimulus_start	1	25403303	25403311	83.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0083.hdf5
+2550.3104	10	stimulus_end	2	25503104	25503112				
+2550.4851	10	stimulus_start	1	25504851	25504859	83.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0083.hdf5
+2560.4652	10	stimulus_end	2	25604652	25604660				
+2560.6398	10	stimulus_start	1	25606398	25606406	83.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0083.hdf5
+2570.6199	10	stimulus_end	2	25706199	25706207				
+2570.8159	10	stimulus_start	1	25708159	25708167	84.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0084.hdf5
+2580.796	10	stimulus_end	2	25807960	25807968				
+2580.9707	10	stimulus_start	1	25809707	25809715	84.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0084.hdf5
+2590.9508	10	stimulus_end	2	25909508	25909516				
+2591.1468	10	stimulus_start	1	25911468	25911476	84.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0084.hdf5
+2601.1269	10	stimulus_end	2	26011269	26011277				
+2601.3015	10	stimulus_start	1	26013015	26013023	85.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0085.hdf5
+2611.2816	10	stimulus_end	2	26112816	26112824				
+2611.4563	10	stimulus_start	1	26114563	26114571	85.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0085.hdf5
+2621.4364	10	stimulus_end	2	26214364	26214372				
+2621.6324	10	stimulus_start	1	26216324	26216332	85.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0085.hdf5
+2631.6125	10	stimulus_end	2	26316125	26316133				
+2631.8085	10	stimulus_start	1	26318085	26318093	86.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0086.hdf5
+2641.7886	10	stimulus_end	2	26417886	26417894				
+2641.9632	10	stimulus_start	1	26419632	26419640	86.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0086.hdf5
+2651.9433	10	stimulus_end	2	26519433	26519441				
+2652.118	10	stimulus_start	1	26521180	26521188	86.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0086.hdf5
+2662.0981	10	stimulus_end	2	26620981	26620989				
+2662.2941	10	stimulus_start	1	26622941	26622949	87.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0087.hdf5
+2672.2742	10	stimulus_end	2	26722742	26722750				
+2672.4488	10	stimulus_start	1	26724488	26724496	87.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0087.hdf5
+2682.4289	10	stimulus_end	2	26824289	26824297				
+2682.6249	10	stimulus_start	1	26826249	26826257	87.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0087.hdf5
+2692.605	10	stimulus_end	2	26926050	26926058				
+2692.7797	10	stimulus_start	1	26927797	26927805	88.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0088.hdf5
+2702.7598	10	stimulus_end	2	27027598	27027606				
+2702.9344	10	stimulus_start	1	27029344	27029352	88.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0088.hdf5
+2712.9145	10	stimulus_end	2	27129145	27129153				
+2713.1105	10	stimulus_start	1	27131105	27131113	88.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0088.hdf5
+2723.0906	10	stimulus_end	2	27230906	27230914				
+2723.2653	10	stimulus_start	1	27232653	27232661	89.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0089.hdf5
+2733.2454	10	stimulus_end	2	27332454	27332462				
+2733.4414	10	stimulus_start	1	27334414	27334422	89.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0089.hdf5
+2743.4215	10	stimulus_end	2	27434215	27434223				
+2743.6175	10	stimulus_start	1	27436175	27436183	89.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0089.hdf5
+2753.5976	10	stimulus_end	2	27535976	27535984				
+2753.7722	10	stimulus_start	1	27537722	27537730	90.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0090.hdf5
+2763.7523	10	stimulus_end	2	27637523	27637531				
+2763.9483	10	stimulus_start	1	27639483	27639491	90.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0090.hdf5
+2773.9284	10	stimulus_end	2	27739284	27739292				
+2774.1244	10	stimulus_start	1	27741244	27741252	90.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0090.hdf5
+2784.1045	10	stimulus_end	2	27841045	27841053				
+2784.3005	10	stimulus_start	1	27843005	27843013	91.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0091.hdf5
+2794.2806	10	stimulus_end	2	27942806	27942814				
+2794.4553	10	stimulus_start	1	27944553	27944561	91.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0091.hdf5
+2804.4353	10	stimulus_end	2	28044353	28044361				
+2804.6313	10	stimulus_start	1	28046313	28046321	91.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0091.hdf5
+2814.6114	10	stimulus_end	2	28146114	28146122				
+2814.7861	10	stimulus_start	1	28147861	28147869	92.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0092.hdf5
+2824.7662	10	stimulus_end	2	28247662	28247670				
+2824.9622	10	stimulus_start	1	28249622	28249630	92.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0092.hdf5
+2834.9423	10	stimulus_end	2	28349423	28349431				
+2835.0956	10	stimulus_start	1	28350956	28350964	92.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0092.hdf5
+2845.0757	10	stimulus_end	2	28450757	28450765				
+2845.2717	10	stimulus_start	1	28452717	28452725	93.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0093.hdf5
+2855.2518	10	stimulus_end	2	28552518	28552526				
+2855.4265	10	stimulus_start	1	28554265	28554273	93.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0093.hdf5
+2865.4066	10	stimulus_end	2	28654066	28654074				
+2865.5812	10	stimulus_start	1	28655812	28655820	93.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0093.hdf5
+2875.5613	10	stimulus_end	2	28755613	28755621				
+2875.7573	10	stimulus_start	1	28757573	28757581	94.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0094.hdf5
+2885.7374	10	stimulus_end	2	28857374	28857382				
+2885.9121	10	stimulus_start	1	28859121	28859129	94.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0094.hdf5
+2895.8922	10	stimulus_end	2	28958922	28958930				
+2896.0882	10	stimulus_start	1	28960882	28960890	94.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0094.hdf5
+2906.0683	10	stimulus_end	2	29060683	29060691				
+2906.2429	10	stimulus_start	1	29062429	29062437	95.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0095.hdf5
+2916.223	10	stimulus_end	2	29162230	29162238				
+2916.3977	10	stimulus_start	1	29163977	29163985	95.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0095.hdf5
+2926.3778	10	stimulus_end	2	29263778	29263786				
+2926.5738	10	stimulus_start	1	29265738	29265746	95.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0095.hdf5
+2936.5539	10	stimulus_end	2	29365539	29365547				
+2936.7072	10	stimulus_start	1	29367072	29367080	96.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0096.hdf5
+2946.6873	10	stimulus_end	2	29466873	29466881				
+2946.8833	10	stimulus_start	1	29468833	29468841	96.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0096.hdf5
+2956.8634	10	stimulus_end	2	29568634	29568642				
+2957.038	10	stimulus_start	1	29570380	29570388	96.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0096.hdf5
+2967.0181	10	stimulus_end	2	29670181	29670189				
+2967.2141	10	stimulus_start	1	29672141	29672149	97.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0097.hdf5
+2977.1942	10	stimulus_end	2	29771942	29771950				
+2977.3689	10	stimulus_start	1	29773689	29773697	97.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0097.hdf5
+2987.349	10	stimulus_end	2	29873490	29873498				
+2987.545	10	stimulus_start	1	29875450	29875458	97.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0097.hdf5
+2997.5251	10	stimulus_end	2	29975251	29975259				
+2997.7211	10	stimulus_start	1	29977211	29977219	98.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0098.hdf5
+3007.7012	10	stimulus_end	2	30077012	30077020				
+3007.8758	10	stimulus_start	1	30078758	30078766	98.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0098.hdf5
+3017.8559	10	stimulus_end	2	30178559	30178567				
+3018.0519	10	stimulus_start	1	30180519	30180527	98.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0098.hdf5
+3028.032	10	stimulus_end	2	30280320	30280328				
+3028.2067	10	stimulus_start	1	30282067	30282075	99.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0099.hdf5
+3038.1868	10	stimulus_end	2	30381868	30381876				
+3038.3614	10	stimulus_start	1	30383614	30383622	99.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0099.hdf5
+3048.3415	10	stimulus_end	2	30483415	30483423				
+3048.5162	10	stimulus_start	1	30485162	30485170	99.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0099.hdf5
+3058.4963	10	stimulus_end	2	30584963	30584971				
+3058.6923	10	stimulus_start	1	30586923	30586931	100.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0100.hdf5
+3068.6724	10	stimulus_end	2	30686724	30686732				
+3068.847	10	stimulus_start	1	30688470	30688478	100.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0100.hdf5
+3078.8271	10	stimulus_end	2	30788271	30788279				
+3079.0018	10	stimulus_start	1	30790018	30790026	100.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0100.hdf5
+3088.9819	10	stimulus_end	2	30889819	30889827				
+3089.1779	10	stimulus_start	1	30891779	30891787	101.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0101.hdf5
+3099.158	10	stimulus_end	2	30991580	30991588				
+3099.3327	10	stimulus_start	1	30993327	30993335	101.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0101.hdf5
+3109.3127	10	stimulus_end	2	31093127	31093135				
+3109.5087	10	stimulus_start	1	31095087	31095095	101.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0101.hdf5
+3119.4888	10	stimulus_end	2	31194888	31194896				
+3119.6635	10	stimulus_start	1	31196635	31196643	102.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0102.hdf5
+3129.6436	10	stimulus_end	2	31296436	31296444				
+3129.8396	10	stimulus_start	1	31298396	31298404	102.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0102.hdf5
+3139.8197	10	stimulus_end	2	31398197	31398205				
+3139.9944	10	stimulus_start	1	31399944	31399952	102.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0102.hdf5
+3149.9744	10	stimulus_end	2	31499744	31499752				
+3150.1704	10	stimulus_start	1	31501704	31501712	103.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0103.hdf5
+3160.1505	10	stimulus_end	2	31601505	31601513				
+3160.3465	10	stimulus_start	1	31603465	31603473	103.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0103.hdf5
+3170.3266	10	stimulus_end	2	31703266	31703274				
+3170.5013	10	stimulus_start	1	31705013	31705021	103.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0103.hdf5
+3180.4814	10	stimulus_end	2	31804814	31804822				
+3180.6774	10	stimulus_start	1	31806774	31806782	104.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0104.hdf5
+3190.6575	10	stimulus_end	2	31906575	31906583				
+3190.8535	10	stimulus_start	1	31908535	31908543	104.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0104.hdf5
+3200.8336	10	stimulus_end	2	32008336	32008344				
+3201.0082	10	stimulus_start	1	32010082	32010090	104.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0104.hdf5
+3210.9883	10	stimulus_end	2	32109883	32109891				
+3211.1843	10	stimulus_start	1	32111843	32111851	105.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0105.hdf5
+3221.1644	10	stimulus_end	2	32211644	32211652				
+3221.3391	10	stimulus_start	1	32213391	32213399	105.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0105.hdf5
+3231.3192	10	stimulus_end	2	32313192	32313200				
+3231.5152	10	stimulus_start	1	32315152	32315160	105.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0105.hdf5
+3241.4953	10	stimulus_end	2	32414953	32414961				
+3248.0364	10	stimulus_start	1	32480364	32480372	106.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0106.hdf5
+3258.0165	10	stimulus_end	2	32580165	32580173				
+3258.1912	10	stimulus_start	1	32581912	32581920	106.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0106.hdf5
+3268.1713	10	stimulus_end	2	32681713	32681721				
+3268.3673	10	stimulus_start	1	32683673	32683681	106.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0106.hdf5
+3278.3474	10	stimulus_end	2	32783474	32783482				
+3278.522	10	stimulus_start	1	32785220	32785228	107.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0107.hdf5
+3288.5021	10	stimulus_end	2	32885021	32885029				
+3288.6981	10	stimulus_start	1	32886981	32886989	107.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0107.hdf5
+3298.6782	10	stimulus_end	2	32986782	32986790				
+3298.8529	10	stimulus_start	1	32988529	32988537	107.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0107.hdf5
+3308.833	10	stimulus_end	2	33088330	33088338				
+3309.029	10	stimulus_start	1	33090290	33090298	108.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0108.hdf5
+3319.0091	10	stimulus_end	2	33190091	33190099				
+3319.1837	10	stimulus_start	1	33191837	33191845	108.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0108.hdf5
+3329.1638	10	stimulus_end	2	33291638	33291646				
+3329.3385	10	stimulus_start	1	33293385	33293393	108.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0108.hdf5
+3339.3186	10	stimulus_end	2	33393186	33393194				
+3339.5146	10	stimulus_start	1	33395146	33395154	109.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0109.hdf5
+3349.4947	10	stimulus_end	2	33494947	33494955				
+3349.6693	10	stimulus_start	1	33496693	33496701	109.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0109.hdf5
+3359.6494	10	stimulus_end	2	33596494	33596502				
+3359.8454	10	stimulus_start	1	33598454	33598462	109.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0109.hdf5
+3369.8255	10	stimulus_end	2	33698255	33698263				
+3370.0002	10	stimulus_start	1	33700002	33700010	110.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0110.hdf5
+3379.9803	10	stimulus_end	2	33799803	33799811				
+3380.1763	10	stimulus_start	1	33801763	33801771	110.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0110.hdf5
+3390.1564	10	stimulus_end	2	33901564	33901572				
+3390.331	10	stimulus_start	1	33903310	33903318	110.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0110.hdf5
+3400.3111	10	stimulus_end	2	34003111	34003119				
+3400.5071	10	stimulus_start	1	34005071	34005079	111.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0111.hdf5
+3410.4872	10	stimulus_end	2	34104872	34104880				
+3410.6619	10	stimulus_start	1	34106619	34106627	111.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0111.hdf5
+3420.642	10	stimulus_end	2	34206420	34206428				
+3420.838	10	stimulus_start	1	34208380	34208388	111.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0111.hdf5
+3430.8181	10	stimulus_end	2	34308181	34308189				
+3431.0141	10	stimulus_start	1	34310141	34310149	112.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0112.hdf5
+3440.9941	10	stimulus_end	2	34409941	34409949				
+3441.1688	10	stimulus_start	1	34411688	34411696	112.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0112.hdf5
+3451.1489	10	stimulus_end	2	34511489	34511497				
+3451.3449	10	stimulus_start	1	34513449	34513457	112.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0112.hdf5
+3461.325	10	stimulus_end	2	34613250	34613258				
+3461.521	10	stimulus_start	1	34615210	34615218	113.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0113.hdf5
+3471.5011	10	stimulus_end	2	34715011	34715019				
+3471.6758	10	stimulus_start	1	34716758	34716766	113.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0113.hdf5
+3481.6558	10	stimulus_end	2	34816558	34816566				
+3481.8518	10	stimulus_start	1	34818518	34818526	113.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0113.hdf5
+3491.8319	10	stimulus_end	2	34918319	34918327				
+3492.0066	10	stimulus_start	1	34920066	34920074	114.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0114.hdf5
+3501.9867	10	stimulus_end	2	35019867	35019875				
+3502.1827	10	stimulus_start	1	35021827	35021835	114.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0114.hdf5
+3512.1628	10	stimulus_end	2	35121628	35121636				
+3512.3374	10	stimulus_start	1	35123374	35123382	114.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0114.hdf5
+3522.3175	10	stimulus_end	2	35223175	35223183				
+3522.4922	10	stimulus_start	1	35224922	35224930	115.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0115.hdf5
+3532.4723	10	stimulus_end	2	35324723	35324731				
+3532.6683	10	stimulus_start	1	35326683	35326691	115.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0115.hdf5
+3542.6484	10	stimulus_end	2	35426484	35426492				
+3542.8231	10	stimulus_start	1	35428231	35428239	115.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0115.hdf5
+3552.8031	10	stimulus_end	2	35528031	35528039				
+3552.9991	10	stimulus_start	1	35529991	35529999	116.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0116.hdf5
+3562.9792	10	stimulus_end	2	35629792	35629800				
+3563.1752	10	stimulus_start	1	35631752	35631760	116.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0116.hdf5
+3573.1553	10	stimulus_end	2	35731553	35731561				
+3573.33	10	stimulus_start	1	35733300	35733308	116.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0116.hdf5
+3583.3101	10	stimulus_end	2	35833101	35833109				
+3583.5061	10	stimulus_start	1	35835061	35835069	117.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0117.hdf5
+3593.4862	10	stimulus_end	2	35934862	35934870				
+3593.6608	10	stimulus_start	1	35936608	35936616	117.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0117.hdf5
+3603.6409	10	stimulus_end	2	36036409	36036417				
+3603.8369	10	stimulus_start	1	36038369	36038377	117.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0117.hdf5
+3613.817	10	stimulus_end	2	36138170	36138178				
+3613.9917	10	stimulus_start	1	36139917	36139925	118.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0118.hdf5
+3623.9718	10	stimulus_end	2	36239718	36239726				
+3624.1678	10	stimulus_start	1	36241678	36241686	118.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0118.hdf5
+3634.1479	10	stimulus_end	2	36341479	36341487				
+3634.3225	10	stimulus_start	1	36343225	36343233	118.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0118.hdf5
+3644.3026	10	stimulus_end	2	36443026	36443034				
+3644.4986	10	stimulus_start	1	36444986	36444994	119.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0119.hdf5
+3654.4787	10	stimulus_end	2	36544787	36544795				
+3654.6747	10	stimulus_start	1	36546747	36546755	119.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0119.hdf5
+3664.6548	10	stimulus_end	2	36646548	36646556				
+3664.8295	10	stimulus_start	1	36648295	36648303	119.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0119.hdf5
+3674.8096	10	stimulus_end	2	36748096	36748104				
+3675.0056	10	stimulus_start	1	36750056	36750064	120.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0120.hdf5
+3684.9857	10	stimulus_end	2	36849857	36849865				
+3685.1603	10	stimulus_start	1	36851603	36851611	120.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0120.hdf5
+3695.1404	10	stimulus_end	2	36951404	36951412				
+3695.3151	10	stimulus_start	1	36953151	36953159	120.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0120.hdf5
+3705.2952	10	stimulus_end	2	37052952	37052960				
+3705.4912	10	stimulus_start	1	37054912	37054920	121.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0121.hdf5
+3715.4713	10	stimulus_end	2	37154713	37154721				
+3715.6459	10	stimulus_start	1	37156459	37156467	121.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0121.hdf5
+3725.626	10	stimulus_end	2	37256260	37256268				
+3725.822	10	stimulus_start	1	37258220	37258228	121.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0121.hdf5
+3735.8021	10	stimulus_end	2	37358021	37358029				
+3735.9981	10	stimulus_start	1	37359981	37359989	122.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0122.hdf5
+3745.9782	10	stimulus_end	2	37459782	37459790				
+3746.1529	10	stimulus_start	1	37461529	37461537	122.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0122.hdf5
+3756.133	10	stimulus_end	2	37561330	37561338				
+3756.329	10	stimulus_start	1	37563290	37563298	122.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0122.hdf5
+3766.309	10	stimulus_end	2	37663090	37663098				
+3766.505	10	stimulus_start	1	37665050	37665058	123.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0123.hdf5
+3776.4851	10	stimulus_end	2	37764851	37764859				
+3776.6598	10	stimulus_start	1	37766598	37766606	123.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0123.hdf5
+3786.6399	10	stimulus_end	2	37866399	37866407				
+3786.8359	10	stimulus_start	1	37868359	37868367	123.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0123.hdf5
+3796.816	10	stimulus_end	2	37968160	37968168				
+3796.9907	10	stimulus_start	1	37969907	37969915	124.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0124.hdf5
+3806.9707	10	stimulus_end	2	38069707	38069715				
+3807.1454	10	stimulus_start	1	38071454	38071462	124.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0124.hdf5
+3817.1255	10	stimulus_end	2	38171255	38171263				
+3817.3215	10	stimulus_start	1	38173215	38173223	124.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0124.hdf5
+3827.3016	10	stimulus_end	2	38273016	38273024				
+3827.4763	10	stimulus_start	1	38274763	38274771	125.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0125.hdf5
+3837.4563	10	stimulus_end	2	38374563	38374571				
+3837.6523	10	stimulus_start	1	38376523	38376531	125.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0125.hdf5
+3847.6324	10	stimulus_end	2	38476324	38476332				
+3847.8071	10	stimulus_start	1	38478071	38478079	125.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0125.hdf5
+3857.7872	10	stimulus_end	2	38577872	38577880				
+3857.9832	10	stimulus_start	1	38579832	38579840	126.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0126.hdf5
+3867.9633	10	stimulus_end	2	38679633	38679641				
+3868.138	10	stimulus_start	1	38681380	38681388	126.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0126.hdf5
+3878.118	10	stimulus_end	2	38781180	38781188				
+3878.314	10	stimulus_start	1	38783140	38783148	126.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0126.hdf5
+3888.2941	10	stimulus_end	2	38882941	38882949				
+3888.4901	10	stimulus_start	1	38884901	38884909	127.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0127.hdf5
+3898.4702	10	stimulus_end	2	38984702	38984710				
+3898.6449	10	stimulus_start	1	38986449	38986457	127.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0127.hdf5
+3908.625	10	stimulus_end	2	39086250	39086258				
+3908.821	10	stimulus_start	1	39088210	39088218	127.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0127.hdf5
+3918.8011	10	stimulus_end	2	39188011	39188019				
+3918.9757	10	stimulus_start	1	39189757	39189765	128.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0128.hdf5
+3928.9558	10	stimulus_end	2	39289558	39289566				
+3929.1305	10	stimulus_start	1	39291305	39291313	128.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0128.hdf5
+3939.1106	10	stimulus_end	2	39391106	39391114				
+3939.3066	10	stimulus_start	1	39393066	39393074	128.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0128.hdf5
+3949.2867	10	stimulus_end	2	39492867	39492875				
+3949.4613	10	stimulus_start	1	39494613	39494621	129.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0129.hdf5
+3959.4414	10	stimulus_end	2	39594414	39594422				
+3959.6161	10	stimulus_start	1	39596161	39596169	129.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0129.hdf5
+3969.5962	10	stimulus_end	2	39695962	39695970				
+3969.7922	10	stimulus_start	1	39697922	39697930	129.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0129.hdf5
+3979.7723	10	stimulus_end	2	39797723	39797731				
+3979.9469	10	stimulus_start	1	39799469	39799477	130.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0130.hdf5
+3989.927	10	stimulus_end	2	39899270	39899278				
+3990.1017	10	stimulus_start	1	39901017	39901025	130.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0130.hdf5
+4000.0818	10	stimulus_end	2	40000818	40000826				
+4000.2778	10	stimulus_start	1	40002778	40002786	130.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0130.hdf5
+4010.2579	10	stimulus_end	2	40102579	40102587				
+4010.4326	10	stimulus_start	1	40104326	40104334	131.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0131.hdf5
+4020.4126	10	stimulus_end	2	40204126	40204134				
+4020.6086	10	stimulus_start	1	40206086	40206094	131.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0131.hdf5
+4030.5887	10	stimulus_end	2	40305887	40305895				
+4030.7634	10	stimulus_start	1	40307634	40307642	131.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0131.hdf5
+4040.7435	10	stimulus_end	2	40407435	40407443				
+4040.9395	10	stimulus_start	1	40409395	40409403	132.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0132.hdf5
+4050.9196	10	stimulus_end	2	40509196	40509204				
+4051.0942	10	stimulus_start	1	40510942	40510950	132.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0132.hdf5
+4061.0743	10	stimulus_end	2	40610743	40610751				
+4061.249	10	stimulus_start	1	40612490	40612498	132.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0132.hdf5
+4071.2291	10	stimulus_end	2	40712291	40712299				
+4071.4251	10	stimulus_start	1	40714251	40714259	133.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0133.hdf5
+4081.4052	10	stimulus_end	2	40814052	40814060				
+4081.5799	10	stimulus_start	1	40815799	40815807	133.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0133.hdf5
+4091.5599	10	stimulus_end	2	40915599	40915607				
+4091.7559	10	stimulus_start	1	40917559	40917567	133.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0133.hdf5
+4101.736	10	stimulus_end	2	41017360	41017368				
+4101.9107	10	stimulus_start	1	41019107	41019115	134.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0134.hdf5
+4111.8908	10	stimulus_end	2	41118908	41118916				
+4112.0655	10	stimulus_start	1	41120655	41120663	134.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0134.hdf5
+4122.0455	10	stimulus_end	2	41220455	41220463				
+4122.2415	10	stimulus_start	1	41222415	41222423	134.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0134.hdf5
+4132.2216	10	stimulus_end	2	41322216	41322224				
+4132.4176	10	stimulus_start	1	41324176	41324184	135.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0135.hdf5
+4142.3977	10	stimulus_end	2	41423977	41423985				
+4142.5937	10	stimulus_start	1	41425937	41425945	135.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0135.hdf5
+4152.5738	10	stimulus_end	2	41525738	41525746				
+4152.7485	10	stimulus_start	1	41527485	41527493	135.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0135.hdf5
+4162.7286	10	stimulus_end	2	41627286	41627294				
+4162.9246	10	stimulus_start	1	41629246	41629254	136.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0136.hdf5
+4172.9047	10	stimulus_end	2	41729047	41729055				
+4173.1007	10	stimulus_start	1	41731007	41731015	136.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0136.hdf5
+4183.0808	10	stimulus_end	2	41830808	41830816				
+4183.2554	10	stimulus_start	1	41832554	41832562	136.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0136.hdf5
+4193.2355	10	stimulus_end	2	41932355	41932363				
+4193.4315	10	stimulus_start	1	41934315	41934323	137.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0137.hdf5
+4203.4116	10	stimulus_end	2	42034116	42034124				
+4203.5863	10	stimulus_start	1	42035863	42035871	137.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0137.hdf5
+4213.5664	10	stimulus_end	2	42135664	42135672				
+4213.7624	10	stimulus_start	1	42137624	42137632	137.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0137.hdf5
+4223.7425	10	stimulus_end	2	42237425	42237433				
+4223.9385	10	stimulus_start	1	42239385	42239393	138.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0138.hdf5
+4233.9185	10	stimulus_end	2	42339185	42339193				
+4234.0932	10	stimulus_start	1	42340932	42340940	138.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0138.hdf5
+4244.0733	10	stimulus_end	2	42440733	42440741				
+4244.2693	10	stimulus_start	1	42442693	42442701	138.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0138.hdf5
+4254.2494	10	stimulus_end	2	42542494	42542502				
+4254.4241	10	stimulus_start	1	42544241	42544249	139.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0139.hdf5
+4264.4041	10	stimulus_end	2	42644041	42644049				
+4264.6002	10	stimulus_start	1	42646002	42646010	139.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0139.hdf5
+4274.5802	10	stimulus_end	2	42745802	42745810				
+4274.7549	10	stimulus_start	1	42747549	42747557	139.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0139.hdf5
+4284.735	10	stimulus_end	2	42847350	42847358				
+4284.931	10	stimulus_start	1	42849310	42849318	140.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0140.hdf5
+4294.9111	10	stimulus_end	2	42949111	42949119				
+4295.0858	10	stimulus_start	1	42950858	42950866	140.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0140.hdf5
+4305.0658	10	stimulus_end	2	43050658	43050666				
+4305.2618	10	stimulus_start	1	43052618	43052626	140.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0140.hdf5
+4315.2419	10	stimulus_end	2	43152419	43152427				
+4315.4379	10	stimulus_start	1	43154379	43154387	141.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0141.hdf5
+4325.418	10	stimulus_end	2	43254180	43254188				
+4325.5927	10	stimulus_start	1	43255927	43255935	141.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0141.hdf5
+4335.5728	10	stimulus_end	2	43355728	43355736				
+4335.7688	10	stimulus_start	1	43357688	43357696	141.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0141.hdf5
+4345.7489	10	stimulus_end	2	43457489	43457497				
+4345.9235	10	stimulus_start	1	43459235	43459243	142.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0142.hdf5
+4355.9036	10	stimulus_end	2	43559036	43559044				
+4356.0783	10	stimulus_start	1	43560783	43560791	142.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0142.hdf5
+4366.0584	10	stimulus_end	2	43660584	43660592				
+4366.2544	10	stimulus_start	1	43662544	43662552	142.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0142.hdf5
+4376.2345	10	stimulus_end	2	43762345	43762353				
+4376.4091	10	stimulus_start	1	43764091	43764099	143.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0143.hdf5
+4386.3892	10	stimulus_end	2	43863892	43863900				
+4386.5639	10	stimulus_start	1	43865639	43865647	143.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0143.hdf5
+4396.544	10	stimulus_end	2	43965440	43965448				
+4396.6973	10	stimulus_start	1	43966973	43966981	143.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0143.hdf5
+4406.6774	10	stimulus_end	2	44066774	44066782				
+4406.8521	10	stimulus_start	1	44068521	44068529	144.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0144.hdf5
+4416.8322	10	stimulus_end	2	44168322	44168330				
+4416.9855	10	stimulus_start	1	44169855	44169863	144.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0144.hdf5
+4426.9656	10	stimulus_end	2	44269656	44269664				
+4427.1616	10	stimulus_start	1	44271616	44271624	144.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0144.hdf5
+4437.1417	10	stimulus_end	2	44371417	44371425				
+4437.3164	10	stimulus_start	1	44373164	44373172	145.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0145.hdf5
+4447.2964	10	stimulus_end	2	44472964	44472972				
+4447.4924	10	stimulus_start	1	44474924	44474932	145.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0145.hdf5
+4457.4725	10	stimulus_end	2	44574725	44574733				
+4457.6472	10	stimulus_start	1	44576472	44576480	145.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0145.hdf5
+4467.6273	10	stimulus_end	2	44676273	44676281				
+4467.7806	10	stimulus_start	1	44677806	44677814	146.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0146.hdf5
+4477.7607	10	stimulus_end	2	44777607	44777615				
+4477.9567	10	stimulus_start	1	44779567	44779575	146.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0146.hdf5
+4487.9368	10	stimulus_end	2	44879368	44879376				
+4488.0901	10	stimulus_start	1	44880901	44880909	146.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0146.hdf5
+4498.0702	10	stimulus_end	2	44980702	44980710				
+4498.2236	10	stimulus_start	1	44982236	44982244	147.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0147.hdf5
+4508.2037	10	stimulus_end	2	45082037	45082045				
+4508.3997	10	stimulus_start	1	45083997	45084005	147.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0147.hdf5
+4518.3797	10	stimulus_end	2	45183797	45183805				
+4518.5544	10	stimulus_start	1	45185544	45185552	147.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0147.hdf5
+4528.5345	10	stimulus_end	2	45285345	45285353				
+4528.7092	10	stimulus_start	1	45287092	45287100	148.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0148.hdf5
+4538.6893	10	stimulus_end	2	45386893	45386901				
+4538.8426	10	stimulus_start	1	45388426	45388434	148.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0148.hdf5
+4548.8227	10	stimulus_end	2	45488227	45488235				
+4548.9973	10	stimulus_start	1	45489973	45489981	148.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0148.hdf5
+4558.9774	10	stimulus_end	2	45589774	45589782				
+4559.1308	10	stimulus_start	1	45591308	45591316	149.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0149.hdf5
+4569.1109	10	stimulus_end	2	45691109	45691117				
+4569.2855	10	stimulus_start	1	45692855	45692863	149.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0149.hdf5
+4579.2656	10	stimulus_end	2	45792656	45792664				
+4579.4616	10	stimulus_start	1	45794616	45794624	149.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0149.hdf5
+4589.4417	10	stimulus_end	2	45894417	45894425				
+4589.659	10	stimulus_start	1	45896590	45896598	150.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0150.hdf5
+4599.6391	10	stimulus_end	2	45996391	45996399				
+4599.8351	10	stimulus_start	1	45998351	45998359	150.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0150.hdf5
+4609.8152	10	stimulus_end	2	46098152	46098160				
+4610.0112	10	stimulus_start	1	46100112	46100120	150.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0150.hdf5
+4619.9913	10	stimulus_end	2	46199913	46199921				
+4620.2086	10	stimulus_start	1	46202086	46202094	151.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0151.hdf5
+4630.1887	10	stimulus_end	2	46301887	46301895				
+4630.3847	10	stimulus_start	1	46303847	46303855	151.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0151.hdf5
+4640.3648	10	stimulus_end	2	46403648	46403656				
+4640.5608	10	stimulus_start	1	46405608	46405616	151.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0151.hdf5
+4650.5409	10	stimulus_end	2	46505409	46505417				
+4650.7369	10	stimulus_start	1	46507369	46507377	152.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0152.hdf5
+4660.717	10	stimulus_end	2	46607170	46607178				
+4660.9343	10	stimulus_start	1	46609343	46609351	152.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0152.hdf5
+4670.9144	10	stimulus_end	2	46709144	46709152				
+4671.1104	10	stimulus_start	1	46711104	46711112	152.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0152.hdf5
+4681.0905	10	stimulus_end	2	46810905	46810913				
+4681.2652	10	stimulus_start	1	46812652	46812660	153.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0153.hdf5
+4691.2453	10	stimulus_end	2	46912453	46912461				
+4691.4413	10	stimulus_start	1	46914413	46914421	153.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0153.hdf5
+4701.4214	10	stimulus_end	2	47014214	47014222				
+4701.596	10	stimulus_start	1	47015960	47015968	153.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0153.hdf5
+4711.5761	10	stimulus_end	2	47115761	47115769				
+4711.7721	10	stimulus_start	1	47117721	47117729	154.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0154.hdf5
+4721.7522	10	stimulus_end	2	47217522	47217530				
+4721.9269	10	stimulus_start	1	47219269	47219277	154.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0154.hdf5
+4731.907	10	stimulus_end	2	47319070	47319078				
+4732.103	10	stimulus_start	1	47321030	47321038	154.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0154.hdf5
+4742.0831	10	stimulus_end	2	47420831	47420839				
+4742.2791	10	stimulus_start	1	47422791	47422799	155.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0155.hdf5
+4752.2592	10	stimulus_end	2	47522592	47522600				
+4752.4338	10	stimulus_start	1	47524338	47524346	155.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0155.hdf5
+4762.4139	10	stimulus_end	2	47624139	47624147				
+4762.6099	10	stimulus_start	1	47626099	47626107	155.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0155.hdf5
+4772.59	10	stimulus_end	2	47725900	47725908				
+4772.7647	10	stimulus_start	1	47727647	47727655	156.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0156.hdf5
+4782.7448	10	stimulus_end	2	47827448	47827456				
+4782.9408	10	stimulus_start	1	47829408	47829416	156.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0156.hdf5
+4792.9209	10	stimulus_end	2	47929209	47929217				
+4793.0955	10	stimulus_start	1	47930955	47930963	156.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0156.hdf5
+4803.0756	10	stimulus_end	2	48030756	48030764				
+4803.2503	10	stimulus_start	1	48032503	48032511	157.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0157.hdf5
+4813.2304	10	stimulus_end	2	48132304	48132312				
+4813.405	10	stimulus_start	1	48134050	48134058	157.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0157.hdf5
+4823.3851	10	stimulus_end	2	48233851	48233859				
+4823.5598	10	stimulus_start	1	48235598	48235606	157.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0157.hdf5
+4833.5399	10	stimulus_end	2	48335399	48335407				
+4833.7359	10	stimulus_start	1	48337359	48337367	158.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0158.hdf5
+4843.716	10	stimulus_end	2	48437160	48437168				
+4843.912	10	stimulus_start	1	48439120	48439128	158.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0158.hdf5
+4853.8921	10	stimulus_end	2	48538921	48538929				
+4854.0667	10	stimulus_start	1	48540667	48540675	158.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0158.hdf5
+4864.0468	10	stimulus_end	2	48640468	48640476				
+4864.2428	10	stimulus_start	1	48642428	48642436	159.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0159.hdf5
+4874.2229	10	stimulus_end	2	48742229	48742237				
+4874.3976	10	stimulus_start	1	48743976	48743984	159.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0159.hdf5
+4884.3777	10	stimulus_end	2	48843777	48843785				
+4884.5737	10	stimulus_start	1	48845737	48845745	159.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0159.hdf5
+4894.5538	10	stimulus_end	2	48945538	48945546				
+4894.7498	10	stimulus_start	1	48947498	48947506	160.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0160.hdf5
+4904.7298	10	stimulus_end	2	49047298	49047306				
+4904.9045	10	stimulus_start	1	49049045	49049053	160.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0160.hdf5
+4914.8846	10	stimulus_end	2	49148846	49148854				
+4915.0806	10	stimulus_start	1	49150806	49150814	160.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0160.hdf5
+4925.0607	10	stimulus_end	2	49250607	49250615				
+4925.2354	10	stimulus_start	1	49252354	49252362	161.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0161.hdf5
+4935.2154	10	stimulus_end	2	49352154	49352162				
+4935.4115	10	stimulus_start	1	49354115	49354123	161.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0161.hdf5
+4945.3915	10	stimulus_end	2	49453915	49453923				
+4945.5662	10	stimulus_start	1	49455662	49455670	161.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0161.hdf5
+4955.5463	10	stimulus_end	2	49555463	49555471				
+4955.7423	10	stimulus_start	1	49557423	49557431	162.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0162.hdf5
+4965.7224	10	stimulus_end	2	49657224	49657232				
+4965.9184	10	stimulus_start	1	49659184	49659192	162.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0162.hdf5
+4975.8985	10	stimulus_end	2	49758985	49758993				
+4976.0731	10	stimulus_start	1	49760731	49760739	162.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0162.hdf5
+4986.0532	10	stimulus_end	2	49860532	49860540				
+4986.2492	10	stimulus_start	1	49862492	49862500	163.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0163.hdf5
+4996.2293	10	stimulus_end	2	49962293	49962301				
+4996.404	10	stimulus_start	1	49964040	49964048	163.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0163.hdf5
+5006.3841	10	stimulus_end	2	50063841	50063849				
+5006.5801	10	stimulus_start	1	50065801	50065809	163.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0163.hdf5
+5016.5602	10	stimulus_end	2	50165602	50165610				
+5016.7562	10	stimulus_start	1	50167562	50167570	164.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0164.hdf5
+5026.7363	10	stimulus_end	2	50267363	50267371				
+5026.9323	10	stimulus_start	1	50269323	50269331	164.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0164.hdf5
+5036.9124	10	stimulus_end	2	50369124	50369132				
+5037.087	10	stimulus_start	1	50370870	50370878	164.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0164.hdf5
+5047.0671	10	stimulus_end	2	50470671	50470679				
+5047.2631	10	stimulus_start	1	50472631	50472639	165.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0165.hdf5
+5057.2432	10	stimulus_end	2	50572432	50572440				
+5057.4179	10	stimulus_start	1	50574179	50574187	165.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0165.hdf5
+5067.398	10	stimulus_end	2	50673980	50673988				
+5067.594	10	stimulus_start	1	50675940	50675948	165.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0165.hdf5
+5077.574	10	stimulus_end	2	50775740	50775748				
+5077.77	10	stimulus_start	1	50777700	50777708	166.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0166.hdf5
+5087.7501	10	stimulus_end	2	50877501	50877509				
+5087.9248	10	stimulus_start	1	50879248	50879256	166.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0166.hdf5
+5097.9049	10	stimulus_end	2	50979049	50979057				
+5098.0796	10	stimulus_start	1	50980796	50980804	166.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0166.hdf5
+5108.0597	10	stimulus_end	2	51080597	51080605				
+5108.2557	10	stimulus_start	1	51082557	51082565	167.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0167.hdf5
+5118.2357	10	stimulus_end	2	51182357	51182365				
+5118.4317	10	stimulus_start	1	51184317	51184325	167.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0167.hdf5
+5128.4118	10	stimulus_end	2	51284118	51284126				
+5128.5865	10	stimulus_start	1	51285865	51285873	167.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0167.hdf5
+5138.5666	10	stimulus_end	2	51385666	51385674				
+5138.7626	10	stimulus_start	1	51387626	51387634	168.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0168.hdf5
+5148.7427	10	stimulus_end	2	51487427	51487435				
+5148.9173	10	stimulus_start	1	51489173	51489181	168.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0168.hdf5
+5158.8974	10	stimulus_end	2	51588974	51588982				
+5159.0934	10	stimulus_start	1	51590934	51590942	168.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0168.hdf5
+5169.0735	10	stimulus_end	2	51690735	51690743				
+5169.2695	10	stimulus_start	1	51692695	51692703	169.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0169.hdf5
+5179.2496	10	stimulus_end	2	51792496	51792504				
+5179.4456	10	stimulus_start	1	51794456	51794464	169.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0169.hdf5
+5189.4257	10	stimulus_end	2	51894257	51894265				
+5189.6004	10	stimulus_start	1	51896004	51896012	169.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0169.hdf5
+5199.5805	10	stimulus_end	2	51995805	51995813				
+5199.7765	10	stimulus_start	1	51997765	51997773	170.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0170.hdf5
+5209.7566	10	stimulus_end	2	52097566	52097574				
+5209.9312	10	stimulus_start	1	52099312	52099320	170.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0170.hdf5
+5219.9113	10	stimulus_end	2	52199113	52199121				
+5220.1073	10	stimulus_start	1	52201073	52201081	170.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0170.hdf5
+5230.0874	10	stimulus_end	2	52300874	52300882				
+5230.2621	10	stimulus_start	1	52302621	52302629	171.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0171.hdf5
+5240.2422	10	stimulus_end	2	52402422	52402430				
+5240.4168	10	stimulus_start	1	52404168	52404176	171.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0171.hdf5
+5250.3969	10	stimulus_end	2	52503969	52503977				
+5250.5716	10	stimulus_start	1	52505716	52505724	171.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0171.hdf5
+5260.5517	10	stimulus_end	2	52605517	52605525				
+5260.7477	10	stimulus_start	1	52607477	52607485	172.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0172.hdf5
+5270.7278	10	stimulus_end	2	52707278	52707286				
+5270.9238	10	stimulus_start	1	52709238	52709246	172.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0172.hdf5
+5280.9039	10	stimulus_end	2	52809039	52809047				
+5281.0785	10	stimulus_start	1	52810785	52810793	172.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0172.hdf5
+5291.0586	10	stimulus_end	2	52910586	52910594				
+5291.2546	10	stimulus_start	1	52912546	52912554	173.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0173.hdf5
+5301.2347	10	stimulus_end	2	53012347	53012355				
+5301.4307	10	stimulus_start	1	53014307	53014315	173.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0173.hdf5
+5311.4108	10	stimulus_end	2	53114108	53114116				
+5311.5855	10	stimulus_start	1	53115855	53115863	173.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0173.hdf5
+5321.5655	10	stimulus_end	2	53215655	53215663				
+5321.7615	10	stimulus_start	1	53217615	53217623	174.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0174.hdf5
+5331.7416	10	stimulus_end	2	53317416	53317424				
+5331.9163	10	stimulus_start	1	53319163	53319171	174.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0174.hdf5
+5341.8964	10	stimulus_end	2	53418964	53418972				
+5342.0711	10	stimulus_start	1	53420711	53420719	174.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0174.hdf5
+5352.0512	10	stimulus_end	2	53520512	53520520				
+5352.2472	10	stimulus_start	1	53522472	53522480	175.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0175.hdf5
+5362.2272	10	stimulus_end	2	53622272	53622280				
+5362.4019	10	stimulus_start	1	53624019	53624027	175.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0175.hdf5
+5372.382	10	stimulus_end	2	53723820	53723828				
+5372.5567	10	stimulus_start	1	53725567	53725575	175.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0175.hdf5
+5382.5368	10	stimulus_end	2	53825368	53825376				
+5382.7328	10	stimulus_start	1	53827328	53827336	176.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0176.hdf5
+5392.7128	10	stimulus_end	2	53927128	53927136				
+5392.8875	10	stimulus_start	1	53928875	53928883	176.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0176.hdf5
+5402.8676	10	stimulus_end	2	54028676	54028684				
+5403.0636	10	stimulus_start	1	54030636	54030644	176.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0176.hdf5
+5413.0437	10	stimulus_end	2	54130437	54130445				
+5413.2397	10	stimulus_start	1	54132397	54132405	177.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0177.hdf5
+5423.2198	10	stimulus_end	2	54232198	54232206				
+5423.3945	10	stimulus_start	1	54233945	54233953	177.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0177.hdf5
+5433.3745	10	stimulus_end	2	54333745	54333753				
+5433.5705	10	stimulus_start	1	54335705	54335713	177.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0177.hdf5
+5443.5506	10	stimulus_end	2	54435506	54435514				
+5443.7466	10	stimulus_start	1	54437466	54437474	178.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0178.hdf5
+5453.7267	10	stimulus_end	2	54537267	54537275				
+5453.9014	10	stimulus_start	1	54539014	54539022	178.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0178.hdf5
+5463.8815	10	stimulus_end	2	54638815	54638823				
+5464.0775	10	stimulus_start	1	54640775	54640783	178.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0178.hdf5
+5474.0576	10	stimulus_end	2	54740576	54740584				
+5474.2536	10	stimulus_start	1	54742536	54742544	179.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0179.hdf5
+5484.2337	10	stimulus_end	2	54842337	54842345				
+5484.4083	10	stimulus_start	1	54844083	54844091	179.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0179.hdf5
+5494.3884	10	stimulus_end	2	54943884	54943892				
+5494.5631	10	stimulus_start	1	54945631	54945639	179.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0179.hdf5
+5504.5432	10	stimulus_end	2	55045432	55045440				
+5504.7392	10	stimulus_start	1	55047392	55047400	180.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0180.hdf5
+5514.7193	10	stimulus_end	2	55147193	55147201				
+5514.8939	10	stimulus_start	1	55148939	55148947	180.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0180.hdf5
+5524.874	10	stimulus_end	2	55248740	55248748				
+5525.07	10	stimulus_start	1	55250700	55250708	180.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0180.hdf5
+5535.0501	10	stimulus_end	2	55350501	55350509				
+5535.2248	10	stimulus_start	1	55352248	55352256	181.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0181.hdf5
+5545.2049	10	stimulus_end	2	55452049	55452057				
+5545.4009	10	stimulus_start	1	55454009	55454017	181.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0181.hdf5
+5555.381	10	stimulus_end	2	55553810	55553818				
+5555.5556	10	stimulus_start	1	55555556	55555564	181.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0181.hdf5
+5565.5357	10	stimulus_end	2	55655357	55655365				
+5565.7317	10	stimulus_start	1	55657317	55657325	182.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0182.hdf5
+5575.7118	10	stimulus_end	2	55757118	55757126				
+5575.9078	10	stimulus_start	1	55759078	55759086	182.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0182.hdf5
+5585.8879	10	stimulus_end	2	55858879	55858887				
+5586.0626	10	stimulus_start	1	55860626	55860634	182.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0182.hdf5
+5596.0426	10	stimulus_end	2	55960426	55960434				
+5596.2386	10	stimulus_start	1	55962386	55962394	183.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0183.hdf5
+5606.2187	10	stimulus_end	2	56062187	56062195				
+5606.4147	10	stimulus_start	1	56064147	56064155	183.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0183.hdf5
+5616.3948	10	stimulus_end	2	56163948	56163956				
+5616.5695	10	stimulus_start	1	56165695	56165703	183.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0183.hdf5
+5626.5496	10	stimulus_end	2	56265496	56265504				
+5626.7456	10	stimulus_start	1	56267456	56267464	184.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0184.hdf5
+5636.7257	10	stimulus_end	2	56367257	56367265				
+5636.9217	10	stimulus_start	1	56369217	56369225	184.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0184.hdf5
+5646.9018	10	stimulus_end	2	56469018	56469026				
+5647.0978	10	stimulus_start	1	56470978	56470986	184.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0184.hdf5
+5657.0779	10	stimulus_end	2	56570779	56570787				
+5657.2525	10	stimulus_start	1	56572525	56572533	185.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0185.hdf5
+5667.2326	10	stimulus_end	2	56672326	56672334				
+5667.4286	10	stimulus_start	1	56674286	56674294	185.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0185.hdf5
+5677.4087	10	stimulus_end	2	56774087	56774095				
+5677.5834	10	stimulus_start	1	56775834	56775842	185.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0185.hdf5
+5687.5635	10	stimulus_end	2	56875635	56875643				
+5687.7595	10	stimulus_start	1	56877595	56877603	186.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0186.hdf5
+5697.7396	10	stimulus_end	2	56977396	56977404				
+5697.9142	10	stimulus_start	1	56979142	56979150	186.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0186.hdf5
+5707.8943	10	stimulus_end	2	57078943	57078951				
+5708.069	10	stimulus_start	1	57080690	57080698	186.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0186.hdf5
+5718.0491	10	stimulus_end	2	57180491	57180499				
+5718.2451	10	stimulus_start	1	57182451	57182459	187.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0187.hdf5
+5728.2252	10	stimulus_end	2	57282252	57282260				
+5728.3998	10	stimulus_start	1	57283998	57284006	187.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0187.hdf5
+5738.3799	10	stimulus_end	2	57383799	57383807				
+5738.5332	10	stimulus_start	1	57385332	57385340	187.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0187.hdf5
+5748.5133	10	stimulus_end	2	57485133	57485141				
+5748.7093	10	stimulus_start	1	57487093	57487101	188.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0188.hdf5
+5758.6894	10	stimulus_end	2	57586894	57586902				
+5758.8641	10	stimulus_start	1	57588641	57588649	188.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0188.hdf5
+5768.8442	10	stimulus_end	2	57688442	57688450				
+5769.0402	10	stimulus_start	1	57690402	57690410	188.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0188.hdf5
+5779.0203	10	stimulus_end	2	57790203	57790211				
+5779.1949	10	stimulus_start	1	57791949	57791957	189.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0189.hdf5
+5789.175	10	stimulus_end	2	57891750	57891758				
+5789.3497	10	stimulus_start	1	57893497	57893505	189.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0189.hdf5
+5799.3298	10	stimulus_end	2	57993298	57993306				
+5799.5045	10	stimulus_start	1	57995045	57995053	189.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0189.hdf5
+5809.4845	10	stimulus_end	2	58094845	58094853				
+5809.6805	10	stimulus_start	1	58096805	58096813	190.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0190.hdf5
+5819.6606	10	stimulus_end	2	58196606	58196614				
+5819.8353	10	stimulus_start	1	58198353	58198361	190.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0190.hdf5
+5829.8154	10	stimulus_end	2	58298154	58298162				
+5829.9901	10	stimulus_start	1	58299901	58299909	190.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0190.hdf5
+5839.9701	10	stimulus_end	2	58399701	58399709				
+5840.1661	10	stimulus_start	1	58401661	58401669	191.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0191.hdf5
+5850.1462	10	stimulus_end	2	58501462	58501470				
+5850.3209	10	stimulus_start	1	58503209	58503217	191.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0191.hdf5
+5860.301	10	stimulus_end	2	58603010	58603018				
+5860.4757	10	stimulus_start	1	58604757	58604765	191.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0191.hdf5
+5870.4557	10	stimulus_end	2	58704557	58704565				
+5870.6304	10	stimulus_start	1	58706304	58706312	192.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0192.hdf5
+5880.6105	10	stimulus_end	2	58806105	58806113				
+5880.8065	10	stimulus_start	1	58808065	58808073	192.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0192.hdf5
+5890.7866	10	stimulus_end	2	58907866	58907874				
+5890.9613	10	stimulus_start	1	58909613	58909621	192.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0192.hdf5
+5900.9414	10	stimulus_end	2	59009414	59009422				
+5901.116	10	stimulus_start	1	59011160	59011168	193.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0193.hdf5
+5911.0961	10	stimulus_end	2	59110961	59110969				
+5911.2921	10	stimulus_start	1	59112921	59112929	193.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0193.hdf5
+5921.2722	10	stimulus_end	2	59212722	59212730				
+5921.4469	10	stimulus_start	1	59214469	59214477	193.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0193.hdf5
+5931.427	10	stimulus_end	2	59314270	59314278				
+5931.6016	10	stimulus_start	1	59316016	59316024	194.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0194.hdf5
+5941.5817	10	stimulus_end	2	59415817	59415825				
+5941.7777	10	stimulus_start	1	59417777	59417785	194.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0194.hdf5
+5951.7578	10	stimulus_end	2	59517578	59517586				
+5951.9538	10	stimulus_start	1	59519538	59519546	194.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0194.hdf5
+5961.9339	10	stimulus_end	2	59619339	59619347				
+5962.1086	10	stimulus_start	1	59621086	59621094	195.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0195.hdf5
+5972.0886	10	stimulus_end	2	59720886	59720894				
+5972.2633	10	stimulus_start	1	59722633	59722641	195.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0195.hdf5
+5982.2434	10	stimulus_end	2	59822434	59822442				
+5982.4394	10	stimulus_start	1	59824394	59824402	195.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0195.hdf5
+5992.4195	10	stimulus_end	2	59924195	59924203				
+5992.5942	10	stimulus_start	1	59925942	59925950	196.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0196.hdf5
+6002.5743	10	stimulus_end	2	60025743	60025751				
+6002.7703	10	stimulus_start	1	60027703	60027711	196.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0196.hdf5
+6012.7503	10	stimulus_end	2	60127503	60127511				
+6012.9463	10	stimulus_start	1	60129463	60129471	196.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0196.hdf5
+6022.9264	10	stimulus_end	2	60229264	60229272				
+6023.1011	10	stimulus_start	1	60231011	60231019	197.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0197.hdf5
+6033.0812	10	stimulus_end	2	60330812	60330820				
+6033.2559	10	stimulus_start	1	60332559	60332567	197.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0197.hdf5
+6043.2359	10	stimulus_end	2	60432359	60432367				
+6043.4319	10	stimulus_start	1	60434319	60434327	197.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0197.hdf5
+6053.412	10	stimulus_end	2	60534120	60534128				
+6053.5654	10	stimulus_start	1	60535654	60535662	198.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0198.hdf5
+6063.5455	10	stimulus_end	2	60635455	60635463				
+6063.7415	10	stimulus_start	1	60637415	60637423	198.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0198.hdf5
+6073.7216	10	stimulus_end	2	60737216	60737224				
+6073.9176	10	stimulus_start	1	60739176	60739184	198.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0198.hdf5
+6083.8976	10	stimulus_end	2	60838976	60838984				
+6084.0936	10	stimulus_start	1	60840936	60840944	199.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0199.hdf5
+6094.0737	10	stimulus_end	2	60940737	60940745				
+6094.2484	10	stimulus_start	1	60942484	60942492	199.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0199.hdf5
+6104.2285	10	stimulus_end	2	61042285	61042293				
+6104.4245	10	stimulus_start	1	61044245	61044253	199.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0199.hdf5
+6114.4046	10	stimulus_end	2	61144046	61144054				
+6114.5792	10	stimulus_start	1	61145792	61145800	200.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0200.hdf5
+6124.5593	10	stimulus_end	2	61245593	61245601				
+6124.734	10	stimulus_start	1	61247340	61247348	200.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0200.hdf5
+6134.7141	10	stimulus_end	2	61347141	61347149				
+6134.8888	10	stimulus_start	1	61348888	61348896	200.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0200.hdf5
+6144.8688	10	stimulus_end	2	61448688	61448696				
+6145.0435	10	stimulus_start	1	61450435	61450443	201.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0201.hdf5
+6155.0236	10	stimulus_end	2	61550236	61550244				
+6155.1983	10	stimulus_start	1	61551983	61551991	201.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0201.hdf5
+6165.1784	10	stimulus_end	2	61651784	61651792				
+6165.353	10	stimulus_start	1	61653530	61653538	201.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0201.hdf5
+6175.3331	10	stimulus_end	2	61753331	61753339				
+6175.5078	10	stimulus_start	1	61755078	61755086	202.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0202.hdf5
+6185.4879	10	stimulus_end	2	61854879	61854887				
+6185.6839	10	stimulus_start	1	61856839	61856847	202.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0202.hdf5
+6195.664	10	stimulus_end	2	61956640	61956648				
+6195.86	10	stimulus_start	1	61958600	61958608	202.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0202.hdf5
+6205.8401	10	stimulus_end	2	62058401	62058409				
+6206.0147	10	stimulus_start	1	62060147	62060155	203.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0203.hdf5
+6215.9948	10	stimulus_end	2	62159948	62159956				
+6216.1908	10	stimulus_start	1	62161908	62161916	203.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0203.hdf5
+6226.1709	10	stimulus_end	2	62261709	62261717				
+6226.3669	10	stimulus_start	1	62263669	62263677	203.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0203.hdf5
+6236.347	10	stimulus_end	2	62363470	62363478				
+6236.5217	10	stimulus_start	1	62365217	62365225	204.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0204.hdf5
+6246.5018	10	stimulus_end	2	62465018	62465026				
+6246.6978	10	stimulus_start	1	62466978	62466986	204.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0204.hdf5
+6256.6778	10	stimulus_end	2	62566778	62566786				
+6256.8525	10	stimulus_start	1	62568525	62568533	204.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0204.hdf5
+6266.8326	10	stimulus_end	2	62668326	62668334				
+6267.0073	10	stimulus_start	1	62670073	62670081	205.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0205.hdf5
+6276.9874	10	stimulus_end	2	62769874	62769882				
+6277.1834	10	stimulus_start	1	62771834	62771842	205.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0205.hdf5
+6287.1634	10	stimulus_end	2	62871634	62871642				
+6287.3594	10	stimulus_start	1	62873594	62873602	205.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0205.hdf5
+6297.3395	10	stimulus_end	2	62973395	62973403				
+6297.5355	10	stimulus_start	1	62975355	62975363	206.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0206.hdf5
+6307.5156	10	stimulus_end	2	63075156	63075164				
+6307.6903	10	stimulus_start	1	63076903	63076911	206.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0206.hdf5
+6317.6704	10	stimulus_end	2	63176704	63176712				
+6317.8451	10	stimulus_start	1	63178451	63178459	206.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0206.hdf5
+6327.8251	10	stimulus_end	2	63278251	63278259				
+6328.0211	10	stimulus_start	1	63280211	63280219	207.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0207.hdf5
+6338.0012	10	stimulus_end	2	63380012	63380020				
+6338.1759	10	stimulus_start	1	63381759	63381767	207.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0207.hdf5
+6348.156	10	stimulus_end	2	63481560	63481568				
+6348.3307	10	stimulus_start	1	63483307	63483315	207.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0207.hdf5
+6358.3107	10	stimulus_end	2	63583107	63583115				
+6358.4854	10	stimulus_start	1	63584854	63584862	208.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0208.hdf5
+6368.4655	10	stimulus_end	2	63684655	63684663				
+6368.6615	10	stimulus_start	1	63686615	63686623	208.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0208.hdf5
+6378.6416	10	stimulus_end	2	63786416	63786424				
+6378.8376	10	stimulus_start	1	63788376	63788384	208.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0208.hdf5
+6388.8177	10	stimulus_end	2	63888177	63888185				
+6388.9923	10	stimulus_start	1	63889923	63889931	209.0	1.0	wonderland	exp3_f0s2/wonderland/wonderland_shifted_0209.hdf5
+6398.9724	10	stimulus_end	2	63989724	63989732				
+6399.1684	10	stimulus_start	1	63991684	63991692	209.0	2.0	drdolittle	exp3_f0s2/drdolittle/drdolittle_shifted_0209.hdf5
+6409.1485	10	stimulus_end	2	64091485	64091493				
+6409.3445	10	stimulus_start	1	64093445	64093453	209.0	0.0	wizard	exp3_f0s2/wizard/wizard_shifted_0209.hdf5
+6419.3246	10	stimulus_end	2	64193246	64193254				

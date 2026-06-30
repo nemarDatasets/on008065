@@ -1,0 +1,1681 @@
+onset	duration	trial_type	value	sample	sample_corrected	token	stimulus_index	stimulus_type	stim_file
+12.4916	10	stimulus_start	1	124916	124924	0.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0000.hdf5
+22.4717	10	stimulus_end	2	224717	224725				
+22.5824	10	stimulus_start	1	225824	225832	0.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0000.hdf5
+32.5625	10	stimulus_end	2	325625	325633				
+32.6731	10	stimulus_start	1	326731	326739	1.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0001.hdf5
+42.6532	10	stimulus_end	2	426532	426540				
+42.7639	10	stimulus_start	1	427639	427647	1.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0001.hdf5
+52.744	10	stimulus_end	2	527440	527448				
+52.8973	10	stimulus_start	1	528973	528981	2.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0002.hdf5
+62.8774	10	stimulus_end	2	628774	628782				
+62.9881	10	stimulus_start	1	629881	629889	2.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0002.hdf5
+72.9682	10	stimulus_end	2	729682	729690				
+73.1002	10	stimulus_start	1	731002	731010	3.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0003.hdf5
+83.0803	10	stimulus_end	2	830803	830811				
+83.2123	10	stimulus_start	1	832123	832131	3.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0003.hdf5
+93.1924	10	stimulus_end	2	931924	931932				
+93.3458	10	stimulus_start	1	933458	933466	4.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0004.hdf5
+103.3259	10	stimulus_end	2	1033259	1033267				
+103.4365	10	stimulus_start	1	1034365	1034373	4.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0004.hdf5
+113.4166	10	stimulus_end	2	1134166	1134174				
+113.5486	10	stimulus_start	1	1135486	1135494	5.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0005.hdf5
+123.5287	10	stimulus_end	2	1235287	1235295				
+123.6394	10	stimulus_start	1	1236394	1236402	5.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0005.hdf5
+133.6195	10	stimulus_end	2	1336195	1336203				
+133.7302	10	stimulus_start	1	1337302	1337310	6.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0006.hdf5
+143.7103	10	stimulus_end	2	1437103	1437111				
+143.8423	10	stimulus_start	1	1438423	1438431	7.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0007.hdf5
+153.8224	10	stimulus_end	2	1538224	1538232				
+153.9544	10	stimulus_start	1	1539544	1539552	6.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0006.hdf5
+163.9345	10	stimulus_end	2	1639345	1639353				
+164.0665	10	stimulus_start	1	1640665	1640673	7.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0007.hdf5
+174.0466	10	stimulus_end	2	1740466	1740474				
+174.1999	10	stimulus_start	1	1741999	1742007	8.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0008.hdf5
+184.18	10	stimulus_end	2	1841800	1841808				
+184.2907	10	stimulus_start	1	1842907	1842915	8.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0008.hdf5
+194.2708	10	stimulus_end	2	1942708	1942716				
+194.4028	10	stimulus_start	1	1944028	1944036	9.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0009.hdf5
+204.3829	10	stimulus_end	2	2043829	2043837				
+204.5149	10	stimulus_start	1	2045149	2045157	9.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0009.hdf5
+214.495	10	stimulus_end	2	2144950	2144958				
+214.6483	10	stimulus_start	1	2146483	2146491	10.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0010.hdf5
+224.6284	10	stimulus_end	2	2246284	2246292				
+224.7604	10	stimulus_start	1	2247604	2247612	10.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0010.hdf5
+234.7405	10	stimulus_end	2	2347405	2347413				
+234.8512	10	stimulus_start	1	2348512	2348520	11.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0011.hdf5
+244.8313	10	stimulus_end	2	2448313	2448321				
+244.9633	10	stimulus_start	1	2449633	2449641	11.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0011.hdf5
+254.9434	10	stimulus_end	2	2549434	2549442				
+255.0541	10	stimulus_start	1	2550541	2550549	12.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0012.hdf5
+265.0342	10	stimulus_end	2	2650342	2650350				
+265.1662	10	stimulus_start	1	2651662	2651670	12.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0012.hdf5
+275.1463	10	stimulus_end	2	2751463	2751471				
+275.2783	10	stimulus_start	1	2752783	2752791	13.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0013.hdf5
+285.2584	10	stimulus_end	2	2852584	2852592				
+285.369	10	stimulus_start	1	2853690	2853698	13.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0013.hdf5
+295.3491	10	stimulus_end	2	2953491	2953499				
+295.4811	10	stimulus_start	1	2954811	2954819	14.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0014.hdf5
+305.4612	10	stimulus_end	2	3054612	3054620				
+305.5719	10	stimulus_start	1	3055719	3055727	14.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0014.hdf5
+315.552	10	stimulus_end	2	3155520	3155528				
+315.684	10	stimulus_start	1	3156840	3156848	15.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0015.hdf5
+325.6641	10	stimulus_end	2	3256641	3256649				
+325.7961	10	stimulus_start	1	3257961	3257969	15.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0015.hdf5
+335.7762	10	stimulus_end	2	3357762	3357770				
+335.9082	10	stimulus_start	1	3359082	3359090	16.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0016.hdf5
+345.8883	10	stimulus_end	2	3458883	3458891				
+346.0203	10	stimulus_start	1	3460203	3460211	16.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0016.hdf5
+356.0004	10	stimulus_end	2	3560004	3560012				
+356.1324	10	stimulus_start	1	3561324	3561332	17.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0017.hdf5
+366.1125	10	stimulus_end	2	3661125	3661133				
+366.2232	10	stimulus_start	1	3662232	3662240	17.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0017.hdf5
+376.2033	10	stimulus_end	2	3762033	3762041				
+376.3353	10	stimulus_start	1	3763353	3763361	18.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0018.hdf5
+386.3154	10	stimulus_end	2	3863154	3863162				
+386.4261	10	stimulus_start	1	3864261	3864269	18.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0018.hdf5
+396.4062	10	stimulus_end	2	3964062	3964070				
+396.5382	10	stimulus_start	1	3965382	3965390	19.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0019.hdf5
+406.5183	10	stimulus_end	2	4065183	4065191				
+406.6503	10	stimulus_start	1	4066503	4066511	19.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0019.hdf5
+416.6304	10	stimulus_end	2	4166304	4166312				
+416.741	10	stimulus_start	1	4167410	4167418	20.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0020.hdf5
+426.7211	10	stimulus_end	2	4267211	4267219				
+426.8531	10	stimulus_start	1	4268531	4268539	21.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0021.hdf5
+436.8332	10	stimulus_end	2	4368332	4368340				
+436.9866	10	stimulus_start	1	4369866	4369874	20.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0020.hdf5
+446.9667	10	stimulus_end	2	4469667	4469675				
+447.0987	10	stimulus_start	1	4470987	4470995	21.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0021.hdf5
+457.0788	10	stimulus_end	2	4570788	4570796				
+457.2108	10	stimulus_start	1	4572108	4572116	22.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0022.hdf5
+467.1909	10	stimulus_end	2	4671909	4671917				
+467.3229	10	stimulus_start	1	4673229	4673237	22.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0022.hdf5
+477.303	10	stimulus_end	2	4773030	4773038				
+477.435	10	stimulus_start	1	4774350	4774358	23.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0023.hdf5
+487.4151	10	stimulus_end	2	4874151	4874159				
+487.5471	10	stimulus_start	1	4875471	4875479	23.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0023.hdf5
+497.5272	10	stimulus_end	2	4975272	4975280				
+497.6379	10	stimulus_start	1	4976379	4976387	24.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0024.hdf5
+507.618	10	stimulus_end	2	5076180	5076188				
+507.7713	10	stimulus_start	1	5077713	5077721	25.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0025.hdf5
+517.7514	10	stimulus_end	2	5177514	5177522				
+517.8834	10	stimulus_start	1	5178834	5178842	24.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0024.hdf5
+527.8635	10	stimulus_end	2	5278635	5278643				
+527.9955	10	stimulus_start	1	5279955	5279963	25.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0025.hdf5
+537.9756	10	stimulus_end	2	5379756	5379764				
+538.1076	10	stimulus_start	1	5381076	5381084	26.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0026.hdf5
+548.0877	10	stimulus_end	2	5480877	5480885				
+548.2197	10	stimulus_start	1	5482197	5482205	26.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0026.hdf5
+558.1998	10	stimulus_end	2	5581998	5582006				
+558.3318	10	stimulus_start	1	5583318	5583326	27.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0027.hdf5
+568.3119	10	stimulus_end	2	5683119	5683127				
+568.4226	10	stimulus_start	1	5684226	5684234	27.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0027.hdf5
+578.4027	10	stimulus_end	2	5784027	5784035				
+578.5347	10	stimulus_start	1	5785347	5785355	28.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0028.hdf5
+588.5148	10	stimulus_end	2	5885148	5885156				
+588.6255	10	stimulus_start	1	5886255	5886263	28.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0028.hdf5
+598.6056	10	stimulus_end	2	5986056	5986064				
+598.7376	10	stimulus_start	1	5987376	5987384	29.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0029.hdf5
+608.7177	10	stimulus_end	2	6087177	6087185				
+608.8283	10	stimulus_start	1	6088283	6088291	29.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0029.hdf5
+618.8084	10	stimulus_end	2	6188084	6188092				
+618.9404	10	stimulus_start	1	6189404	6189412	30.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0030.hdf5
+628.9205	10	stimulus_end	2	6289205	6289213				
+629.0525	10	stimulus_start	1	6290525	6290533	31.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0031.hdf5
+639.0326	10	stimulus_end	2	6390326	6390334				
+639.1433	10	stimulus_start	1	6391433	6391441	30.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0030.hdf5
+649.1234	10	stimulus_end	2	6491234	6491242				
+649.2554	10	stimulus_start	1	6492554	6492562	31.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0031.hdf5
+659.2355	10	stimulus_end	2	6592355	6592363				
+659.3462	10	stimulus_start	1	6593462	6593470	32.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0032.hdf5
+669.3263	10	stimulus_end	2	6693263	6693271				
+669.4583	10	stimulus_start	1	6694583	6694591	33.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0033.hdf5
+679.4384	10	stimulus_end	2	6794384	6794392				
+679.5704	10	stimulus_start	1	6795704	6795712	32.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0032.hdf5
+689.5505	10	stimulus_end	2	6895505	6895513				
+689.6825	10	stimulus_start	1	6896825	6896833	33.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0033.hdf5
+699.6626	10	stimulus_end	2	6996626	6996634				
+699.7946	10	stimulus_start	1	6997946	6997954	34.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0034.hdf5
+709.7747	10	stimulus_end	2	7097747	7097755				
+709.9067	10	stimulus_start	1	7099067	7099075	34.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0034.hdf5
+719.8868	10	stimulus_end	2	7198868	7198876				
+720.0188	10	stimulus_start	1	7200188	7200196	35.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0035.hdf5
+729.9989	10	stimulus_end	2	7299989	7299997				
+730.1095	10	stimulus_start	1	7301095	7301103	35.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0035.hdf5
+740.0896	10	stimulus_end	2	7400896	7400904				
+740.2216	10	stimulus_start	1	7402216	7402224	36.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0036.hdf5
+750.2017	10	stimulus_end	2	7502017	7502025				
+750.3337	10	stimulus_start	1	7503337	7503345	37.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0037.hdf5
+760.3138	10	stimulus_end	2	7603138	7603146				
+760.4245	10	stimulus_start	1	7604245	7604253	36.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0036.hdf5
+770.4046	10	stimulus_end	2	7704046	7704054				
+770.5153	10	stimulus_start	1	7705153	7705161	37.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0037.hdf5
+780.4954	10	stimulus_end	2	7804954	7804962				
+780.6061	10	stimulus_start	1	7806061	7806069	38.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0038.hdf5
+790.5862	10	stimulus_end	2	7905862	7905870				
+790.7395	10	stimulus_start	1	7907395	7907403	39.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0039.hdf5
+800.7196	10	stimulus_end	2	8007196	8007204				
+800.8516	10	stimulus_start	1	8008516	8008524	38.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0038.hdf5
+810.8317	10	stimulus_end	2	8108317	8108325				
+810.9424	10	stimulus_start	1	8109424	8109432	39.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0039.hdf5
+820.9225	10	stimulus_end	2	8209225	8209233				
+821.0758	10	stimulus_start	1	8210758	8210766	40.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0040.hdf5
+831.0559	10	stimulus_end	2	8310559	8310567				
+831.1879	10	stimulus_start	1	8311879	8311887	40.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0040.hdf5
+841.168	10	stimulus_end	2	8411680	8411688				
+841.3	10	stimulus_start	1	8413000	8413008	41.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0041.hdf5
+851.2801	10	stimulus_end	2	8512801	8512809				
+851.4121	10	stimulus_start	1	8514121	8514129	41.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0041.hdf5
+861.3922	10	stimulus_end	2	8613922	8613930				
+861.5029	10	stimulus_start	1	8615029	8615037	42.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0042.hdf5
+871.483	10	stimulus_end	2	8714830	8714838				
+871.615	10	stimulus_start	1	8716150	8716158	42.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0042.hdf5
+881.5951	10	stimulus_end	2	8815951	8815959				
+881.7271	10	stimulus_start	1	8817271	8817279	43.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0043.hdf5
+891.7072	10	stimulus_end	2	8917072	8917080				
+891.8392	10	stimulus_start	1	8918392	8918400	43.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0043.hdf5
+901.8193	10	stimulus_end	2	9018193	9018201				
+901.9299	10	stimulus_start	1	9019299	9019307	44.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0044.hdf5
+911.91	10	stimulus_end	2	9119100	9119108				
+912.042	10	stimulus_start	1	9120420	9120428	45.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0045.hdf5
+922.0221	10	stimulus_end	2	9220221	9220229				
+922.1328	10	stimulus_start	1	9221328	9221336	44.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0044.hdf5
+932.1129	10	stimulus_end	2	9321129	9321137				
+932.2449	10	stimulus_start	1	9322449	9322457	45.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0045.hdf5
+942.225	10	stimulus_end	2	9422250	9422258				
+942.357	10	stimulus_start	1	9423570	9423578	46.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0046.hdf5
+952.3371	10	stimulus_end	2	9523371	9523379				
+952.4691	10	stimulus_start	1	9524691	9524699	47.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0047.hdf5
+962.4492	10	stimulus_end	2	9624492	9624500				
+962.5812	10	stimulus_start	1	9625812	9625820	46.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0046.hdf5
+972.5613	10	stimulus_end	2	9725613	9725621				
+972.6933	10	stimulus_start	1	9726933	9726941	47.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0047.hdf5
+982.6734	10	stimulus_end	2	9826734	9826742				
+982.7841	10	stimulus_start	1	9827841	9827849	48.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0048.hdf5
+992.7642	10	stimulus_end	2	9927642	9927650				
+992.8962	10	stimulus_start	1	9928962	9928970	49.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0049.hdf5
+1002.8763	10	stimulus_end	2	10028763	10028771				
+1003.0083	10	stimulus_start	1	10030083	10030091	48.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0048.hdf5
+1012.9884	10	stimulus_end	2	10129884	10129892				
+1013.1204	10	stimulus_start	1	10131204	10131212	49.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0049.hdf5
+1023.1005	10	stimulus_end	2	10231005	10231013				
+1023.2112	10	stimulus_start	1	10232112	10232120	50.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0050.hdf5
+1033.1913	10	stimulus_end	2	10331913	10331921				
+1033.3233	10	stimulus_start	1	10333233	10333241	50.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0050.hdf5
+1043.3034	10	stimulus_end	2	10433034	10433042				
+1043.4354	10	stimulus_start	1	10434354	10434362	51.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0051.hdf5
+1053.4155	10	stimulus_end	2	10534155	10534163				
+1053.5475	10	stimulus_start	1	10535475	10535483	51.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0051.hdf5
+1063.5276	10	stimulus_end	2	10635276	10635284				
+1063.6809	10	stimulus_start	1	10636809	10636817	52.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0052.hdf5
+1073.661	10	stimulus_end	2	10736610	10736618				
+1073.793	10	stimulus_start	1	10737930	10737938	52.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0052.hdf5
+1083.7731	10	stimulus_end	2	10837731	10837739				
+1083.8838	10	stimulus_start	1	10838838	10838846	53.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0053.hdf5
+1093.8639	10	stimulus_end	2	10938639	10938647				
+1093.9959	10	stimulus_start	1	10939959	10939967	53.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0053.hdf5
+1103.976	10	stimulus_end	2	11039760	11039768				
+1104.0866	10	stimulus_start	1	11040866	11040874	54.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0054.hdf5
+1114.0667	10	stimulus_end	2	11140667	11140675				
+1114.1987	10	stimulus_start	1	11141987	11141995	55.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0055.hdf5
+1124.1788	10	stimulus_end	2	11241788	11241796				
+1124.3108	10	stimulus_start	1	11243108	11243116	54.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0054.hdf5
+1134.2909	10	stimulus_end	2	11342909	11342917				
+1134.4229	10	stimulus_start	1	11344229	11344237	55.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0055.hdf5
+1144.403	10	stimulus_end	2	11444030	11444038				
+1144.535	10	stimulus_start	1	11445350	11445358	56.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0056.hdf5
+1154.5151	10	stimulus_end	2	11545151	11545159				
+1154.6471	10	stimulus_start	1	11546471	11546479	56.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0056.hdf5
+1164.6272	10	stimulus_end	2	11646272	11646280				
+1164.7806	10	stimulus_start	1	11647806	11647814	57.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0057.hdf5
+1174.7607	10	stimulus_end	2	11747607	11747615				
+1174.8927	10	stimulus_start	1	11748927	11748935	57.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0057.hdf5
+1184.8728	10	stimulus_end	2	11848728	11848736				
+1184.9834	10	stimulus_start	1	11849834	11849842	58.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0058.hdf5
+1194.9635	10	stimulus_end	2	11949635	11949643				
+1195.1169	10	stimulus_start	1	11951169	11951177	58.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0058.hdf5
+1205.097	10	stimulus_end	2	12050970	12050978				
+1205.229	10	stimulus_start	1	12052290	12052298	59.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0059.hdf5
+1215.2091	10	stimulus_end	2	12152091	12152099				
+1215.3411	10	stimulus_start	1	12153411	12153419	59.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0059.hdf5
+1225.3212	10	stimulus_end	2	12253212	12253220				
+1225.4319	10	stimulus_start	1	12254319	12254327	60.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0060.hdf5
+1235.412	10	stimulus_end	2	12354120	12354128				
+1235.5653	10	stimulus_start	1	12355653	12355661	60.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0060.hdf5
+1245.5454	10	stimulus_end	2	12455454	12455462				
+1245.6561	10	stimulus_start	1	12456561	12456569	61.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0061.hdf5
+1255.6362	10	stimulus_end	2	12556362	12556370				
+1255.7682	10	stimulus_start	1	12557682	12557690	61.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0061.hdf5
+1265.7483	10	stimulus_end	2	12657483	12657491				
+1265.8803	10	stimulus_start	1	12658803	12658811	62.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0062.hdf5
+1275.8604	10	stimulus_end	2	12758604	12758612				
+1275.971	10	stimulus_start	1	12759710	12759718	63.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0063.hdf5
+1285.9511	10	stimulus_end	2	12859511	12859519				
+1286.0831	10	stimulus_start	1	12860831	12860839	62.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0062.hdf5
+1296.0632	10	stimulus_end	2	12960632	12960640				
+1296.1952	10	stimulus_start	1	12961952	12961960	63.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0063.hdf5
+1306.1753	10	stimulus_end	2	13061753	13061761				
+1306.3073	10	stimulus_start	1	13063073	13063081	64.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0064.hdf5
+1316.2874	10	stimulus_end	2	13162874	13162882				
+1316.4194	10	stimulus_start	1	13164194	13164202	64.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0064.hdf5
+1326.3995	10	stimulus_end	2	13263995	13264003				
+1326.5102	10	stimulus_start	1	13265102	13265110	65.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0065.hdf5
+1336.4903	10	stimulus_end	2	13364903	13364911				
+1336.6223	10	stimulus_start	1	13366223	13366231	65.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0065.hdf5
+1346.6024	10	stimulus_end	2	13466024	13466032				
+1346.7344	10	stimulus_start	1	13467344	13467352	66.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0066.hdf5
+1356.7145	10	stimulus_end	2	13567145	13567153				
+1356.8465	10	stimulus_start	1	13568465	13568473	66.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0066.hdf5
+1366.8266	10	stimulus_end	2	13668266	13668274				
+1366.9586	10	stimulus_start	1	13669586	13669594	67.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0067.hdf5
+1376.9387	10	stimulus_end	2	13769387	13769395				
+1377.0707	10	stimulus_start	1	13770707	13770715	67.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0067.hdf5
+1387.0508	10	stimulus_end	2	13870508	13870516				
+1387.1828	10	stimulus_start	1	13871828	13871836	68.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0068.hdf5
+1397.1629	10	stimulus_end	2	13971629	13971637				
+1397.3162	10	stimulus_start	1	13973162	13973170	68.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0068.hdf5
+1407.2963	10	stimulus_end	2	14072963	14072971				
+1407.4283	10	stimulus_start	1	14074283	14074291	69.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0069.hdf5
+1417.4084	10	stimulus_end	2	14174084	14174092				
+1417.5191	10	stimulus_start	1	14175191	14175199	69.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0069.hdf5
+1427.4992	10	stimulus_end	2	14274992	14275000				
+1427.6525	10	stimulus_start	1	14276525	14276533	70.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0070.hdf5
+1437.6326	10	stimulus_end	2	14376326	14376334				
+1437.7433	10	stimulus_start	1	14377433	14377441	70.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0070.hdf5
+1447.7234	10	stimulus_end	2	14477234	14477242				
+1447.8341	10	stimulus_start	1	14478341	14478349	71.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0071.hdf5
+1457.8142	10	stimulus_end	2	14578142	14578150				
+1457.9462	10	stimulus_start	1	14579462	14579470	71.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0071.hdf5
+1467.9263	10	stimulus_end	2	14679263	14679271				
+1468.0369	10	stimulus_start	1	14680369	14680377	72.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0072.hdf5
+1478.017	10	stimulus_end	2	14780170	14780178				
+1478.149	10	stimulus_start	1	14781490	14781498	73.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0073.hdf5
+1488.1291	10	stimulus_end	2	14881291	14881299				
+1488.2612	10	stimulus_start	1	14882612	14882620	72.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0072.hdf5
+1498.2413	10	stimulus_end	2	14982413	14982421				
+1498.3519	10	stimulus_start	1	14983519	14983527	73.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0073.hdf5
+1508.332	10	stimulus_end	2	15083320	15083328				
+1508.464	10	stimulus_start	1	15084640	15084648	74.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0074.hdf5
+1518.4441	10	stimulus_end	2	15184441	15184449				
+1518.5761	10	stimulus_start	1	15185761	15185769	75.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0075.hdf5
+1528.5562	10	stimulus_end	2	15285562	15285570				
+1528.6882	10	stimulus_start	1	15286882	15286890	74.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0074.hdf5
+1538.6683	10	stimulus_end	2	15386683	15386691				
+1538.8217	10	stimulus_start	1	15388217	15388225	75.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0075.hdf5
+1548.8018	10	stimulus_end	2	15488018	15488026				
+1548.9124	10	stimulus_start	1	15489124	15489132	76.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0076.hdf5
+1558.8925	10	stimulus_end	2	15588925	15588933				
+1559.0245	10	stimulus_start	1	15590245	15590253	76.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0076.hdf5
+1569.0046	10	stimulus_end	2	15690046	15690054				
+1569.1366	10	stimulus_start	1	15691366	15691374	77.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0077.hdf5
+1579.1167	10	stimulus_end	2	15791167	15791175				
+1579.2701	10	stimulus_start	1	15792701	15792709	77.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0077.hdf5
+1589.2502	10	stimulus_end	2	15892502	15892510				
+1589.3822	10	stimulus_start	1	15893822	15893830	78.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0078.hdf5
+1599.3623	10	stimulus_end	2	15993623	15993631				
+1599.4943	10	stimulus_start	1	15994943	15994951	78.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0078.hdf5
+1609.4744	10	stimulus_end	2	16094744	16094752				
+1609.6064	10	stimulus_start	1	16096064	16096072	79.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0079.hdf5
+1619.5865	10	stimulus_end	2	16195865	16195873				
+1619.7185	10	stimulus_start	1	16197185	16197193	79.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0079.hdf5
+1629.6986	10	stimulus_end	2	16296986	16296994				
+1629.8519	10	stimulus_start	1	16298519	16298527	80.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0080.hdf5
+1639.832	10	stimulus_end	2	16398320	16398328				
+1639.964	10	stimulus_start	1	16399640	16399648	80.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0080.hdf5
+1649.9441	10	stimulus_end	2	16499441	16499449				
+1650.0761	10	stimulus_start	1	16500761	16500769	81.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0081.hdf5
+1660.0562	10	stimulus_end	2	16600562	16600570				
+1660.1882	10	stimulus_start	1	16601882	16601890	81.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0081.hdf5
+1670.1683	10	stimulus_end	2	16701683	16701691				
+1670.3216	10	stimulus_start	1	16703216	16703224	82.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0082.hdf5
+1680.3017	10	stimulus_end	2	16803017	16803025				
+1680.4337	10	stimulus_start	1	16804337	16804345	82.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0082.hdf5
+1690.4138	10	stimulus_end	2	16904138	16904146				
+1690.5458	10	stimulus_start	1	16905458	16905466	83.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0083.hdf5
+1700.5259	10	stimulus_end	2	17005259	17005267				
+1700.6579	10	stimulus_start	1	17006579	17006587	83.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0083.hdf5
+1710.638	10	stimulus_end	2	17106380	17106388				
+1710.7487	10	stimulus_start	1	17107487	17107495	84.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0084.hdf5
+1720.7288	10	stimulus_end	2	17207288	17207296				
+1720.8395	10	stimulus_start	1	17208395	17208403	84.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0084.hdf5
+1730.8196	10	stimulus_end	2	17308196	17308204				
+1730.9729	10	stimulus_start	1	17309729	17309737	85.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0085.hdf5
+1740.953	10	stimulus_end	2	17409530	17409538				
+1741.0637	10	stimulus_start	1	17410637	17410645	85.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0085.hdf5
+1751.0438	10	stimulus_end	2	17510438	17510446				
+1751.1758	10	stimulus_start	1	17511758	17511766	86.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0086.hdf5
+1761.1559	10	stimulus_end	2	17611559	17611567				
+1761.2879	10	stimulus_start	1	17612879	17612887	87.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0087.hdf5
+1771.268	10	stimulus_end	2	17712680	17712688				
+1771.4	10	stimulus_start	1	17714000	17714008	86.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0086.hdf5
+1781.3801	10	stimulus_end	2	17813801	17813809				
+1781.4907	10	stimulus_start	1	17814907	17814915	87.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0087.hdf5
+1791.4708	10	stimulus_end	2	17914708	17914716				
+1791.6028	10	stimulus_start	1	17916028	17916036	88.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0088.hdf5
+1801.5829	10	stimulus_end	2	18015829	18015837				
+1801.7149	10	stimulus_start	1	18017149	18017157	89.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0089.hdf5
+1811.695	10	stimulus_end	2	18116950	18116958				
+1811.827	10	stimulus_start	1	18118270	18118278	88.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0088.hdf5
+1821.8071	10	stimulus_end	2	18218071	18218079				
+1821.9391	10	stimulus_start	1	18219391	18219399	89.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0089.hdf5
+1831.9192	10	stimulus_end	2	18319192	18319200				
+1832.0512	10	stimulus_start	1	18320512	18320520	90.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0090.hdf5
+1842.0313	10	stimulus_end	2	18420313	18420321				
+1842.142	10	stimulus_start	1	18421420	18421428	90.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0090.hdf5
+1852.1221	10	stimulus_end	2	18521221	18521229				
+1852.2754	10	stimulus_start	1	18522754	18522762	91.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0091.hdf5
+1862.2555	10	stimulus_end	2	18622555	18622563				
+1862.3662	10	stimulus_start	1	18623662	18623670	91.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0091.hdf5
+1872.3463	10	stimulus_end	2	18723463	18723471				
+1872.4783	10	stimulus_start	1	18724783	18724791	92.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0092.hdf5
+1882.4584	10	stimulus_end	2	18824584	18824592				
+1882.5904	10	stimulus_start	1	18825904	18825912	92.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0092.hdf5
+1892.5705	10	stimulus_end	2	18925705	18925713				
+1892.6812	10	stimulus_start	1	18926812	18926820	93.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0093.hdf5
+1902.6613	10	stimulus_end	2	19026613	19026621				
+1902.7933	10	stimulus_start	1	19027933	19027941	93.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0093.hdf5
+1912.7734	10	stimulus_end	2	19127734	19127742				
+1912.884	10	stimulus_start	1	19128840	19128848	94.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0094.hdf5
+1922.8641	10	stimulus_end	2	19228641	19228649				
+1922.9962	10	stimulus_start	1	19229962	19229970	95.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0095.hdf5
+1932.9762	10	stimulus_end	2	19329762	19329770				
+1933.1296	10	stimulus_start	1	19331296	19331304	94.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0094.hdf5
+1943.1097	10	stimulus_end	2	19431097	19431105				
+1943.2417	10	stimulus_start	1	19432417	19432425	95.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0095.hdf5
+1953.2218	10	stimulus_end	2	19532218	19532226				
+1953.3538	10	stimulus_start	1	19533538	19533546	96.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0096.hdf5
+1963.3339	10	stimulus_end	2	19633339	19633347				
+1963.4659	10	stimulus_start	1	19634659	19634667	96.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0096.hdf5
+1973.446	10	stimulus_end	2	19734460	19734468				
+1973.578	10	stimulus_start	1	19735780	19735788	97.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0097.hdf5
+1983.5581	10	stimulus_end	2	19835581	19835589				
+1983.7114	10	stimulus_start	1	19837114	19837122	97.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0097.hdf5
+1993.6915	10	stimulus_end	2	19936915	19936923				
+1993.8022	10	stimulus_start	1	19938022	19938030	98.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0098.hdf5
+2003.7823	10	stimulus_end	2	20037823	20037831				
+2003.9143	10	stimulus_start	1	20039143	20039151	98.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0098.hdf5
+2013.8944	10	stimulus_end	2	20138944	20138952				
+2014.0477	10	stimulus_start	1	20140477	20140485	99.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0099.hdf5
+2024.0278	10	stimulus_end	2	20240278	20240286				
+2024.1598	10	stimulus_start	1	20241598	20241606	99.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0099.hdf5
+2034.1399	10	stimulus_end	2	20341399	20341407				
+2034.2719	10	stimulus_start	1	20342719	20342727	100.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0100.hdf5
+2044.252	10	stimulus_end	2	20442520	20442528				
+2044.3627	10	stimulus_start	1	20443627	20443635	101.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0101.hdf5
+2054.3428	10	stimulus_end	2	20543428	20543436				
+2054.4961	10	stimulus_start	1	20544961	20544969	100.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0100.hdf5
+2064.4762	10	stimulus_end	2	20644762	20644770				
+2064.6082	10	stimulus_start	1	20646082	20646090	101.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0101.hdf5
+2074.5883	10	stimulus_end	2	20745883	20745891				
+2074.699	10	stimulus_start	1	20746990	20746998	102.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0102.hdf5
+2084.6791	10	stimulus_end	2	20846791	20846799				
+2084.8324	10	stimulus_start	1	20848324	20848332	102.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0102.hdf5
+2094.8125	10	stimulus_end	2	20948125	20948133				
+2094.9445	10	stimulus_start	1	20949445	20949453	103.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0103.hdf5
+2104.9246	10	stimulus_end	2	21049246	21049254				
+2105.0566	10	stimulus_start	1	21050566	21050574	103.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0103.hdf5
+2115.0367	10	stimulus_end	2	21150367	21150375				
+2115.1687	10	stimulus_start	1	21151687	21151695	104.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0104.hdf5
+2125.1488	10	stimulus_end	2	21251488	21251496				
+2125.2808	10	stimulus_start	1	21252808	21252816	105.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0105.hdf5
+2135.2609	10	stimulus_end	2	21352609	21352617				
+2135.4143	10	stimulus_start	1	21354143	21354151	104.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0104.hdf5
+2145.3944	10	stimulus_end	2	21453944	21453952				
+2145.5264	10	stimulus_start	1	21455264	21455272	105.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0105.hdf5
+2155.5065	10	stimulus_end	2	21555065	21555073				
+2155.6171	10	stimulus_start	1	21556171	21556179	106.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0106.hdf5
+2165.5972	10	stimulus_end	2	21655972	21655980				
+2165.7292	10	stimulus_start	1	21657292	21657300	107.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0107.hdf5
+2175.7093	10	stimulus_end	2	21757093	21757101				
+2175.8413	10	stimulus_start	1	21758413	21758421	106.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0106.hdf5
+2185.8214	10	stimulus_end	2	21858214	21858222				
+2185.9321	10	stimulus_start	1	21859321	21859329	107.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0107.hdf5
+2195.9122	10	stimulus_end	2	21959122	21959130				
+2196.0229	10	stimulus_start	1	21960229	21960237	108.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0108.hdf5
+2206.003	10	stimulus_end	2	22060030	22060038				
+2206.1136	10	stimulus_start	1	22061136	22061144	108.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0108.hdf5
+2216.0937	10	stimulus_end	2	22160937	22160945				
+2216.2257	10	stimulus_start	1	22162257	22162265	109.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0109.hdf5
+2226.2058	10	stimulus_end	2	22262058	22262066				
+2226.3165	10	stimulus_start	1	22263165	22263173	109.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0109.hdf5
+2236.2966	10	stimulus_end	2	22362966	22362974				
+2236.4499	10	stimulus_start	1	22364499	22364507	110.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0110.hdf5
+2246.43	10	stimulus_end	2	22464300	22464308				
+2246.562	10	stimulus_start	1	22465620	22465628	110.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0110.hdf5
+2256.5421	10	stimulus_end	2	22565421	22565429				
+2256.6528	10	stimulus_start	1	22566528	22566536	111.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0111.hdf5
+2266.6329	10	stimulus_end	2	22666329	22666337				
+2266.7649	10	stimulus_start	1	22667649	22667657	111.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0111.hdf5
+2276.745	10	stimulus_end	2	22767450	22767458				
+2276.8983	10	stimulus_start	1	22768983	22768991	112.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0112.hdf5
+2286.8784	10	stimulus_end	2	22868784	22868792				
+2287.0318	10	stimulus_start	1	22870318	22870326	113.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0113.hdf5
+2297.0119	10	stimulus_end	2	22970119	22970127				
+2297.1225	10	stimulus_start	1	22971225	22971233	112.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0112.hdf5
+2307.1026	10	stimulus_end	2	23071026	23071034				
+2307.2346	10	stimulus_start	1	23072346	23072354	113.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0113.hdf5
+2317.2147	10	stimulus_end	2	23172147	23172155				
+2317.3467	10	stimulus_start	1	23173467	23173475	114.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0114.hdf5
+2327.3268	10	stimulus_end	2	23273268	23273276				
+2327.4588	10	stimulus_start	1	23274588	23274596	114.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0114.hdf5
+2337.4389	10	stimulus_end	2	23374389	23374397				
+2337.5496	10	stimulus_start	1	23375496	23375504	115.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0115.hdf5
+2347.5297	10	stimulus_end	2	23475297	23475305				
+2347.6617	10	stimulus_start	1	23476617	23476625	115.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0115.hdf5
+2357.6418	10	stimulus_end	2	23576418	23576426				
+2357.7525	10	stimulus_start	1	23577525	23577533	116.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0116.hdf5
+2367.7326	10	stimulus_end	2	23677326	23677334				
+2367.8859	10	stimulus_start	1	23678859	23678867	116.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0116.hdf5
+2377.866	10	stimulus_end	2	23778660	23778668				
+2377.998	10	stimulus_start	1	23779980	23779988	117.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0117.hdf5
+2387.9781	10	stimulus_end	2	23879781	23879789				
+2388.0888	10	stimulus_start	1	23880888	23880896	117.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0117.hdf5
+2398.0689	10	stimulus_end	2	23980689	23980697				
+2398.2009	10	stimulus_start	1	23982009	23982017	118.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0118.hdf5
+2408.181	10	stimulus_end	2	24081810	24081818				
+2408.313	10	stimulus_start	1	24083130	24083138	119.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0119.hdf5
+2418.2931	10	stimulus_end	2	24182931	24182939				
+2418.4251	10	stimulus_start	1	24184251	24184259	118.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0118.hdf5
+2428.4052	10	stimulus_end	2	24284052	24284060				
+2428.5372	10	stimulus_start	1	24285372	24285380	119.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0119.hdf5
+2438.5173	10	stimulus_end	2	24385173	24385181				
+2438.6493	10	stimulus_start	1	24386493	24386501	120.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0120.hdf5
+2448.6294	10	stimulus_end	2	24486294	24486302				
+2448.74	10	stimulus_start	1	24487400	24487408	120.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0120.hdf5
+2458.7201	10	stimulus_end	2	24587201	24587209				
+2458.8521	10	stimulus_start	1	24588521	24588529	121.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0121.hdf5
+2468.8322	10	stimulus_end	2	24688322	24688330				
+2468.9856	10	stimulus_start	1	24689856	24689864	121.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0121.hdf5
+2478.9657	10	stimulus_end	2	24789657	24789665				
+2479.0763	10	stimulus_start	1	24790763	24790771	122.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0122.hdf5
+2489.0564	10	stimulus_end	2	24890564	24890572				
+2489.1884	10	stimulus_start	1	24891884	24891892	122.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0122.hdf5
+2499.1685	10	stimulus_end	2	24991685	24991693				
+2499.3219	10	stimulus_start	1	24993219	24993227	123.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0123.hdf5
+2509.302	10	stimulus_end	2	25093020	25093028				
+2509.434	10	stimulus_start	1	25094340	25094348	123.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0123.hdf5
+2519.4141	10	stimulus_end	2	25194141	25194149				
+2519.5247	10	stimulus_start	1	25195247	25195255	124.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0124.hdf5
+2529.5048	10	stimulus_end	2	25295048	25295056				
+2529.6368	10	stimulus_start	1	25296368	25296376	124.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0124.hdf5
+2539.6169	10	stimulus_end	2	25396169	25396177				
+2539.7489	10	stimulus_start	1	25397489	25397497	125.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0125.hdf5
+2549.729	10	stimulus_end	2	25497290	25497298				
+2549.8397	10	stimulus_start	1	25498397	25498405	125.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0125.hdf5
+2559.8198	10	stimulus_end	2	25598198	25598206				
+2559.9518	10	stimulus_start	1	25599518	25599526	126.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0126.hdf5
+2569.9319	10	stimulus_end	2	25699319	25699327				
+2570.0426	10	stimulus_start	1	25700426	25700434	127.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0127.hdf5
+2580.0227	10	stimulus_end	2	25800227	25800235				
+2580.1547	10	stimulus_start	1	25801547	25801555	126.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0126.hdf5
+2590.1348	10	stimulus_end	2	25901348	25901356				
+2590.2881	10	stimulus_start	1	25902881	25902889	127.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0127.hdf5
+2600.2682	10	stimulus_end	2	26002682	26002690				
+2600.4002	10	stimulus_start	1	26004002	26004010	128.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0128.hdf5
+2610.3803	10	stimulus_end	2	26103803	26103811				
+2610.5123	10	stimulus_start	1	26105123	26105131	128.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0128.hdf5
+2620.4924	10	stimulus_end	2	26204924	26204932				
+2620.6244	10	stimulus_start	1	26206244	26206252	129.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0129.hdf5
+2630.6045	10	stimulus_end	2	26306045	26306053				
+2630.7152	10	stimulus_start	1	26307152	26307160	129.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0129.hdf5
+2640.6953	10	stimulus_end	2	26406953	26406961				
+2640.8273	10	stimulus_start	1	26408273	26408281	130.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0130.hdf5
+2650.8074	10	stimulus_end	2	26508074	26508082				
+2650.9394	10	stimulus_start	1	26509394	26509402	131.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0131.hdf5
+2660.9195	10	stimulus_end	2	26609195	26609203				
+2661.0515	10	stimulus_start	1	26610515	26610523	130.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0130.hdf5
+2671.0316	10	stimulus_end	2	26710316	26710324				
+2671.1636	10	stimulus_start	1	26711636	26711644	131.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0131.hdf5
+2681.1437	10	stimulus_end	2	26811437	26811445				
+2681.2757	10	stimulus_start	1	26812757	26812765	132.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0132.hdf5
+2691.2558	10	stimulus_end	2	26912558	26912566				
+2691.3878	10	stimulus_start	1	26913878	26913886	132.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0132.hdf5
+2701.3679	10	stimulus_end	2	27013679	27013687				
+2701.4999	10	stimulus_start	1	27014999	27015007	133.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0133.hdf5
+2711.48	10	stimulus_end	2	27114800	27114808				
+2711.5906	10	stimulus_start	1	27115906	27115914	133.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0133.hdf5
+2721.5707	10	stimulus_end	2	27215707	27215715				
+2721.7027	10	stimulus_start	1	27217027	27217035	134.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0134.hdf5
+2731.6828	10	stimulus_end	2	27316828	27316836				
+2731.8148	10	stimulus_start	1	27318148	27318156	134.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0134.hdf5
+2741.7949	10	stimulus_end	2	27417949	27417957				
+2741.9269	10	stimulus_start	1	27419269	27419277	135.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0135.hdf5
+2751.907	10	stimulus_end	2	27519070	27519078				
+2752.039	10	stimulus_start	1	27520390	27520398	135.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0135.hdf5
+2762.0191	10	stimulus_end	2	27620191	27620199				
+2762.1725	10	stimulus_start	1	27621725	27621733	136.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0136.hdf5
+2772.1526	10	stimulus_end	2	27721526	27721534				
+2772.2632	10	stimulus_start	1	27722632	27722640	137.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0137.hdf5
+2782.2433	10	stimulus_end	2	27822433	27822441				
+2782.3753	10	stimulus_start	1	27823753	27823761	136.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0136.hdf5
+2792.3554	10	stimulus_end	2	27923554	27923562				
+2792.4874	10	stimulus_start	1	27924874	27924882	137.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0137.hdf5
+2802.4675	10	stimulus_end	2	28024675	28024683				
+2802.5995	10	stimulus_start	1	28025995	28026003	138.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0138.hdf5
+2812.5796	10	stimulus_end	2	28125796	28125804				
+2812.7116	10	stimulus_start	1	28127116	28127124	138.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0138.hdf5
+2822.6917	10	stimulus_end	2	28226917	28226925				
+2822.8237	10	stimulus_start	1	28228237	28228245	139.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0139.hdf5
+2832.8038	10	stimulus_end	2	28328038	28328046				
+2832.9358	10	stimulus_start	1	28329358	28329366	139.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0139.hdf5
+2842.9159	10	stimulus_end	2	28429159	28429167				
+2843.0479	10	stimulus_start	1	28430479	28430487	140.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0140.hdf5
+2853.028	10	stimulus_end	2	28530280	28530288				
+2853.16	10	stimulus_start	1	28531600	28531608	141.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0141.hdf5
+2863.1401	10	stimulus_end	2	28631401	28631409				
+2863.2721	10	stimulus_start	1	28632721	28632729	140.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0140.hdf5
+2873.2522	10	stimulus_end	2	28732522	28732530				
+2873.3842	10	stimulus_start	1	28733842	28733850	141.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0141.hdf5
+2883.3643	10	stimulus_end	2	28833643	28833651				
+2883.475	10	stimulus_start	1	28834750	28834758	142.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0142.hdf5
+2893.4551	10	stimulus_end	2	28934551	28934559				
+2893.6084	10	stimulus_start	1	28936084	28936092	142.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0142.hdf5
+2903.5885	10	stimulus_end	2	29035885	29035893				
+2903.7205	10	stimulus_start	1	29037205	29037213	143.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0143.hdf5
+2913.7006	10	stimulus_end	2	29137006	29137014				
+2913.8326	10	stimulus_start	1	29138326	29138334	143.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0143.hdf5
+2923.8127	10	stimulus_end	2	29238127	29238135				
+2923.9447	10	stimulus_start	1	29239447	29239455	144.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0144.hdf5
+2933.9248	10	stimulus_end	2	29339248	29339256				
+2934.0568	10	stimulus_start	1	29340568	29340576	144.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0144.hdf5
+2944.0369	10	stimulus_end	2	29440369	29440377				
+2944.1476	10	stimulus_start	1	29441476	29441484	145.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0145.hdf5
+2954.1277	10	stimulus_end	2	29541277	29541285				
+2954.2597	10	stimulus_start	1	29542597	29542605	145.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0145.hdf5
+2964.2398	10	stimulus_end	2	29642398	29642406				
+2964.3718	10	stimulus_start	1	29643718	29643726	146.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0146.hdf5
+2974.3519	10	stimulus_end	2	29743519	29743527				
+2974.4626	10	stimulus_start	1	29744626	29744634	147.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0147.hdf5
+2984.4427	10	stimulus_end	2	29844427	29844435				
+2984.5747	10	stimulus_start	1	29845747	29845755	146.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0146.hdf5
+2994.5548	10	stimulus_end	2	29945548	29945556				
+2994.6868	10	stimulus_start	1	29946868	29946876	147.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0147.hdf5
+3004.6669	10	stimulus_end	2	30046669	30046677				
+3004.7775	10	stimulus_start	1	30047775	30047783	148.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0148.hdf5
+3014.7576	10	stimulus_end	2	30147576	30147584				
+3014.8896	10	stimulus_start	1	30148896	30148904	148.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0148.hdf5
+3024.8697	10	stimulus_end	2	30248697	30248705				
+3025.0017	10	stimulus_start	1	30250017	30250025	149.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0149.hdf5
+3034.9818	10	stimulus_end	2	30349818	30349826				
+3035.1138	10	stimulus_start	1	30351138	30351146	149.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0149.hdf5
+3045.0939	10	stimulus_end	2	30450939	30450947				
+3045.2046	10	stimulus_start	1	30452046	30452054	150.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0150.hdf5
+3055.1847	10	stimulus_end	2	30551847	30551855				
+3055.2954	10	stimulus_start	1	30552954	30552962	151.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0151.hdf5
+3065.2755	10	stimulus_end	2	30652755	30652763				
+3065.4075	10	stimulus_start	1	30654075	30654083	150.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0150.hdf5
+3075.3876	10	stimulus_end	2	30753876	30753884				
+3075.4982	10	stimulus_start	1	30754982	30754990	151.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0151.hdf5
+3085.4783	10	stimulus_end	2	30854783	30854791				
+3085.6103	10	stimulus_start	1	30856103	30856111	152.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0152.hdf5
+3095.5904	10	stimulus_end	2	30955904	30955912				
+3095.7224	10	stimulus_start	1	30957224	30957232	152.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0152.hdf5
+3105.7025	10	stimulus_end	2	31057025	31057033				
+3105.8345	10	stimulus_start	1	31058345	31058353	153.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0153.hdf5
+3115.8146	10	stimulus_end	2	31158146	31158154				
+3115.9466	10	stimulus_start	1	31159466	31159474	153.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0153.hdf5
+3125.9267	10	stimulus_end	2	31259267	31259275				
+3126.0587	10	stimulus_start	1	31260587	31260595	154.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0154.hdf5
+3136.0388	10	stimulus_end	2	31360388	31360396				
+3136.1708	10	stimulus_start	1	31361708	31361716	154.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0154.hdf5
+3146.1509	10	stimulus_end	2	31461509	31461517				
+3146.2829	10	stimulus_start	1	31462829	31462837	155.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0155.hdf5
+3156.263	10	stimulus_end	2	31562630	31562638				
+3156.4164	10	stimulus_start	1	31564164	31564172	155.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0155.hdf5
+3166.3965	10	stimulus_end	2	31663965	31663973				
+3166.5285	10	stimulus_start	1	31665285	31665293	156.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0156.hdf5
+3176.5086	10	stimulus_end	2	31765086	31765094				
+3176.6406	10	stimulus_start	1	31766406	31766414	156.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0156.hdf5
+3186.6207	10	stimulus_end	2	31866207	31866215				
+3186.7527	10	stimulus_start	1	31867527	31867535	157.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0157.hdf5
+3196.7328	10	stimulus_end	2	31967328	31967336				
+3196.8648	10	stimulus_start	1	31968648	31968656	157.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0157.hdf5
+3206.8449	10	stimulus_end	2	32068449	32068457				
+3206.9982	10	stimulus_start	1	32069982	32069990	158.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0158.hdf5
+3216.9783	10	stimulus_end	2	32169783	32169791				
+3217.1103	10	stimulus_start	1	32171103	32171111	158.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0158.hdf5
+3227.0904	10	stimulus_end	2	32270904	32270912				
+3227.2011	10	stimulus_start	1	32272011	32272019	159.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0159.hdf5
+3237.1812	10	stimulus_end	2	32371812	32371820				
+3237.2918	10	stimulus_start	1	32372918	32372926	159.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0159.hdf5
+3247.2719	10	stimulus_end	2	32472719	32472727				
+3247.4039	10	stimulus_start	1	32474039	32474047	160.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0160.hdf5
+3257.384	10	stimulus_end	2	32573840	32573848				
+3257.516	10	stimulus_start	1	32575160	32575168	160.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0160.hdf5
+3267.4961	10	stimulus_end	2	32674961	32674969				
+3267.6281	10	stimulus_start	1	32676281	32676289	161.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0161.hdf5
+3277.6082	10	stimulus_end	2	32776082	32776090				
+3277.7189	10	stimulus_start	1	32777189	32777197	161.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0161.hdf5
+3287.699	10	stimulus_end	2	32876990	32876998				
+3287.8523	10	stimulus_start	1	32878523	32878531	162.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0162.hdf5
+3297.8324	10	stimulus_end	2	32978324	32978332				
+3297.9644	10	stimulus_start	1	32979644	32979652	163.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0163.hdf5
+3307.9445	10	stimulus_end	2	33079445	33079453				
+3308.0552	10	stimulus_start	1	33080552	33080560	162.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0162.hdf5
+3318.0353	10	stimulus_end	2	33180353	33180361				
+3318.1673	10	stimulus_start	1	33181673	33181681	163.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0163.hdf5
+3328.1474	10	stimulus_end	2	33281474	33281482				
+3328.2581	10	stimulus_start	1	33282581	33282589	164.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0164.hdf5
+3338.2382	10	stimulus_end	2	33382382	33382390				
+3338.3702	10	stimulus_start	1	33383702	33383710	164.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0164.hdf5
+3348.3503	10	stimulus_end	2	33483503	33483511				
+3348.4823	10	stimulus_start	1	33484823	33484831	165.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0165.hdf5
+3358.4624	10	stimulus_end	2	33584624	33584632				
+3358.5944	10	stimulus_start	1	33585944	33585952	165.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0165.hdf5
+3368.5745	10	stimulus_end	2	33685745	33685753				
+3368.7065	10	stimulus_start	1	33687065	33687073	166.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0166.hdf5
+3378.6866	10	stimulus_end	2	33786866	33786874				
+3378.8186	10	stimulus_start	1	33788186	33788194	167.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0167.hdf5
+3388.7987	10	stimulus_end	2	33887987	33887995				
+3388.9307	10	stimulus_start	1	33889307	33889315	166.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0166.hdf5
+3398.9108	10	stimulus_end	2	33989108	33989116				
+3399.0428	10	stimulus_start	1	33990428	33990436	167.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0167.hdf5
+3409.0229	10	stimulus_end	2	34090229	34090237				
+3409.1335	10	stimulus_start	1	34091335	34091343	168.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0168.hdf5
+3419.1136	10	stimulus_end	2	34191136	34191144				
+3419.267	10	stimulus_start	1	34192670	34192678	168.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0168.hdf5
+3429.2471	10	stimulus_end	2	34292471	34292479				
+3429.3577	10	stimulus_start	1	34293577	34293585	169.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0169.hdf5
+3439.3378	10	stimulus_end	2	34393378	34393386				
+3439.4698	10	stimulus_start	1	34394698	34394706	169.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0169.hdf5
+3449.4499	10	stimulus_end	2	34494499	34494507				
+3449.5819	10	stimulus_start	1	34495819	34495827	170.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0170.hdf5
+3459.562	10	stimulus_end	2	34595620	34595628				
+3459.6727	10	stimulus_start	1	34596727	34596735	171.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0171.hdf5
+3469.6528	10	stimulus_end	2	34696528	34696536				
+3469.7848	10	stimulus_start	1	34697848	34697856	170.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0170.hdf5
+3479.7649	10	stimulus_end	2	34797649	34797657				
+3479.8969	10	stimulus_start	1	34798969	34798977	171.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0171.hdf5
+3489.877	10	stimulus_end	2	34898770	34898778				
+3489.9877	10	stimulus_start	1	34899877	34899885	172.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0172.hdf5
+3499.9678	10	stimulus_end	2	34999678	34999686				
+3500.1211	10	stimulus_start	1	35001211	35001219	172.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0172.hdf5
+3510.1012	10	stimulus_end	2	35101012	35101020				
+3510.2332	10	stimulus_start	1	35102332	35102340	173.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0173.hdf5
+3520.2133	10	stimulus_end	2	35202133	35202141				
+3520.324	10	stimulus_start	1	35203240	35203248	173.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0173.hdf5
+3530.3041	10	stimulus_end	2	35303041	35303049				
+3530.4361	10	stimulus_start	1	35304361	35304369	174.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0174.hdf5
+3540.4162	10	stimulus_end	2	35404162	35404170				
+3540.5482	10	stimulus_start	1	35405482	35405490	174.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0174.hdf5
+3550.5283	10	stimulus_end	2	35505283	35505291				
+3550.6603	10	stimulus_start	1	35506603	35506611	175.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0175.hdf5
+3560.6404	10	stimulus_end	2	35606404	35606412				
+3560.7724	10	stimulus_start	1	35607724	35607732	175.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0175.hdf5
+3570.7525	10	stimulus_end	2	35707525	35707533				
+3570.8845	10	stimulus_start	1	35708845	35708853	176.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0176.hdf5
+3580.8646	10	stimulus_end	2	35808646	35808654				
+3580.9752	10	stimulus_start	1	35809752	35809760	177.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0177.hdf5
+3590.9553	10	stimulus_end	2	35909553	35909561				
+3591.0873	10	stimulus_start	1	35910873	35910881	176.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0176.hdf5
+3601.0674	10	stimulus_end	2	36010674	36010682				
+3601.2208	10	stimulus_start	1	36012208	36012216	177.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0177.hdf5
+3611.2009	10	stimulus_end	2	36112009	36112017				
+3611.3329	10	stimulus_start	1	36113329	36113337	178.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0178.hdf5
+3621.313	10	stimulus_end	2	36213130	36213138				
+3621.4236	10	stimulus_start	1	36214236	36214244	178.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0178.hdf5
+3631.4037	10	stimulus_end	2	36314037	36314045				
+3631.5357	10	stimulus_start	1	36315357	36315365	179.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0179.hdf5
+3641.5158	10	stimulus_end	2	36415158	36415166				
+3641.6478	10	stimulus_start	1	36416478	36416486	179.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0179.hdf5
+3651.6279	10	stimulus_end	2	36516279	36516287				
+3651.7386	10	stimulus_start	1	36517386	36517394	180.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0180.hdf5
+3661.7187	10	stimulus_end	2	36617187	36617195				
+3661.872	10	stimulus_start	1	36618720	36618728	180.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0180.hdf5
+3671.8521	10	stimulus_end	2	36718521	36718529				
+3671.9841	10	stimulus_start	1	36719841	36719849	181.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0181.hdf5
+3681.9642	10	stimulus_end	2	36819642	36819650				
+3682.0962	10	stimulus_start	1	36820962	36820970	181.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0181.hdf5
+3692.0763	10	stimulus_end	2	36920763	36920771				
+3692.2083	10	stimulus_start	1	36922083	36922091	182.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0182.hdf5
+3702.1884	10	stimulus_end	2	37021884	37021892				
+3702.3204	10	stimulus_start	1	37023204	37023212	182.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0182.hdf5
+3712.3005	10	stimulus_end	2	37123005	37123013				
+3712.4325	10	stimulus_start	1	37124325	37124333	183.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0183.hdf5
+3722.4126	10	stimulus_end	2	37224126	37224134				
+3722.5233	10	stimulus_start	1	37225233	37225241	183.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0183.hdf5
+3732.5034	10	stimulus_end	2	37325034	37325042				
+3732.6567	10	stimulus_start	1	37326567	37326575	184.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0184.hdf5
+3742.6368	10	stimulus_end	2	37426368	37426376				
+3742.7475	10	stimulus_start	1	37427475	37427483	184.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0184.hdf5
+3752.7276	10	stimulus_end	2	37527276	37527284				
+3752.8596	10	stimulus_start	1	37528596	37528604	185.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0185.hdf5
+3762.8397	10	stimulus_end	2	37628397	37628405				
+3762.9717	10	stimulus_start	1	37629717	37629725	185.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0185.hdf5
+3772.9518	10	stimulus_end	2	37729518	37729526				
+3773.0838	10	stimulus_start	1	37730838	37730846	186.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0186.hdf5
+3783.0639	10	stimulus_end	2	37830639	37830647				
+3783.1959	10	stimulus_start	1	37831959	37831967	187.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0187.hdf5
+3793.176	10	stimulus_end	2	37931760	37931768				
+3793.308	10	stimulus_start	1	37933080	37933088	186.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0186.hdf5
+3803.2881	10	stimulus_end	2	38032881	38032889				
+3803.4201	10	stimulus_start	1	38034201	38034209	187.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0187.hdf5
+3813.4002	10	stimulus_end	2	38134002	38134010				
+3813.5108	10	stimulus_start	1	38135108	38135116	188.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0188.hdf5
+3823.4909	10	stimulus_end	2	38234909	38234917				
+3823.6229	10	stimulus_start	1	38236229	38236237	188.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0188.hdf5
+3833.603	10	stimulus_end	2	38336030	38336038				
+3833.7137	10	stimulus_start	1	38337137	38337145	189.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0189.hdf5
+3843.6938	10	stimulus_end	2	38436938	38436946				
+3843.8258	10	stimulus_start	1	38438258	38438266	189.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0189.hdf5
+3853.8059	10	stimulus_end	2	38538059	38538067				
+3853.9592	10	stimulus_start	1	38539592	38539600	190.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0190.hdf5
+3863.9393	10	stimulus_end	2	38639393	38639401				
+3864.0713	10	stimulus_start	1	38640713	38640721	190.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0190.hdf5
+3874.0514	10	stimulus_end	2	38740514	38740522				
+3874.1834	10	stimulus_start	1	38741834	38741842	191.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0191.hdf5
+3884.1635	10	stimulus_end	2	38841635	38841643				
+3884.2742	10	stimulus_start	1	38842742	38842750	191.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0191.hdf5
+3894.2543	10	stimulus_end	2	38942543	38942551				
+3894.4076	10	stimulus_start	1	38944076	38944084	192.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0192.hdf5
+3904.3877	10	stimulus_end	2	39043877	39043885				
+3904.5197	10	stimulus_start	1	39045197	39045205	192.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0192.hdf5
+3914.4998	10	stimulus_end	2	39144998	39145006				
+3914.6105	10	stimulus_start	1	39146105	39146113	193.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0193.hdf5
+3924.5906	10	stimulus_end	2	39245906	39245914				
+3924.7226	10	stimulus_start	1	39247226	39247234	193.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0193.hdf5
+3934.7027	10	stimulus_end	2	39347027	39347035				
+3934.8134	10	stimulus_start	1	39348134	39348142	194.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0194.hdf5
+3944.7935	10	stimulus_end	2	39447935	39447943				
+3944.9255	10	stimulus_start	1	39449255	39449263	195.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0195.hdf5
+3954.9056	10	stimulus_end	2	39549056	39549064				
+3955.0376	10	stimulus_start	1	39550376	39550384	194.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0194.hdf5
+3965.0177	10	stimulus_end	2	39650177	39650185				
+3965.1283	10	stimulus_start	1	39651283	39651291	195.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0195.hdf5
+3975.1084	10	stimulus_end	2	39751084	39751092				
+3975.2618	10	stimulus_start	1	39752618	39752626	196.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0196.hdf5
+3985.2419	10	stimulus_end	2	39852419	39852427				
+3985.3739	10	stimulus_start	1	39853739	39853747	196.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0196.hdf5
+3995.354	10	stimulus_end	2	39953540	39953548				
+3995.4646	10	stimulus_start	1	39954646	39954654	197.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0197.hdf5
+4005.4447	10	stimulus_end	2	40054447	40054455				
+4005.5767	10	stimulus_start	1	40055767	40055775	197.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0197.hdf5
+4015.5568	10	stimulus_end	2	40155568	40155576				
+4015.7102	10	stimulus_start	1	40157102	40157110	198.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0198.hdf5
+4025.6903	10	stimulus_end	2	40256903	40256911				
+4025.8223	10	stimulus_start	1	40258223	40258231	198.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0198.hdf5
+4035.8024	10	stimulus_end	2	40358024	40358032				
+4035.9344	10	stimulus_start	1	40359344	40359352	199.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0199.hdf5
+4045.9145	10	stimulus_end	2	40459145	40459153				
+4046.0465	10	stimulus_start	1	40460465	40460473	199.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0199.hdf5
+4056.0266	10	stimulus_end	2	40560266	40560274				
+4056.1586	10	stimulus_start	1	40561586	40561594	200.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0200.hdf5
+4066.1387	10	stimulus_end	2	40661387	40661395				
+4066.2493	10	stimulus_start	1	40662493	40662501	200.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0200.hdf5
+4076.2294	10	stimulus_end	2	40762294	40762302				
+4076.3614	10	stimulus_start	1	40763614	40763622	201.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0201.hdf5
+4086.3415	10	stimulus_end	2	40863415	40863423				
+4086.4949	10	stimulus_start	1	40864949	40864957	201.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0201.hdf5
+4096.475	10	stimulus_end	2	40964750	40964758				
+4096.5856	10	stimulus_start	1	40965856	40965864	202.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0202.hdf5
+4106.5657	10	stimulus_end	2	41065657	41065665				
+4106.6977	10	stimulus_start	1	41066977	41066985	203.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0203.hdf5
+4116.6778	10	stimulus_end	2	41166778	41166786				
+4116.8098	10	stimulus_start	1	41168098	41168106	202.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0202.hdf5
+4126.7899	10	stimulus_end	2	41267899	41267907				
+4148.291	10	stimulus_start	1	41482910	41482918	203.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0203.hdf5
+4158.2711	10	stimulus_end	2	41582711	41582719				
+4158.3817	10	stimulus_start	1	41583817	41583825	204.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0204.hdf5
+4168.3618	10	stimulus_end	2	41683618	41683626				
+4168.4938	10	stimulus_start	1	41684938	41684946	204.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0204.hdf5
+4178.4739	10	stimulus_end	2	41784739	41784747				
+4178.6059	10	stimulus_start	1	41786059	41786067	205.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0205.hdf5
+4188.586	10	stimulus_end	2	41885860	41885868				
+4188.718	10	stimulus_start	1	41887180	41887188	205.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0205.hdf5
+4198.6981	10	stimulus_end	2	41986981	41986989				
+4198.8301	10	stimulus_start	1	41988301	41988309	206.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0206.hdf5
+4208.8102	10	stimulus_end	2	42088102	42088110				
+4208.9636	10	stimulus_start	1	42089636	42089644	207.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0207.hdf5
+4218.9437	10	stimulus_end	2	42189437	42189445				
+4219.0543	10	stimulus_start	1	42190543	42190551	206.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0206.hdf5
+4229.0344	10	stimulus_end	2	42290344	42290352				
+4229.1451	10	stimulus_start	1	42291451	42291459	207.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0207.hdf5
+4239.1252	10	stimulus_end	2	42391252	42391260				
+4239.2785	10	stimulus_start	1	42392785	42392793	208.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0208.hdf5
+4249.2586	10	stimulus_end	2	42492586	42492594				
+4249.412	10	stimulus_start	1	42494120	42494128	209.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0209.hdf5
+4259.392	10	stimulus_end	2	42593920	42593928				
+4259.5027	10	stimulus_start	1	42595027	42595035	208.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0208.hdf5
+4269.4828	10	stimulus_end	2	42694828	42694836				
+4269.6148	10	stimulus_start	1	42696148	42696156	209.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0209.hdf5
+4279.5949	10	stimulus_end	2	42795949	42795957				
+4279.7269	10	stimulus_start	1	42797269	42797277	210.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0210.hdf5
+4289.707	10	stimulus_end	2	42897070	42897078				
+4289.8177	10	stimulus_start	1	42898177	42898185	211.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0211.hdf5
+4299.7978	10	stimulus_end	2	42997978	42997986				
+4299.9298	10	stimulus_start	1	42999298	42999306	210.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0210.hdf5
+4309.9099	10	stimulus_end	2	43099099	43099107				
+4310.0632	10	stimulus_start	1	43100632	43100640	211.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0211.hdf5
+4320.0433	10	stimulus_end	2	43200433	43200441				
+4320.154	10	stimulus_start	1	43201540	43201548	212.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0212.hdf5
+4330.1341	10	stimulus_end	2	43301341	43301349				
+4330.2661	10	stimulus_start	1	43302661	43302669	213.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0213.hdf5
+4340.2462	10	stimulus_end	2	43402462	43402470				
+4340.3782	10	stimulus_start	1	43403782	43403790	212.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0212.hdf5
+4350.3583	10	stimulus_end	2	43503583	43503591				
+4350.4689	10	stimulus_start	1	43504689	43504697	213.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0213.hdf5
+4360.449	10	stimulus_end	2	43604490	43604498				
+4360.581	10	stimulus_start	1	43605810	43605818	214.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0214.hdf5
+4370.5611	10	stimulus_end	2	43705611	43705619				
+4370.7145	10	stimulus_start	1	43707145	43707153	214.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0214.hdf5
+4380.6946	10	stimulus_end	2	43806946	43806954				
+4380.8052	10	stimulus_start	1	43808052	43808060	215.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0215.hdf5
+4390.7853	10	stimulus_end	2	43907853	43907861				
+4390.9173	10	stimulus_start	1	43909173	43909181	215.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0215.hdf5
+4400.8974	10	stimulus_end	2	44008974	44008982				
+4401.0294	10	stimulus_start	1	44010294	44010302	216.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0216.hdf5
+4411.0095	10	stimulus_end	2	44110095	44110103				
+4411.1415	10	stimulus_start	1	44111415	44111423	216.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0216.hdf5
+4421.1216	10	stimulus_end	2	44211216	44211224				
+4421.2323	10	stimulus_start	1	44212323	44212331	217.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0217.hdf5
+4431.2124	10	stimulus_end	2	44312124	44312132				
+4431.3657	10	stimulus_start	1	44313657	44313665	217.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0217.hdf5
+4441.3458	10	stimulus_end	2	44413458	44413466				
+4441.4778	10	stimulus_start	1	44414778	44414786	218.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0218.hdf5
+4451.4579	10	stimulus_end	2	44514579	44514587				
+4451.5899	10	stimulus_start	1	44515899	44515907	218.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0218.hdf5
+4461.57	10	stimulus_end	2	44615700	44615708				
+4461.702	10	stimulus_start	1	44617020	44617028	219.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0219.hdf5
+4471.6821	10	stimulus_end	2	44716821	44716829				
+4471.8141	10	stimulus_start	1	44718141	44718149	219.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0219.hdf5
+4481.7942	10	stimulus_end	2	44817942	44817950				
+4481.9262	10	stimulus_start	1	44819262	44819270	220.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0220.hdf5
+4491.9063	10	stimulus_end	2	44919063	44919071				
+4492.0383	10	stimulus_start	1	44920383	44920391	220.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0220.hdf5
+4502.0184	10	stimulus_end	2	45020184	45020192				
+4502.1504	10	stimulus_start	1	45021504	45021512	221.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0221.hdf5
+4512.1305	10	stimulus_end	2	45121305	45121313				
+4512.2625	10	stimulus_start	1	45122625	45122633	221.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0221.hdf5
+4522.2426	10	stimulus_end	2	45222426	45222434				
+4522.3746	10	stimulus_start	1	45223746	45223754	222.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0222.hdf5
+4532.3547	10	stimulus_end	2	45323547	45323555				
+4532.4867	10	stimulus_start	1	45324867	45324875	222.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0222.hdf5
+4542.4668	10	stimulus_end	2	45424668	45424676				
+4542.5775	10	stimulus_start	1	45425775	45425783	223.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0223.hdf5
+4552.5576	10	stimulus_end	2	45525576	45525584				
+4552.6683	10	stimulus_start	1	45526683	45526691	223.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0223.hdf5
+4562.6484	10	stimulus_end	2	45626484	45626492				
+4562.8017	10	stimulus_start	1	45628017	45628025	224.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0224.hdf5
+4572.7818	10	stimulus_end	2	45727818	45727826				
+4572.8925	10	stimulus_start	1	45728925	45728933	224.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0224.hdf5
+4582.8726	10	stimulus_end	2	45828726	45828734				
+4583.0046	10	stimulus_start	1	45830046	45830054	225.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0225.hdf5
+4592.9847	10	stimulus_end	2	45929847	45929855				
+4593.138	10	stimulus_start	1	45931380	45931388	225.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0225.hdf5
+4603.1181	10	stimulus_end	2	46031181	46031189				
+4603.2501	10	stimulus_start	1	46032501	46032509	226.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0226.hdf5
+4613.2302	10	stimulus_end	2	46132302	46132310				
+4613.3622	10	stimulus_start	1	46133622	46133630	226.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0226.hdf5
+4623.3423	10	stimulus_end	2	46233423	46233431				
+4623.4743	10	stimulus_start	1	46234743	46234751	227.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0227.hdf5
+4633.4544	10	stimulus_end	2	46334544	46334552				
+4633.5864	10	stimulus_start	1	46335864	46335872	227.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0227.hdf5
+4643.5665	10	stimulus_end	2	46435665	46435673				
+4643.6985	10	stimulus_start	1	46436985	46436993	228.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0228.hdf5
+4653.6786	10	stimulus_end	2	46536786	46536794				
+4653.7893	10	stimulus_start	1	46537893	46537901	229.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0229.hdf5
+4663.7694	10	stimulus_end	2	46637694	46637702				
+4663.9014	10	stimulus_start	1	46639014	46639022	228.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0228.hdf5
+4673.8815	10	stimulus_end	2	46738815	46738823				
+4674.0135	10	stimulus_start	1	46740135	46740143	229.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0229.hdf5
+4683.9936	10	stimulus_end	2	46839936	46839944				
+4684.1042	10	stimulus_start	1	46841042	46841050	230.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0230.hdf5
+4694.0843	10	stimulus_end	2	46940843	46940851				
+4694.2377	10	stimulus_start	1	46942377	46942385	231.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0231.hdf5
+4704.2178	10	stimulus_end	2	47042178	47042186				
+4704.3284	10	stimulus_start	1	47043284	47043292	230.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0230.hdf5
+4714.3085	10	stimulus_end	2	47143085	47143093				
+4714.4405	10	stimulus_start	1	47144405	47144413	231.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0231.hdf5
+4724.4206	10	stimulus_end	2	47244206	47244214				
+4724.574	10	stimulus_start	1	47245740	47245748	232.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0232.hdf5
+4734.5541	10	stimulus_end	2	47345541	47345549				
+4734.6861	10	stimulus_start	1	47346861	47346869	232.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0232.hdf5
+4744.6662	10	stimulus_end	2	47446662	47446670				
+4744.7982	10	stimulus_start	1	47447982	47447990	233.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0233.hdf5
+4754.7782	10	stimulus_end	2	47547782	47547790				
+4754.9103	10	stimulus_start	1	47549103	47549111	233.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0233.hdf5
+4764.8903	10	stimulus_end	2	47648903	47648911				
+4765.0224	10	stimulus_start	1	47650224	47650232	234.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0234.hdf5
+4775.0024	10	stimulus_end	2	47750024	47750032				
+4775.1131	10	stimulus_start	1	47751131	47751139	235.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0235.hdf5
+4785.0932	10	stimulus_end	2	47850932	47850940				
+4785.2252	10	stimulus_start	1	47852252	47852260	234.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0234.hdf5
+4795.2053	10	stimulus_end	2	47952053	47952061				
+4795.3373	10	stimulus_start	1	47953373	47953381	235.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0235.hdf5
+4805.3174	10	stimulus_end	2	48053174	48053182				
+4805.4494	10	stimulus_start	1	48054494	48054502	236.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0236.hdf5
+4815.4295	10	stimulus_end	2	48154295	48154303				
+4815.5828	10	stimulus_start	1	48155828	48155836	236.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0236.hdf5
+4825.5629	10	stimulus_end	2	48255629	48255637				
+4825.6949	10	stimulus_start	1	48256949	48256957	237.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0237.hdf5
+4835.675	10	stimulus_end	2	48356750	48356758				
+4835.807	10	stimulus_start	1	48358070	48358078	237.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0237.hdf5
+4845.7871	10	stimulus_end	2	48457871	48457879				
+4845.9191	10	stimulus_start	1	48459191	48459199	238.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0238.hdf5
+4855.8992	10	stimulus_end	2	48558992	48559000				
+4856.0312	10	stimulus_start	1	48560312	48560320	238.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0238.hdf5
+4866.0113	10	stimulus_end	2	48660113	48660121				
+4866.1433	10	stimulus_start	1	48661433	48661441	239.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0239.hdf5
+4876.1234	10	stimulus_end	2	48761234	48761242				
+4876.2554	10	stimulus_start	1	48762554	48762562	239.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0239.hdf5
+4886.2355	10	stimulus_end	2	48862355	48862363				
+4886.3675	10	stimulus_start	1	48863675	48863683	240.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0240.hdf5
+4896.3476	10	stimulus_end	2	48963476	48963484				
+4896.4796	10	stimulus_start	1	48964796	48964804	241.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0241.hdf5
+4906.4597	10	stimulus_end	2	49064597	49064605				
+4906.5917	10	stimulus_start	1	49065917	49065925	240.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0240.hdf5
+4916.5718	10	stimulus_end	2	49165718	49165726				
+4916.7038	10	stimulus_start	1	49167038	49167046	241.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0241.hdf5
+4926.6839	10	stimulus_end	2	49266839	49266847				
+4926.7946	10	stimulus_start	1	49267946	49267954	242.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0242.hdf5
+4936.7747	10	stimulus_end	2	49367747	49367755				
+4936.9067	10	stimulus_start	1	49369067	49369075	242.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0242.hdf5
+4946.8868	10	stimulus_end	2	49468868	49468876				
+4947.0188	10	stimulus_start	1	49470188	49470196	243.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0243.hdf5
+4956.9989	10	stimulus_end	2	49569989	49569997				
+4957.1309	10	stimulus_start	1	49571309	49571317	243.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0243.hdf5
+4967.111	10	stimulus_end	2	49671110	49671118				
+4967.243	10	stimulus_start	1	49672430	49672438	244.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0244.hdf5
+4977.2231	10	stimulus_end	2	49772231	49772239				
+4977.3338	10	stimulus_start	1	49773338	49773346	244.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0244.hdf5
+4987.3139	10	stimulus_end	2	49873139	49873147				
+4987.4245	10	stimulus_start	1	49874245	49874253	245.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0245.hdf5
+4997.4046	10	stimulus_end	2	49974046	49974054				
+4997.5366	10	stimulus_start	1	49975366	49975374	245.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0245.hdf5
+5007.5167	10	stimulus_end	2	50075167	50075175				
+5007.6274	10	stimulus_start	1	50076274	50076282	246.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0246.hdf5
+5017.6075	10	stimulus_end	2	50176075	50176083				
+5017.7608	10	stimulus_start	1	50177608	50177616	246.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0246.hdf5
+5027.7409	10	stimulus_end	2	50277409	50277417				
+5027.8516	10	stimulus_start	1	50278516	50278524	247.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0247.hdf5
+5037.8317	10	stimulus_end	2	50378317	50378325				
+5037.9424	10	stimulus_start	1	50379424	50379432	247.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0247.hdf5
+5047.9225	10	stimulus_end	2	50479225	50479233				
+5048.0758	10	stimulus_start	1	50480758	50480766	248.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0248.hdf5
+5058.0559	10	stimulus_end	2	50580559	50580567				
+5058.1879	10	stimulus_start	1	50581879	50581887	248.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0248.hdf5
+5068.168	10	stimulus_end	2	50681680	50681688				
+5068.3	10	stimulus_start	1	50683000	50683008	249.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0249.hdf5
+5078.2801	10	stimulus_end	2	50782801	50782809				
+5078.4121	10	stimulus_start	1	50784121	50784129	249.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0249.hdf5
+5088.3922	10	stimulus_end	2	50883922	50883930				
+5088.5242	10	stimulus_start	1	50885242	50885250	250.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0250.hdf5
+5098.5043	10	stimulus_end	2	50985043	50985051				
+5098.6363	10	stimulus_start	1	50986363	50986371	251.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0251.hdf5
+5108.6164	10	stimulus_end	2	51086164	51086172				
+5108.7484	10	stimulus_start	1	51087484	51087492	250.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0250.hdf5
+5118.7285	10	stimulus_end	2	51187285	51187293				
+5118.8605	10	stimulus_start	1	51188605	51188613	251.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0251.hdf5
+5128.8406	10	stimulus_end	2	51288406	51288414				
+5128.9726	10	stimulus_start	1	51289726	51289734	252.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0252.hdf5
+5138.9527	10	stimulus_end	2	51389527	51389535				
+5139.0634	10	stimulus_start	1	51390634	51390642	252.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0252.hdf5
+5149.0434	10	stimulus_end	2	51490434	51490442				
+5149.1968	10	stimulus_start	1	51491968	51491976	253.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0253.hdf5
+5159.1769	10	stimulus_end	2	51591769	51591777				
+5159.2875	10	stimulus_start	1	51592875	51592883	253.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0253.hdf5
+5169.2676	10	stimulus_end	2	51692676	51692684				
+5169.3996	10	stimulus_start	1	51693996	51694004	254.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0254.hdf5
+5179.3797	10	stimulus_end	2	51793797	51793805				
+5179.5117	10	stimulus_start	1	51795117	51795125	254.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0254.hdf5
+5189.4918	10	stimulus_end	2	51894918	51894926				
+5189.6238	10	stimulus_start	1	51896238	51896246	255.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0255.hdf5
+5199.6039	10	stimulus_end	2	51996039	51996047				
+5199.7146	10	stimulus_start	1	51997146	51997154	255.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0255.hdf5
+5209.6947	10	stimulus_end	2	52096947	52096955				
+5209.8267	10	stimulus_start	1	52098267	52098275	256.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0256.hdf5
+5219.8068	10	stimulus_end	2	52198068	52198076				
+5219.9388	10	stimulus_start	1	52199388	52199396	256.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0256.hdf5
+5229.9189	10	stimulus_end	2	52299189	52299197				
+5230.0296	10	stimulus_start	1	52300296	52300304	257.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0257.hdf5
+5240.0097	10	stimulus_end	2	52400097	52400105				
+5240.163	10	stimulus_start	1	52401630	52401638	257.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0257.hdf5
+5250.1431	10	stimulus_end	2	52501431	52501439				
+5250.2751	10	stimulus_start	1	52502751	52502759	258.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0258.hdf5
+5260.2552	10	stimulus_end	2	52602552	52602560				
+5260.3659	10	stimulus_start	1	52603659	52603667	259.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0259.hdf5
+5270.346	10	stimulus_end	2	52703460	52703468				
+5270.478	10	stimulus_start	1	52704780	52704788	258.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0258.hdf5
+5280.4581	10	stimulus_end	2	52804581	52804589				
+5280.5474	10	stimulus_start	1	52805474	52805482	259.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0259.hdf5
+5290.5275	10	stimulus_end	2	52905275	52905283				
+5290.6808	10	stimulus_start	1	52906808	52906816	260.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0260.hdf5
+5300.6609	10	stimulus_end	2	53006609	53006617				
+5300.7929	10	stimulus_start	1	53007929	53007937	260.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0260.hdf5
+5310.773	10	stimulus_end	2	53107730	53107738				
+5310.8837	10	stimulus_start	1	53108837	53108845	261.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0261.hdf5
+5320.8638	10	stimulus_end	2	53208638	53208646				
+5321.0171	10	stimulus_start	1	53210171	53210179	261.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0261.hdf5
+5330.9972	10	stimulus_end	2	53309972	53309980				
+5331.1292	10	stimulus_start	1	53311292	53311300	262.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0262.hdf5
+5341.1093	10	stimulus_end	2	53411093	53411101				
+5341.22	10	stimulus_start	1	53412200	53412208	263.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0263.hdf5
+5351.2001	10	stimulus_end	2	53512001	53512009				
+5351.3321	10	stimulus_start	1	53513321	53513329	262.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0262.hdf5
+5361.3122	10	stimulus_end	2	53613122	53613130				
+5361.4442	10	stimulus_start	1	53614442	53614450	263.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0263.hdf5
+5371.4243	10	stimulus_end	2	53714243	53714251				
+5371.5776	10	stimulus_start	1	53715776	53715784	264.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0264.hdf5
+5381.5577	10	stimulus_end	2	53815577	53815585				
+5381.6684	10	stimulus_start	1	53816684	53816692	264.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0264.hdf5
+5391.6485	10	stimulus_end	2	53916485	53916493				
+5391.7805	10	stimulus_start	1	53917805	53917813	265.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0265.hdf5
+5401.7606	10	stimulus_end	2	54017606	54017614				
+5401.8713	10	stimulus_start	1	54018713	54018721	265.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0265.hdf5
+5411.8514	10	stimulus_end	2	54118514	54118522				
+5411.9834	10	stimulus_start	1	54119834	54119842	266.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0266.hdf5
+5421.9635	10	stimulus_end	2	54219635	54219643				
+5422.1168	10	stimulus_start	1	54221168	54221176	267.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0267.hdf5
+5432.0969	10	stimulus_end	2	54320969	54320977				
+5432.2076	10	stimulus_start	1	54322076	54322084	266.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0266.hdf5
+5442.1877	10	stimulus_end	2	54421877	54421885				
+5442.3197	10	stimulus_start	1	54423197	54423205	267.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0267.hdf5
+5452.2998	10	stimulus_end	2	54522998	54523006				
+5452.4318	10	stimulus_start	1	54524318	54524326	268.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0268.hdf5
+5462.4119	10	stimulus_end	2	54624119	54624127				
+5462.5225	10	stimulus_start	1	54625225	54625233	269.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0269.hdf5
+5472.5026	10	stimulus_end	2	54725026	54725034				
+5472.6346	10	stimulus_start	1	54726346	54726354	268.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0268.hdf5
+5482.6147	10	stimulus_end	2	54826147	54826155				
+5482.7467	10	stimulus_start	1	54827467	54827475	269.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0269.hdf5
+5492.7268	10	stimulus_end	2	54927268	54927276				
+5492.8375	10	stimulus_start	1	54928375	54928383	270.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0270.hdf5
+5502.8176	10	stimulus_end	2	55028176	55028184				
+5502.9709	10	stimulus_start	1	55029709	55029717	270.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0270.hdf5
+5512.951	10	stimulus_end	2	55129510	55129518				
+5513.0617	10	stimulus_start	1	55130617	55130625	271.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0271.hdf5
+5523.0418	10	stimulus_end	2	55230418	55230426				
+5523.1524	10	stimulus_start	1	55231524	55231532	271.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0271.hdf5
+5533.1325	10	stimulus_end	2	55331325	55331333				
+5533.2859	10	stimulus_start	1	55332859	55332867	272.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0272.hdf5
+5543.266	10	stimulus_end	2	55432660	55432668				
+5543.398	10	stimulus_start	1	55433980	55433988	272.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0272.hdf5
+5553.3781	10	stimulus_end	2	55533781	55533789				
+5553.5101	10	stimulus_start	1	55535101	55535109	273.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0273.hdf5
+5563.4902	10	stimulus_end	2	55634902	55634910				
+5563.6222	10	stimulus_start	1	55636222	55636230	273.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0273.hdf5
+5573.6023	10	stimulus_end	2	55736023	55736031				
+5573.7343	10	stimulus_start	1	55737343	55737351	274.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0274.hdf5
+5583.7144	10	stimulus_end	2	55837144	55837152				
+5583.8677	10	stimulus_start	1	55838677	55838685	274.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0274.hdf5
+5593.8478	10	stimulus_end	2	55938478	55938486				
+5593.9798	10	stimulus_start	1	55939798	55939806	275.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0275.hdf5
+5603.9599	10	stimulus_end	2	56039599	56039607				
+5604.0919	10	stimulus_start	1	56040919	56040927	275.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0275.hdf5
+5614.072	10	stimulus_end	2	56140720	56140728				
+5614.204	10	stimulus_start	1	56142040	56142048	276.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0276.hdf5
+5624.1841	10	stimulus_end	2	56241841	56241849				
+5624.2948	10	stimulus_start	1	56242948	56242956	276.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0276.hdf5
+5634.2749	10	stimulus_end	2	56342749	56342757				
+5634.4069	10	stimulus_start	1	56344069	56344077	277.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0277.hdf5
+5644.387	10	stimulus_end	2	56443870	56443878				
+5644.4976	10	stimulus_start	1	56444976	56444984	277.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0277.hdf5
+5654.4777	10	stimulus_end	2	56544777	56544785				
+5654.5884	10	stimulus_start	1	56545884	56545892	278.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0278.hdf5
+5664.5685	10	stimulus_end	2	56645685	56645693				
+5664.7005	10	stimulus_start	1	56647005	56647013	278.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0278.hdf5
+5674.6806	10	stimulus_end	2	56746806	56746814				
+5674.8339	10	stimulus_start	1	56748339	56748347	279.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0279.hdf5
+5684.814	10	stimulus_end	2	56848140	56848148				
+5684.9247	10	stimulus_start	1	56849247	56849255	279.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0279.hdf5
+5694.9048	10	stimulus_end	2	56949048	56949056				
+5695.0368	10	stimulus_start	1	56950368	56950376	280.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0280.hdf5
+5705.0169	10	stimulus_end	2	57050169	57050177				
+5705.1489	10	stimulus_start	1	57051489	57051497	281.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0281.hdf5
+5715.129	10	stimulus_end	2	57151290	57151298				
+5715.2397	10	stimulus_start	1	57152397	57152405	280.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0280.hdf5
+5725.2198	10	stimulus_end	2	57252198	57252206				
+5725.3731	10	stimulus_start	1	57253731	57253739	281.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0281.hdf5
+5735.3532	10	stimulus_end	2	57353532	57353540				
+5735.4852	10	stimulus_start	1	57354852	57354860	282.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0282.hdf5
+5745.4653	10	stimulus_end	2	57454653	57454661				
+5745.5973	10	stimulus_start	1	57455973	57455981	282.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0282.hdf5
+5755.5774	10	stimulus_end	2	57555774	57555782				
+5755.7094	10	stimulus_start	1	57557094	57557102	283.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0283.hdf5
+5765.6895	10	stimulus_end	2	57656895	57656903				
+5765.8215	10	stimulus_start	1	57658215	57658223	283.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0283.hdf5
+5775.8016	10	stimulus_end	2	57758016	57758024				
+5775.9123	10	stimulus_start	1	57759123	57759131	284.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0284.hdf5
+5785.8924	10	stimulus_end	2	57858924	57858932				
+5786.0244	10	stimulus_start	1	57860244	57860252	285.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0285.hdf5
+5796.0045	10	stimulus_end	2	57960045	57960053				
+5796.1578	10	stimulus_start	1	57961578	57961586	284.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0284.hdf5
+5806.1379	10	stimulus_end	2	58061379	58061387				
+5806.2486	10	stimulus_start	1	58062486	58062494	285.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0285.hdf5
+5816.2286	10	stimulus_end	2	58162286	58162294				
+5816.3606	10	stimulus_start	1	58163606	58163614	286.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0286.hdf5
+5826.3407	10	stimulus_end	2	58263407	58263415				
+5826.4727	10	stimulus_start	1	58264727	58264735	286.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0286.hdf5
+5836.4528	10	stimulus_end	2	58364528	58364536				
+5836.5848	10	stimulus_start	1	58365848	58365856	287.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0287.hdf5
+5846.5649	10	stimulus_end	2	58465649	58465657				
+5846.6969	10	stimulus_start	1	58466969	58466977	287.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0287.hdf5
+5856.677	10	stimulus_end	2	58566770	58566778				
+5856.809	10	stimulus_start	1	58568090	58568098	288.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0288.hdf5
+5866.7891	10	stimulus_end	2	58667891	58667899				
+5866.9211	10	stimulus_start	1	58669211	58669219	289.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0289.hdf5
+5876.9012	10	stimulus_end	2	58769012	58769020				
+5877.0119	10	stimulus_start	1	58770119	58770127	288.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0288.hdf5
+5886.992	10	stimulus_end	2	58869920	58869928				
+5887.124	10	stimulus_start	1	58871240	58871248	289.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0289.hdf5
+5897.1041	10	stimulus_end	2	58971041	58971049				
+5897.2574	10	stimulus_start	1	58972574	58972582	290.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0290.hdf5
+5907.2375	10	stimulus_end	2	59072375	59072383				
+5907.3695	10	stimulus_start	1	59073695	59073703	290.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0290.hdf5
+5917.3496	10	stimulus_end	2	59173496	59173504				
+5917.4816	10	stimulus_start	1	59174816	59174824	291.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0291.hdf5
+5927.4617	10	stimulus_end	2	59274617	59274625				
+5927.5937	10	stimulus_start	1	59275937	59275945	291.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0291.hdf5
+5937.5738	10	stimulus_end	2	59375738	59375746				
+5937.7272	10	stimulus_start	1	59377272	59377280	292.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0292.hdf5
+5947.7073	10	stimulus_end	2	59477073	59477081				
+5947.8393	10	stimulus_start	1	59478393	59478401	292.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0292.hdf5
+5957.8194	10	stimulus_end	2	59578194	59578202				
+5957.93	10	stimulus_start	1	59579300	59579308	293.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0293.hdf5
+5967.9101	10	stimulus_end	2	59679101	59679109				
+5968.0421	10	stimulus_start	1	59680421	59680429	293.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0293.hdf5
+5978.0222	10	stimulus_end	2	59780222	59780230				
+5978.1542	10	stimulus_start	1	59781542	59781550	294.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0294.hdf5
+5988.1343	10	stimulus_end	2	59881343	59881351				
+5988.2237	10	stimulus_start	1	59882237	59882245	294.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0294.hdf5
+5998.2038	10	stimulus_end	2	59982038	59982046				
+5998.3358	10	stimulus_start	1	59983358	59983366	295.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0295.hdf5
+6008.3159	10	stimulus_end	2	60083159	60083167				
+6008.4479	10	stimulus_start	1	60084479	60084487	295.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0295.hdf5
+6018.428	10	stimulus_end	2	60184280	60184288				
+6018.5386	10	stimulus_start	1	60185386	60185394	296.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0296.hdf5
+6028.5187	10	stimulus_end	2	60285187	60285195				
+6028.6294	10	stimulus_start	1	60286294	60286302	296.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0296.hdf5
+6038.6095	10	stimulus_end	2	60386095	60386103				
+6038.7202	10	stimulus_start	1	60387202	60387210	297.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0297.hdf5
+6048.7003	10	stimulus_end	2	60487003	60487011				
+6048.8109	10	stimulus_start	1	60488109	60488117	297.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0297.hdf5
+6058.791	10	stimulus_end	2	60587910	60587918				
+6058.923	10	stimulus_start	1	60589230	60589238	298.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0298.hdf5
+6068.9031	10	stimulus_end	2	60689031	60689039				
+6068.9925	10	stimulus_start	1	60689925	60689933	298.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0298.hdf5
+6078.9726	10	stimulus_end	2	60789726	60789734				
+6079.1046	10	stimulus_start	1	60791046	60791054	299.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0299.hdf5
+6089.0847	10	stimulus_end	2	60890847	60890855				
+6089.1953	10	stimulus_start	1	60891953	60891961	299.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0299.hdf5
+6099.1754	10	stimulus_end	2	60991754	60991762				
+6099.2861	10	stimulus_start	1	60992861	60992869	300.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0300.hdf5
+6109.2662	10	stimulus_end	2	61092662	61092670				
+6109.3982	10	stimulus_start	1	61093982	61093990	300.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0300.hdf5
+6119.3783	10	stimulus_end	2	61193783	61193791				
+6119.5103	10	stimulus_start	1	61195103	61195111	301.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0301.hdf5
+6129.4904	10	stimulus_end	2	61294904	61294912				
+6129.601	10	stimulus_start	1	61296010	61296018	301.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0301.hdf5
+6139.5811	10	stimulus_end	2	61395811	61395819				
+6139.6918	10	stimulus_start	1	61396918	61396926	302.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0302.hdf5
+6149.6719	10	stimulus_end	2	61496719	61496727				
+6149.8039	10	stimulus_start	1	61498039	61498047	303.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0303.hdf5
+6159.784	10	stimulus_end	2	61597840	61597848				
+6159.8947	10	stimulus_start	1	61598947	61598955	302.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0302.hdf5
+6169.8748	10	stimulus_end	2	61698748	61698756				
+6170.0281	10	stimulus_start	1	61700281	61700289	303.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0303.hdf5
+6180.0082	10	stimulus_end	2	61800082	61800090				
+6180.1189	10	stimulus_start	1	61801189	61801197	304.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0304.hdf5
+6190.099	10	stimulus_end	2	61900990	61900998				
+6190.231	10	stimulus_start	1	61902310	61902318	304.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0304.hdf5
+6200.2111	10	stimulus_end	2	62002111	62002119				
+6200.3217	10	stimulus_start	1	62003217	62003225	305.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0305.hdf5
+6210.3018	10	stimulus_end	2	62103018	62103026				
+6210.4125	10	stimulus_start	1	62104125	62104133	305.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0305.hdf5
+6220.3926	10	stimulus_end	2	62203926	62203934				
+6220.5459	10	stimulus_start	1	62205459	62205467	306.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0306.hdf5
+6230.526	10	stimulus_end	2	62305260	62305268				
+6230.658	10	stimulus_start	1	62306580	62306588	307.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0307.hdf5
+6240.6381	10	stimulus_end	2	62406381	62406389				
+6240.7701	10	stimulus_start	1	62407701	62407709	306.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0306.hdf5
+6250.7502	10	stimulus_end	2	62507502	62507510				
+6250.8822	10	stimulus_start	1	62508822	62508830	307.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0307.hdf5
+6260.8623	10	stimulus_end	2	62608623	62608631				
+6260.9943	10	stimulus_start	1	62609943	62609951	308.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0308.hdf5
+6270.9744	10	stimulus_end	2	62709744	62709752				
+6271.0851	10	stimulus_start	1	62710851	62710859	309.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0309.hdf5
+6281.0652	10	stimulus_end	2	62810652	62810660				
+6281.1972	10	stimulus_start	1	62811972	62811980	308.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0308.hdf5
+6291.1773	10	stimulus_end	2	62911773	62911781				
+6291.288	10	stimulus_start	1	62912880	62912888	309.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0309.hdf5
+6301.2681	10	stimulus_end	2	63012681	63012689				
+6301.4001	10	stimulus_start	1	63014001	63014009	310.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0310.hdf5
+6311.3802	10	stimulus_end	2	63113802	63113810				
+6311.5335	10	stimulus_start	1	63115335	63115343	311.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0311.hdf5
+6321.5136	10	stimulus_end	2	63215136	63215144				
+6321.6456	10	stimulus_start	1	63216456	63216464	310.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0310.hdf5
+6331.6257	10	stimulus_end	2	63316257	63316265				
+6331.7577	10	stimulus_start	1	63317577	63317585	311.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0311.hdf5
+6341.7378	10	stimulus_end	2	63417378	63417386				
+6341.8698	10	stimulus_start	1	63418698	63418706	312.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0312.hdf5
+6351.8499	10	stimulus_end	2	63518499	63518507				
+6351.9606	10	stimulus_start	1	63519606	63519614	312.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0312.hdf5
+6361.9407	10	stimulus_end	2	63619407	63619415				
+6362.0513	10	stimulus_start	1	63620513	63620521	313.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0313.hdf5
+6372.0314	10	stimulus_end	2	63720314	63720322				
+6372.1848	10	stimulus_start	1	63721848	63721856	313.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0313.hdf5
+6382.1648	10	stimulus_end	2	63821648	63821656				
+6382.2969	10	stimulus_start	1	63822969	63822977	314.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0314.hdf5
+6392.2769	10	stimulus_end	2	63922769	63922777				
+6392.4089	10	stimulus_start	1	63924089	63924097	315.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0315.hdf5
+6402.389	10	stimulus_end	2	64023890	64023898				
+6402.4997	10	stimulus_start	1	64024997	64025005	314.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0314.hdf5
+6412.4798	10	stimulus_end	2	64124798	64124806				
+6412.6331	10	stimulus_start	1	64126331	64126339	315.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0315.hdf5
+6422.6132	10	stimulus_end	2	64226132	64226140				
+6422.7239	10	stimulus_start	1	64227239	64227247	316.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0316.hdf5
+6432.704	10	stimulus_end	2	64327040	64327048				
+6432.8787	10	stimulus_start	1	64328787	64328795	316.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0316.hdf5
+6442.8588	10	stimulus_end	2	64428588	64428596				
+6443.0121	10	stimulus_start	1	64430121	64430129	317.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0317.hdf5
+6452.9922	10	stimulus_end	2	64529922	64529930				
+6453.1242	10	stimulus_start	1	64531242	64531250	317.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0317.hdf5
+6463.1043	10	stimulus_end	2	64631043	64631051				
+6463.215	10	stimulus_start	1	64632150	64632158	318.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0318.hdf5
+6473.1951	10	stimulus_end	2	64731951	64731959				
+6473.3484	10	stimulus_start	1	64733484	64733492	318.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0318.hdf5
+6483.3285	10	stimulus_end	2	64833285	64833293				
+6483.4392	10	stimulus_start	1	64834392	64834400	319.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0319.hdf5
+6493.4193	10	stimulus_end	2	64934193	64934201				
+6493.5513	10	stimulus_start	1	64935513	64935521	319.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0319.hdf5
+6503.5314	10	stimulus_end	2	65035314	65035322				
+6503.6847	10	stimulus_start	1	65036847	65036855	320.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0320.hdf5
+6513.6648	10	stimulus_end	2	65136648	65136656				
+6513.7541	10	stimulus_start	1	65137541	65137549	320.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0320.hdf5
+6523.7342	10	stimulus_end	2	65237342	65237350				
+6523.8449	10	stimulus_start	1	65238449	65238457	321.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0321.hdf5
+6533.825	10	stimulus_end	2	65338250	65338258				
+6533.9357	10	stimulus_start	1	65339357	65339365	321.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0321.hdf5
+6543.9158	10	stimulus_end	2	65439158	65439166				
+6544.0264	10	stimulus_start	1	65440264	65440272	322.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0322.hdf5
+6554.0065	10	stimulus_end	2	65540065	65540073				
+6554.1385	10	stimulus_start	1	65541385	65541393	322.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0322.hdf5
+6564.1186	10	stimulus_end	2	65641186	65641194				
+6564.2506	10	stimulus_start	1	65642506	65642514	323.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0323.hdf5
+6574.2307	10	stimulus_end	2	65742307	65742315				
+6574.3841	10	stimulus_start	1	65743841	65743849	323.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0323.hdf5
+6584.3642	10	stimulus_end	2	65843642	65843650				
+6584.4962	10	stimulus_start	1	65844962	65844970	324.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0324.hdf5
+6594.4763	10	stimulus_end	2	65944763	65944771				
+6594.6083	10	stimulus_start	1	65946083	65946091	324.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0324.hdf5
+6604.5884	10	stimulus_end	2	66045884	66045892				
+6604.7204	10	stimulus_start	1	66047204	66047212	325.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0325.hdf5
+6614.7005	10	stimulus_end	2	66147005	66147013				
+6614.8538	10	stimulus_start	1	66148538	66148546	325.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0325.hdf5
+6624.8339	10	stimulus_end	2	66248339	66248347				
+6624.9659	10	stimulus_start	1	66249659	66249667	326.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0326.hdf5
+6634.946	10	stimulus_end	2	66349460	66349468				
+6635.0567	10	stimulus_start	1	66350567	66350575	327.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0327.hdf5
+6645.0368	10	stimulus_end	2	66450368	66450376				
+6645.1688	10	stimulus_start	1	66451688	66451696	326.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0326.hdf5
+6655.1489	10	stimulus_end	2	66551489	66551497				
+6655.2809	10	stimulus_start	1	66552809	66552817	327.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0327.hdf5
+6665.2609	10	stimulus_end	2	66652609	66652617				
+6665.393	10	stimulus_start	1	66653930	66653938	328.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0328.hdf5
+6675.373	10	stimulus_end	2	66753730	66753738				
+6675.505	10	stimulus_start	1	66755050	66755058	329.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0329.hdf5
+6685.4851	10	stimulus_end	2	66854851	66854859				
+6685.5958	10	stimulus_start	1	66855958	66855966	328.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0328.hdf5
+6695.5759	10	stimulus_end	2	66955759	66955767				
+6695.7079	10	stimulus_start	1	66957079	66957087	329.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0329.hdf5
+6705.688	10	stimulus_end	2	67056880	67056888				
+6705.82	10	stimulus_start	1	67058200	67058208	330.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0330.hdf5
+6715.8001	10	stimulus_end	2	67158001	67158009				
+6715.9321	10	stimulus_start	1	67159321	67159329	330.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0330.hdf5
+6725.9122	10	stimulus_end	2	67259122	67259130				
+6726.0655	10	stimulus_start	1	67260655	67260663	331.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0331.hdf5
+6736.0456	10	stimulus_end	2	67360456	67360464				
+6736.1776	10	stimulus_start	1	67361776	67361784	331.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0331.hdf5
+6746.1577	10	stimulus_end	2	67461577	67461585				
+6746.2897	10	stimulus_start	1	67462897	67462905	332.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0332.hdf5
+6756.2698	10	stimulus_end	2	67562698	67562706				
+6756.4232	10	stimulus_start	1	67564232	67564240	332.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0332.hdf5
+6766.4033	10	stimulus_end	2	67664033	67664041				
+6766.5139	10	stimulus_start	1	67665139	67665147	333.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0333.hdf5
+6776.494	10	stimulus_end	2	67764940	67764948				
+6776.6047	10	stimulus_start	1	67766047	67766055	333.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0333.hdf5
+6786.5848	10	stimulus_end	2	67865848	67865856				
+6786.7168	10	stimulus_start	1	67867168	67867176	334.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0334.hdf5
+6796.6969	10	stimulus_end	2	67966969	67966977				
+6796.8076	10	stimulus_start	1	67968076	67968084	335.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0335.hdf5
+6806.7877	10	stimulus_end	2	68067877	68067885				
+6806.941	10	stimulus_start	1	68069410	68069418	334.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0334.hdf5
+6816.9211	10	stimulus_end	2	68169211	68169219				
+6817.0318	10	stimulus_start	1	68170318	68170326	335.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0335.hdf5
+6827.0119	10	stimulus_end	2	68270119	68270127				
+6827.1225	10	stimulus_start	1	68271225	68271233	336.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0336.hdf5
+6837.1026	10	stimulus_end	2	68371026	68371034				
+6837.256	10	stimulus_start	1	68372560	68372568	336.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0336.hdf5
+6847.2361	10	stimulus_end	2	68472361	68472369				
+6847.3467	10	stimulus_start	1	68473467	68473475	337.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0337.hdf5
+6857.3268	10	stimulus_end	2	68573268	68573276				
+6857.4588	10	stimulus_start	1	68574588	68574596	337.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0337.hdf5
+6867.4389	10	stimulus_end	2	68674389	68674397				
+6867.5709	10	stimulus_start	1	68675709	68675717	338.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0338.hdf5
+6877.551	10	stimulus_end	2	68775510	68775518				
+6877.683	10	stimulus_start	1	68776830	68776838	339.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0339.hdf5
+6887.6631	10	stimulus_end	2	68876631	68876639				
+6887.7951	10	stimulus_start	1	68877951	68877959	338.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0338.hdf5
+6897.7752	10	stimulus_end	2	68977752	68977760				
+6897.9072	10	stimulus_start	1	68979072	68979080	339.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0339.hdf5
+6907.8873	10	stimulus_end	2	69078873	69078881				
+6907.998	10	stimulus_start	1	69079980	69079988	340.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0340.hdf5
+6917.9781	10	stimulus_end	2	69179781	69179789				
+6918.1101	10	stimulus_start	1	69181101	69181109	340.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0340.hdf5
+6928.0902	10	stimulus_end	2	69280902	69280910				
+6928.2435	10	stimulus_start	1	69282435	69282443	341.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0341.hdf5
+6938.2236	10	stimulus_end	2	69382236	69382244				
+6938.3769	10	stimulus_start	1	69383769	69383777	341.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0341.hdf5
+6948.357	10	stimulus_end	2	69483570	69483578				
+6948.5104	10	stimulus_start	1	69485104	69485112	342.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0342.hdf5
+6958.4905	10	stimulus_end	2	69584905	69584913				
+6958.6438	10	stimulus_start	1	69586438	69586446	343.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0343.hdf5
+6968.6239	10	stimulus_end	2	69686239	69686247				
+6968.7772	10	stimulus_start	1	69687772	69687780	342.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0342.hdf5
+6978.7573	10	stimulus_end	2	69787573	69787581				
+6978.9107	10	stimulus_start	1	69789107	69789115	343.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0343.hdf5
+6988.8908	10	stimulus_end	2	69888908	69888916				
+6989.0441	10	stimulus_start	1	69890441	69890449	344.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0344.hdf5
+6999.0242	10	stimulus_end	2	69990242	69990250				
+6999.1775	10	stimulus_start	1	69991775	69991783	344.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0344.hdf5
+7009.1576	10	stimulus_end	2	70091576	70091584				
+7009.2896	10	stimulus_start	1	70092896	70092904	345.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0345.hdf5
+7019.2697	10	stimulus_end	2	70192697	70192705				
+7019.3804	10	stimulus_start	1	70193804	70193812	345.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0345.hdf5
+7029.3605	10	stimulus_end	2	70293605	70293613				
+7029.4925	10	stimulus_start	1	70294925	70294933	346.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0346.hdf5
+7039.4726	10	stimulus_end	2	70394726	70394734				
+7039.6046	10	stimulus_start	1	70396046	70396054	346.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0346.hdf5
+7049.5847	10	stimulus_end	2	70495847	70495855				
+7049.6954	10	stimulus_start	1	70496954	70496962	347.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0347.hdf5
+7059.6755	10	stimulus_end	2	70596755	70596763				
+7059.8075	10	stimulus_start	1	70598075	70598083	347.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0347.hdf5
+7069.7876	10	stimulus_end	2	70697876	70697884				
+7069.9196	10	stimulus_start	1	70699196	70699204	348.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0348.hdf5
+7079.8997	10	stimulus_end	2	70798997	70799005				
+7080.0103	10	stimulus_start	1	70800103	70800111	348.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0348.hdf5
+7089.9904	10	stimulus_end	2	70899904	70899912				
+7090.1224	10	stimulus_start	1	70901224	70901232	349.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0349.hdf5
+7100.1025	10	stimulus_end	2	71001025	71001033				
+7100.2559	10	stimulus_start	1	71002559	71002567	349.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0349.hdf5
+7110.236	10	stimulus_end	2	71102360	71102368				
+7110.368	10	stimulus_start	1	71103680	71103688	350.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0350.hdf5
+7120.3481	10	stimulus_end	2	71203481	71203489				
+7120.4801	10	stimulus_start	1	71204801	71204809	350.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0350.hdf5
+7130.4602	10	stimulus_end	2	71304602	71304610				
+7130.5922	10	stimulus_start	1	71305922	71305930	351.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0351.hdf5
+7140.5723	10	stimulus_end	2	71405723	71405731				
+7140.7256	10	stimulus_start	1	71407256	71407264	351.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0351.hdf5
+7150.7057	10	stimulus_end	2	71507057	71507065				
+7150.8377	10	stimulus_start	1	71508377	71508385	352.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0352.hdf5
+7160.8178	10	stimulus_end	2	71608178	71608186				
+7160.9498	10	stimulus_start	1	71609498	71609506	352.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0352.hdf5
+7170.9299	10	stimulus_end	2	71709299	71709307				
+7171.0619	10	stimulus_start	1	71710619	71710627	353.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0353.hdf5
+7181.042	10	stimulus_end	2	71810420	71810428				
+7181.174	10	stimulus_start	1	71811740	71811748	353.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0353.hdf5
+7191.1541	10	stimulus_end	2	71911541	71911549				
+7191.2861	10	stimulus_start	1	71912861	71912869	354.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0354.hdf5
+7201.2662	10	stimulus_end	2	72012662	72012670				
+7201.3982	10	stimulus_start	1	72013982	72013990	354.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0354.hdf5
+7211.3783	10	stimulus_end	2	72113783	72113791				
+7211.5103	10	stimulus_start	1	72115103	72115111	355.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0355.hdf5
+7221.4904	10	stimulus_end	2	72214904	72214912				
+7221.601	10	stimulus_start	1	72216010	72216018	355.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0355.hdf5
+7231.5811	10	stimulus_end	2	72315811	72315819				
+7231.7131	10	stimulus_start	1	72317131	72317139	356.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0356.hdf5
+7241.6932	10	stimulus_end	2	72416932	72416940				
+7241.8466	10	stimulus_start	1	72418466	72418474	356.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0356.hdf5
+7251.8267	10	stimulus_end	2	72518267	72518275				
+7251.9373	10	stimulus_start	1	72519373	72519381	357.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0357.hdf5
+7261.9174	10	stimulus_end	2	72619174	72619182				
+7262.0281	10	stimulus_start	1	72620281	72620289	357.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0357.hdf5
+7272.0082	10	stimulus_end	2	72720082	72720090				
+7272.1402	10	stimulus_start	1	72721402	72721410	358.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0358.hdf5
+7282.1203	10	stimulus_end	2	72821203	72821211				
+7282.231	10	stimulus_start	1	72822310	72822318	358.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0358.hdf5
+7292.2111	10	stimulus_end	2	72922111	72922119				
+7292.3217	10	stimulus_start	1	72923217	72923225	359.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0359.hdf5
+7302.3018	10	stimulus_end	2	73023018	73023026				
+7302.4338	10	stimulus_start	1	73024338	73024346	359.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0359.hdf5
+7312.4139	10	stimulus_end	2	73124139	73124147				
+7312.5459	10	stimulus_start	1	73125459	73125467	360.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0360.hdf5
+7322.526	10	stimulus_end	2	73225260	73225268				
+7322.658	10	stimulus_start	1	73226580	73226588	361.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0361.hdf5
+7332.6381	10	stimulus_end	2	73326381	73326389				
+7332.7701	10	stimulus_start	1	73327701	73327709	360.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0360.hdf5
+7342.7502	10	stimulus_end	2	73427502	73427510				
+7342.8822	10	stimulus_start	1	73428822	73428830	361.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0361.hdf5
+7352.8623	10	stimulus_end	2	73528623	73528631				
+7352.973	10	stimulus_start	1	73529730	73529738	362.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0362.hdf5
+7362.9531	10	stimulus_end	2	73629531	73629539				
+7363.0851	10	stimulus_start	1	73630851	73630859	363.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0363.hdf5
+7373.0652	10	stimulus_end	2	73730652	73730660				
+7373.1972	10	stimulus_start	1	73731972	73731980	362.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0362.hdf5
+7383.1773	10	stimulus_end	2	73831773	73831781				
+7383.288	10	stimulus_start	1	73832880	73832888	363.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0363.hdf5
+7393.2681	10	stimulus_end	2	73932681	73932689				
+7393.4001	10	stimulus_start	1	73934001	73934009	364.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0364.hdf5
+7403.3802	10	stimulus_end	2	74033802	74033810				
+7403.5122	10	stimulus_start	1	74035122	74035130	364.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0364.hdf5
+7413.4923	10	stimulus_end	2	74134923	74134931				
+7413.6243	10	stimulus_start	1	74136243	74136251	365.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0365.hdf5
+7423.6044	10	stimulus_end	2	74236044	74236052				
+7423.7364	10	stimulus_start	1	74237364	74237372	365.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0365.hdf5
+7433.7165	10	stimulus_end	2	74337165	74337173				
+7433.8485	10	stimulus_start	1	74338485	74338493	366.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0366.hdf5
+7443.8286	10	stimulus_end	2	74438286	74438294				
+7443.9392	10	stimulus_start	1	74439392	74439400	366.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0366.hdf5
+7453.9193	10	stimulus_end	2	74539193	74539201				
+7454.0513	10	stimulus_start	1	74540513	74540521	367.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0367.hdf5
+7464.0314	10	stimulus_end	2	74640314	74640322				
+7464.1421	10	stimulus_start	1	74641421	74641429	367.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0367.hdf5
+7474.1222	10	stimulus_end	2	74741222	74741230				
+7474.2542	10	stimulus_start	1	74742542	74742550	368.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0368.hdf5
+7484.2343	10	stimulus_end	2	74842343	74842351				
+7484.3663	10	stimulus_start	1	74843663	74843671	369.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0369.hdf5
+7494.3464	10	stimulus_end	2	74943464	74943472				
+7494.4784	10	stimulus_start	1	74944784	74944792	368.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0368.hdf5
+7504.4585	10	stimulus_end	2	75044585	75044593				
+7504.5691	10	stimulus_start	1	75045691	75045699	369.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0369.hdf5
+7514.5492	10	stimulus_end	2	75145492	75145500				
+7514.7026	10	stimulus_start	1	75147026	75147034	370.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0370.hdf5
+7524.6827	10	stimulus_end	2	75246827	75246835				
+7524.8147	10	stimulus_start	1	75248147	75248155	371.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0371.hdf5
+7534.7948	10	stimulus_end	2	75347948	75347956				
+7534.9268	10	stimulus_start	1	75349268	75349276	370.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0370.hdf5
+7544.9069	10	stimulus_end	2	75449069	75449077				
+7545.0175	10	stimulus_start	1	75450175	75450183	371.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0371.hdf5
+7554.9976	10	stimulus_end	2	75549976	75549984				
+7555.1296	10	stimulus_start	1	75551296	75551304	372.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0372.hdf5
+7565.1097	10	stimulus_end	2	75651097	75651105				
+7565.2417	10	stimulus_start	1	75652417	75652425	372.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0372.hdf5
+7575.2218	10	stimulus_end	2	75752218	75752226				
+7575.3538	10	stimulus_start	1	75753538	75753546	373.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0373.hdf5
+7585.3339	10	stimulus_end	2	75853339	75853347				
+7585.4873	10	stimulus_start	1	75854873	75854881	373.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0373.hdf5
+7595.4674	10	stimulus_end	2	75954674	75954682				
+7595.578	10	stimulus_start	1	75955780	75955788	374.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0374.hdf5
+7605.5581	10	stimulus_end	2	76055581	76055589				
+7605.6688	10	stimulus_start	1	76056688	76056696	375.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0375.hdf5
+7615.6489	10	stimulus_end	2	76156489	76156497				
+7615.7809	10	stimulus_start	1	76157809	76157817	374.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0374.hdf5
+7625.761	10	stimulus_end	2	76257610	76257618				
+7625.8717	10	stimulus_start	1	76258717	76258725	375.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0375.hdf5
+7635.8518	10	stimulus_end	2	76358518	76358526				
+7636.0051	10	stimulus_start	1	76360051	76360059	376.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0376.hdf5
+7645.9852	10	stimulus_end	2	76459852	76459860				
+7646.1172	10	stimulus_start	1	76461172	76461180	376.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0376.hdf5
+7656.0973	10	stimulus_end	2	76560973	76560981				
+7656.2293	10	stimulus_start	1	76562293	76562301	377.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0377.hdf5
+7666.2094	10	stimulus_end	2	76662094	76662102				
+7666.3414	10	stimulus_start	1	76663414	76663422	377.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0377.hdf5
+7676.3215	10	stimulus_end	2	76763215	76763223				
+7676.4535	10	stimulus_start	1	76764535	76764543	378.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0378.hdf5
+7686.4336	10	stimulus_end	2	76864336	76864344				
+7686.5869	10	stimulus_start	1	76865869	76865877	378.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0378.hdf5
+7696.567	10	stimulus_end	2	76965670	76965678				
+7696.699	10	stimulus_start	1	76966990	76966998	379.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0379.hdf5
+7706.6791	10	stimulus_end	2	77066791	77066799				
+7706.8111	10	stimulus_start	1	77068111	77068119	379.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0379.hdf5
+7716.7912	10	stimulus_end	2	77167912	77167920				
+7716.9232	10	stimulus_start	1	77169232	77169240	380.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0380.hdf5
+7726.9033	10	stimulus_end	2	77269033	77269041				
+7727.0566	10	stimulus_start	1	77270566	77270574	380.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0380.hdf5
+7737.0367	10	stimulus_end	2	77370367	77370375				
+7737.1901	10	stimulus_start	1	77371901	77371909	381.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0381.hdf5
+7747.1702	10	stimulus_end	2	77471702	77471710				
+7747.3022	10	stimulus_start	1	77473022	77473030	381.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0381.hdf5
+7757.2823	10	stimulus_end	2	77572823	77572831				
+7757.4143	10	stimulus_start	1	77574143	77574151	382.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0382.hdf5
+7767.3944	10	stimulus_end	2	77673944	77673952				
+7767.505	10	stimulus_start	1	77675050	77675058	382.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0382.hdf5
+7777.4851	10	stimulus_end	2	77774851	77774859				
+7777.6385	10	stimulus_start	1	77776385	77776393	383.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0383.hdf5
+7787.6186	10	stimulus_end	2	77876186	77876194				
+7787.7292	10	stimulus_start	1	77877292	77877300	383.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0383.hdf5
+7797.7093	10	stimulus_end	2	77977093	77977101				
+7797.8413	10	stimulus_start	1	77978413	77978421	384.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0384.hdf5
+7807.8214	10	stimulus_end	2	78078214	78078222				
+7807.9534	10	stimulus_start	1	78079534	78079542	384.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0384.hdf5
+7817.9335	10	stimulus_end	2	78179335	78179343				
+7818.1082	10	stimulus_start	1	78181082	78181090	385.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0385.hdf5
+7828.0883	10	stimulus_end	2	78280883	78280891				
+7828.2203	10	stimulus_start	1	78282203	78282211	385.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0385.hdf5
+7838.2004	10	stimulus_end	2	78382004	78382012				
+7838.3324	10	stimulus_start	1	78383324	78383332	386.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0386.hdf5
+7848.3125	10	stimulus_end	2	78483125	78483133				
+7848.4232	10	stimulus_start	1	78484232	78484240	387.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0387.hdf5
+7858.4033	10	stimulus_end	2	78584033	78584041				
+7858.5566	10	stimulus_start	1	78585566	78585574	386.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0386.hdf5
+7868.5367	10	stimulus_end	2	78685367	78685375				
+7868.6687	10	stimulus_start	1	78686687	78686695	387.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0387.hdf5
+7878.6488	10	stimulus_end	2	78786488	78786496				
+7878.7808	10	stimulus_start	1	78787808	78787816	388.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0388.hdf5
+7888.7609	10	stimulus_end	2	78887609	78887617				
+7888.8716	10	stimulus_start	1	78888716	78888724	388.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0388.hdf5
+7898.8517	10	stimulus_end	2	78988517	78988525				
+7899.005	10	stimulus_start	1	78990050	78990058	389.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0389.hdf5
+7908.9851	10	stimulus_end	2	79089851	79089859				
+7909.1171	10	stimulus_start	1	79091171	79091179	389.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0389.hdf5
+7919.0972	10	stimulus_end	2	79190972	79190980				
+7919.2292	10	stimulus_start	1	79192292	79192300	390.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0390.hdf5
+7929.2093	10	stimulus_end	2	79292093	79292101				
+7929.3413	10	stimulus_start	1	79293413	79293421	391.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0391.hdf5
+7939.3214	10	stimulus_end	2	79393214	79393222				
+7939.4534	10	stimulus_start	1	79394534	79394542	390.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0390.hdf5
+7949.4335	10	stimulus_end	2	79494335	79494343				
+7949.5655	10	stimulus_start	1	79495655	79495663	391.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0391.hdf5
+7959.5456	10	stimulus_end	2	79595456	79595464				
+7959.6776	10	stimulus_start	1	79596776	79596784	392.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0392.hdf5
+7969.6577	10	stimulus_end	2	79696577	79696585				
+7969.7897	10	stimulus_start	1	79697897	79697905	392.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0392.hdf5
+7979.7698	10	stimulus_end	2	79797698	79797706				
+7979.8805	10	stimulus_start	1	79798805	79798813	393.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0393.hdf5
+7989.8605	10	stimulus_end	2	79898605	79898613				
+7989.9925	10	stimulus_start	1	79899925	79899933	393.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0393.hdf5
+7999.9726	10	stimulus_end	2	79999726	79999734				
+8000.0833	10	stimulus_start	1	80000833	80000841	394.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0394.hdf5
+8010.0634	10	stimulus_end	2	80100634	80100642				
+8010.1954	10	stimulus_start	1	80101954	80101962	394.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0394.hdf5
+8020.1755	10	stimulus_end	2	80201755	80201763				
+8020.3075	10	stimulus_start	1	80203075	80203083	395.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0395.hdf5
+8030.2876	10	stimulus_end	2	80302876	80302884				
+8030.3983	10	stimulus_start	1	80303983	80303991	395.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0395.hdf5
+8040.3784	10	stimulus_end	2	80403784	80403792				
+8040.5104	10	stimulus_start	1	80405104	80405112	396.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0396.hdf5
+8050.4905	10	stimulus_end	2	80504905	80504913				
+8050.6011	10	stimulus_start	1	80506011	80506019	396.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0396.hdf5
+8060.5812	10	stimulus_end	2	80605812	80605820				
+8060.7132	10	stimulus_start	1	80607132	80607140	397.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0397.hdf5
+8070.6933	10	stimulus_end	2	80706933	80706941				
+8070.8253	10	stimulus_start	1	80708253	80708261	397.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0397.hdf5
+8080.8054	10	stimulus_end	2	80808054	80808062				
+8080.9588	10	stimulus_start	1	80809588	80809596	398.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0398.hdf5
+8090.9389	10	stimulus_end	2	80909389	80909397				
+8091.0709	10	stimulus_start	1	80910709	80910717	398.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0398.hdf5
+8101.051	10	stimulus_end	2	81010510	81010518				
+8101.183	10	stimulus_start	1	81011830	81011838	399.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0399.hdf5
+8111.1631	10	stimulus_end	2	81111631	81111639				
+8111.2951	10	stimulus_start	1	81112951	81112959	399.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0399.hdf5
+8121.2752	10	stimulus_end	2	81212752	81212760				
+8121.4285	10	stimulus_start	1	81214285	81214293	400.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0400.hdf5
+8131.4086	10	stimulus_end	2	81314086	81314094				
+8131.5406	10	stimulus_start	1	81315406	81315414	400.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0400.hdf5
+8141.5207	10	stimulus_end	2	81415207	81415215				
+8141.6527	10	stimulus_start	1	81416527	81416535	401.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0401.hdf5
+8151.6328	10	stimulus_end	2	81516328	81516336				
+8151.7435	10	stimulus_start	1	81517435	81517443	401.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0401.hdf5
+8161.7236	10	stimulus_end	2	81617236	81617244				
+8161.8556	10	stimulus_start	1	81618556	81618564	402.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0402.hdf5
+8171.8357	10	stimulus_end	2	81718357	81718365				
+8171.9463	10	stimulus_start	1	81719463	81719471	402.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0402.hdf5
+8181.9264	10	stimulus_end	2	81819264	81819272				
+8182.0584	10	stimulus_start	1	81820584	81820592	403.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0403.hdf5
+8192.0385	10	stimulus_end	2	81920385	81920393				
+8192.1492	10	stimulus_start	1	81921492	81921500	403.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0403.hdf5
+8202.1293	10	stimulus_end	2	82021293	82021301				
+8202.2613	10	stimulus_start	1	82022613	82022621	404.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0404.hdf5
+8212.2414	10	stimulus_end	2	82122414	82122422				
+8212.3947	10	stimulus_start	1	82123947	82123955	404.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0404.hdf5
+8222.3748	10	stimulus_end	2	82223748	82223756				
+8222.5068	10	stimulus_start	1	82225068	82225076	405.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0405.hdf5
+8232.4869	10	stimulus_end	2	82324869	82324877				
+8232.5976	10	stimulus_start	1	82325976	82325984	405.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0405.hdf5
+8242.5777	10	stimulus_end	2	82425777	82425785				
+8242.731	10	stimulus_start	1	82427310	82427318	406.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0406.hdf5
+8252.7111	10	stimulus_end	2	82527111	82527119				
+8252.8644	10	stimulus_start	1	82528644	82528652	406.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0406.hdf5
+8262.8445	10	stimulus_end	2	82628445	82628453				
+8262.9979	10	stimulus_start	1	82629979	82629987	407.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0407.hdf5
+8272.978	10	stimulus_end	2	82729780	82729788				
+8273.0886	10	stimulus_start	1	82730886	82730894	407.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0407.hdf5
+8283.0687	10	stimulus_end	2	82830687	82830695				
+8283.2221	10	stimulus_start	1	82832221	82832229	408.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0408.hdf5
+8293.2022	10	stimulus_end	2	82932022	82932030				
+8293.3342	10	stimulus_start	1	82933342	82933350	408.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0408.hdf5
+8303.3143	10	stimulus_end	2	83033143	83033151				
+8303.4463	10	stimulus_start	1	83034463	83034471	409.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0409.hdf5
+8313.4264	10	stimulus_end	2	83134264	83134272				
+8313.5797	10	stimulus_start	1	83135797	83135805	409.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0409.hdf5
+8323.5598	10	stimulus_end	2	83235598	83235606				
+8323.6918	10	stimulus_start	1	83236918	83236926	410.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0410.hdf5
+8333.6719	10	stimulus_end	2	83336719	83336727				
+8333.8252	10	stimulus_start	1	83338252	83338260	410.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0410.hdf5
+8343.8053	10	stimulus_end	2	83438053	83438061				
+8343.916	10	stimulus_start	1	83439160	83439168	411.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0411.hdf5
+8353.8961	10	stimulus_end	2	83538961	83538969				
+8354.0494	10	stimulus_start	1	83540494	83540502	411.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0411.hdf5
+8364.0295	10	stimulus_end	2	83640295	83640303				
+8364.1402	10	stimulus_start	1	83641402	83641410	412.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0412.hdf5
+8374.1203	10	stimulus_end	2	83741203	83741211				
+8374.2523	10	stimulus_start	1	83742523	83742531	413.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0413.hdf5
+8384.2324	10	stimulus_end	2	83842324	83842332				
+8384.3644	10	stimulus_start	1	83843644	83843652	412.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0412.hdf5
+8394.3445	10	stimulus_end	2	83943445	83943453				
+8394.4765	10	stimulus_start	1	83944765	83944773	413.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0413.hdf5
+8404.4566	10	stimulus_end	2	84044566	84044574				
+8404.5886	10	stimulus_start	1	84045886	84045894	414.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0414.hdf5
+8414.5687	10	stimulus_end	2	84145687	84145695				
+8414.7007	10	stimulus_start	1	84147007	84147015	415.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0415.hdf5
+8424.6808	10	stimulus_end	2	84246808	84246816				
+8424.8128	10	stimulus_start	1	84248128	84248136	414.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0414.hdf5
+8434.7929	10	stimulus_end	2	84347929	84347937				
+8434.9036	10	stimulus_start	1	84349036	84349044	415.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0415.hdf5
+8444.8837	10	stimulus_end	2	84448837	84448845				
+8445.0157	10	stimulus_start	1	84450157	84450165	416.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0416.hdf5
+8454.9958	10	stimulus_end	2	84549958	84549966				
+8455.1491	10	stimulus_start	1	84551491	84551499	417.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0417.hdf5
+8465.1292	10	stimulus_end	2	84651292	84651300				
+8465.2612	10	stimulus_start	1	84652612	84652620	416.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0416.hdf5
+8475.2413	10	stimulus_end	2	84752413	84752421				
+8475.3733	10	stimulus_start	1	84753733	84753741	417.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0417.hdf5
+8485.3534	10	stimulus_end	2	84853534	84853542				
+8485.4854	10	stimulus_start	1	84854854	84854862	418.0	0.0	toto_shifted	exp2_f0s/toto_shifted/toto_shifted_0418.hdf5
+8495.4655	10	stimulus_end	2	84954655	84954663				
+8495.5761	10	stimulus_start	1	84955761	84955769	419.0	1.0	toto_original	exp2_f0s/toto_original/toto_original_0419.hdf5
+8505.5562	10	stimulus_end	2	85055562	85055570				
+8505.6669	10	stimulus_start	1	85056669	85056677	418.0	2.0	wizardofoz_shifted	exp2_f0s/wizardofoz_shifted/wizardofoz_shifted_0418.hdf5
+8515.647	10	stimulus_end	2	85156470	85156478				
+8515.779	10	stimulus_start	1	85157790	85157798	419.0	3.0	wizardofoz_original	exp2_f0s/wizardofoz_original/wizardofoz_original_0419.hdf5
+8525.7591	10	stimulus_end	2	85257591	85257599				
