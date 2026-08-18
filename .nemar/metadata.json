@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Optimizing parameters for multiband ABRs to continuous speech",
+  "description": "This dataset comprises EEG recordings used to optimize parameters for measuring multiband auditory brainstem responses (ABRs) to continuous peaky speech. It includes two experiments: one examining the effect of stimulus phase profile (zero vs. chirp) on ABR amplitude, and another examining the effect of narrator fundamental frequency (f0) on ABR responses. The data support investigations into efficient, naturalistic methods for measuring subcortical auditory responses using continuous speech stimuli.",
+  "methods_description": "EEG data were recorded from participants seated in a darkened sound-isolating booth listening to continuous audiobook stimuli (peaky speech) presented at 65 dB SPL and 48 kHz sampling rate through ER-2 insert earphones connected to an RME Digiface USB sound card. Custom Python scripts using expyfun controlled stimulus presentation. Raw EEG was recorded in Brain Products BrainVision format (.eeg, .vhdr, .vmrk), with stimulus and regressor files stored in .hdf5 format for deconvolution analyses.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -25,6 +27,29 @@
       ]
     }
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "Auditory Brain Stem Response"
+    },
+    {
+      "term": "continuous speech"
+    },
+    {
+      "term": "multiband ABR"
+    },
+    {
+      "term": "fundamental frequency"
+    },
+    {
+      "term": "peaky speech"
+    },
+    {
+      "term": "auditory evoked potentials"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds008065.v1.0.0",
@@ -60,17 +85,13 @@
       "funder_name": "Hearing Health Foundation",
       "award_number": "972469",
       "award_title": "Emerging Research Grant"
-    },
-    {
-      "funder_name": "University of Minnesota",
-      "award_title": "Undergraduate Research Opportunities Program"
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "0.0 KB (5174 files)"
   ],
@@ -85,28 +106,6 @@
     ".vhdr",
     ".vmrk",
     ".yml"
-  ],
-  "description": "This dataset comprises multiband auditory brainstem responses (ABRs) recorded from 40 participants (15 in Experiment 1, 25 in Experiment 2) listening to continuous peaky speech stimuli. Experiment 1 investigates the effect of chirp-phase versus zero-phase profiles on ABR amplitudes, while Experiment 2 examines the influence of fundamental frequency (f0) across different narrators. The dataset includes raw EEG recordings in Brain Products format, stimulus files with audio and deconvolution regressors, and comprehensive event metadata, designed to optimize parameters for measuring frequency-specific ABRs to naturalistic speech.",
-  "methods_description": "EEG recordings were collected from participants seated in a sound-isolating booth while passively listening to audiobook stimuli presented at 65 dB SPL through ER-2 insert earphones at 48 kHz sampling rate. Experiment 1 (October-December 2022) presented 720 trials (120 minutes total) of multiband peaky speech with zero- or chirp-phase profiles. Experiment 2 (January-April 2023) presented 840 trials (140 minutes total) of multiband peaky speech from two narrators at natural and shifted fundamental frequencies (100 Hz). Stimulus presentation and experiment control were managed using custom Python scripts with expyfun. Raw EEG data were recorded in Brain Products format (.eeg, .vhdr, .vmrk files), with stimuli and regressors stored in HDF5 format.",
-  "keywords": [
-    {
-      "term": "auditory brainstem response"
-    },
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "speech perception"
-    },
-    {
-      "term": "fundamental frequency"
-    },
-    {
-      "term": "multiband analysis"
-    },
-    {
-      "term": "chirp stimuli"
-    }
   ],
   "source_hash": "a7d7e762a2388f91e13c89e2c6f4e060670f775ba3d9e4fa67c221f037eec4c0"
 }
