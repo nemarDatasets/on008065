@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Optimizing parameters for multiband ABRs to continuous speech",
-  "description": "This dataset comprises EEG recordings used to optimize parameters for measuring multiband auditory brainstem responses (ABRs) to continuous peaky speech. It includes two experiments: one examining the effect of stimulus phase profile (zero vs. chirp) on ABR amplitude, and another examining the effect of narrator fundamental frequency (f0) on ABR responses. The data support investigations into efficient, naturalistic methods for measuring subcortical auditory responses using continuous speech stimuli.",
-  "methods_description": "EEG data were recorded from participants seated in a darkened sound-isolating booth listening to continuous audiobook stimuli (peaky speech) presented at 65 dB SPL and 48 kHz sampling rate through ER-2 insert earphones connected to an RME Digiface USB sound card. Custom Python scripts using expyfun controlled stimulus presentation. Raw EEG was recorded in Brain Products BrainVision format (.eeg, .vhdr, .vmrk), with stimulus and regressor files stored in .hdf5 format for deconvolution analyses.",
+  "description": "EEG dataset of multiband auditory brainstem responses (ABRs) derived from continuous 'peaky' speech, collected to identify optimal stimulus parameters. Experiment 1 compares zero-phase and chirp-phase speech profiles in normal-hearing adults, and Experiment 2 compares narrators with different fundamental frequencies (natural versus shifted to 100 Hz). Data include raw BrainVision EEG recordings, event files, and HDF5 stimulus and regressor files for deconvolution.",
+  "methods_description": "Normal-hearing young adults listened to audiobook-based multiband peaky speech (dichotic, audiological bands) in a sound-isolating booth at about 65 dB SPL via ER-2 insert earphones, while EEG was recorded with BrainVision. Stimuli were presented in 10 s trials using custom expyfun Python scripts. Trials of different conditions were randomly interleaved, and triggers encoded condition, trial number and stimulus file.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -32,10 +32,13 @@
       "term": "EEG"
     },
     {
-      "term": "Auditory Brain Stem Response"
+      "term": "auditory brainstem response"
     },
     {
       "term": "continuous speech"
+    },
+    {
+      "term": "peaky speech"
     },
     {
       "term": "multiband ABR"
@@ -44,10 +47,12 @@
       "term": "fundamental frequency"
     },
     {
-      "term": "peaky speech"
+      "term": "chirp"
     },
     {
-      "term": "auditory evoked potentials"
+      "term": "Evoked Potentials, Auditory, Brain Stem",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D016057"
     }
   ],
   "related_identifiers": [
@@ -93,7 +98,7 @@
     "eeg"
   ],
   "sizes": [
-    "0.0 KB (5174 files)"
+    "94.34 GB (5174 files)"
   ],
   "formats": [
     ".csv",
